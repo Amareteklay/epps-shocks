@@ -1,0 +1,3339 @@
+DONid,Country,Year,DiseaseLevel1,CasesTotal,Deaths
+DON-1996-01-22-a,Cape Verde,1996,Cholera,12344,245
+DON-1996-01-22-a,Cote d'Ivoire,1996,Cholera,2027,150
+DON-1996-01-22-a,Iran,1996,Cholera,0,0
+DON-1996-01-22-a,Iraq,1996,Cholera,519,3
+DON-1996-01-22-a,Senegal,1996,Cholera,852,43
+DON-1996-01-22-b,Americas,1996,Dengue fever,>200000,
+DON-1996-01-22-b,Americas,1996,Dengue fever,>5500,
+DON-1996-01-22-c,Liberia,1996,Ebola virus,,
+DON-1996-01-22-d,Brazil,1996,Meningococcal disease,1106,
+DON-1996-01-22-e,Algeria,1996,Typhoid,,
+DON-1996-01-22-f,Burundi,1996,Cholera,>2300,
+DON-1996-02-02,Liberia,1996,Yellow fever,,
+DON-1996-02-05,Bosnia and Herzegovina,1996,Hantavirus,367,5
+DON-1996-02-08,Iran,1996,Cholera,0,0
+DON-1996-02-15,Africa,1996,Cholera,,
+DON-1996-02-19-a,Burkina Faso,1996,Syndromic: neurological,1138,57
+DON-1996-02-19-b,Gabon,1996,Ebola virus,20,13
+DON-1996-02-19-b,Gabon,1996,Ebola virus,19,10
+DON-1996-02-19-c,Nigeria,1996,Syndromic: neurological,>3000,>400
+DON-1996-02-29-a,Ecuador,1996,Cholera,416,4
+DON-1996-02-29-b,Gabon,1996,Ebola virus,24,17
+DON-1996-03-01-a,Nigeria,1996,Cholera,1487,99
+DON-1996-03-01-b,Nigeria,1996,Meningococcal disease,8423,1181
+DON-1996-03-01-c,Gabon,1996,Ebola virus,27,18
+DON-1996-03-06-a,Global,1996,Cholera,,
+DON-1996-03-06-b,Nigeria,1996,Meningococcal disease,15733,2411
+DON-1996-03-06-c,Nigeria,1996,Cholera,2662,288
+DON-1996-03-07-a,Nigeria,1996,Cholera,2836,299
+DON-1996-03-07-b,Nigeria,1996,Syndromic: neurological,17668,2550
+DON-1996-03-12-a,Chad,1996,Syndromic: neurological,244,19
+DON-1996-03-12-b,Nigeria,1996,Syndromic: neurological,,
+DON-1996-03-15-a,Nigeria,1996,Cholera,6117,487
+DON-1996-03-15-b,Benin,1996,Syndromic: neurological,251,34
+DON-1996-03-15-b,Burkina Faso,1996,Syndromic: neurological,8252,722
+DON-1996-03-15-b,Mali,1996,Syndromic: neurological,787,158
+DON-1996-03-15-b,Nigeria,1996,Syndromic: neurological,22545,3889
+DON-1996-03-15-b,Chad,1996,Syndromic: neurological,244,19
+DON-1996-03-15-b,Central African Republic,1996,Syndromic: neurological,152,22
+DON-1996-03-15-b,Cameroon,1996,Syndromic: neurological,5,1
+DON-1996-03-15-b,Niger,1996,Syndromic: neurological,4808,503
+DON-1996-03-15-c,Senegal,1996,Cholera,3031,188
+DON-1996-03-19,Benin,1996,Syndromic: neurological,362,46
+DON-1996-03-19,Burkina Faso,1996,Syndromic: neurological,9532,859
+DON-1996-03-19,Mali,1996,Syndromic: neurological,787,158
+DON-1996-03-19,Nigeria,1996,Syndromic: neurological,20982,3634
+DON-1996-03-19,Chad,1996,Syndromic: neurological,244,19
+DON-1996-03-19,Central African Republic,1996,Syndromic: neurological,155,22
+DON-1996-03-19,Cameroon,1996,Syndromic: neurological,5,1
+DON-1996-03-19,Niger,1996,Syndromic: neurological,5529,584
+DON-1996-03-19,Ghana,1996,Syndromic: neurological,18,0
+DON-1996-03-19,Tanzania,1996,Syndromic: neurological,99,8
+DON-1996-03-19,Togo,1996,Syndromic: neurological,183,33
+DON-1996-03-21,United Kingdom,1996,Transmissible spongiform encephalopathy,10,
+DON-1996-03-27,Benin,1996,Syndromic: neurological,424,56
+DON-1996-03-27,Burkina Faso,1996,Syndromic: neurological,11866,1064
+DON-1996-03-27,Mali,1996,Syndromic: neurological,1404,227
+DON-1996-03-27,Nigeria,1996,Syndromic: neurological,30212,4346
+DON-1996-03-27,Chad,1996,Syndromic: neurological,505,53
+DON-1996-03-27,Central African Republic,1996,Syndromic: neurological,155,122
+DON-1996-03-27,Cameroon,1996,Syndromic: neurological,5,1
+DON-1996-03-27,Niger,1996,Syndromic: neurological,6518,676
+DON-1996-03-27,Ghana,1996,Syndromic: neurological,18,0
+DON-1996-03-27,Tanzania,1996,Syndromic: neurological,99,8
+DON-1996-03-27,Togo,1996,Syndromic: neurological,505,53
+DON-1996-03-27,Zaire,1996,Syndromic: neurological,69,5
+DON-1996-03-28,United Kingdom,1996,Transmissible spongiform encephalopathy,10,
+DON-1996-04-02,Zaire,1996,Cholera,147,33
+DON-1996-04-04,United Kingdom,1996,Transmissible spongiform encephalopathy,,
+DON-1996-04-11,India,1996,Buffalopox,,
+DON-1996-04-17,United States,1996,Ebola virus,0,0
+DON-1996-04-26-a,Liberia,1996,Cholera,>47,
+DON-1996-04-26-b,Gabon,1996,Ebola virus,37,
+DON-1996-04-30,Philippines,1996,Ebola virus,0,0
+DON-1996-05-03,Mali,1996,Meningococcal disease,2347,319
+DON-1996-05-15,Sierra Leone,1996,Lassa fever,,46
+DON-1996-05-20,Malaysia,1996,Cholera,,
+DON-1996-05-28,Sierra Leone,1996,Lassa fever,87,47
+DON-1996-05-31,Spain,1996,Meningococcal disease,,2
+DON-1996-06-03,Spain,1996,Meningococcal disease,,
+DON-1996-06-03,United Kingdom,1996,Meningococcal disease,,
+DON-1996-06-14-a,Sierra Leone,1996,Lassa fever,167,60
+DON-1996-06-14-b,Malaysia,1996,Dengue fever,2450,
+DON-1996-06-14-b,Indonesia,1996,Dengue fever,5000,117
+DON-1996-06-14-c,Philippines,1996,Cholera,214,4
+DON-1996-06-14-d,Malaysia,1996,Cholera,,0
+DON-1996-07-05-a,Chad,1996,Cholera,601,51
+DON-1996-07-05-b,Zaire,1996,Cholera,821,179
+DON-1996-07-11,Mozambique,1996,Syndromic: neurological,18,4
+DON-1996-07-18,Philippines,1996,Dengue fever,1485,26
+DON-1996-07-18,Malaysia,1996,Dengue fever,4813,13
+DON-1996-07-19-a,Laos,1996,Diptheria,72,4
+DON-1996-07-19-a,Thailand,1996,Diptheria,20,
+DON-1996-07-19-b,Chad,1996,Cholera,1317,94
+DON-1996-07-19-c,Nigeria,1996,Cholera,11139,1165
+DON-1996-07-26,Japan,1996,E. coli,6352,
+DON-1996-07-30,Sierra Leone,1996,Lassa fever,246,73
+DON-1996-08-02,Tajikistan,1996,Typhoid,4000,
+DON-1996-08-06-a,Tajikistan,1996,Typhoid,7516,
+DON-1996-08-06-b,Mexico,1996,Venezuelan equine encephalitis,0,0
+DON-1996-08-12-a,India,1996,Syndromic: gastrointestinal,105,
+DON-1996-08-12-b,Cyprus,1996,Syndromic: neurological,223,
+DON-1996-08-12-c,Ghana,1996,Malaria,,
+DON-1996-08-13-a,Venezuela,1996,Dengue fever,293,
+DON-1996-08-13-b,Mongolia,1996,Cholera,,
+DON-1996-08-14-a,Liberia,1996,Cholera,,
+DON-1996-08-14-b,Mozambique,1996,Syndromic: neurological,157,9
+DON-1996-08-14-c,Mongolia,1996,Cholera,52,6
+DON-1996-08-21-a,Mongolia,1996,Cholera,106,8
+DON-1996-08-21-b,Cyprus,1996,Syndromic: neurological,280,0
+DON-1996-08-28,Japan,1996,E. coli,9578,11
+DON-1996-09-02-a,Romania,1996,Syndromic: neurological,281,14
+DON-1996-09-02-b,Uganda,1996,Syndromic: neurological,,
+DON-1996-09-03,Romania,1996,Syndromic: neurological,303,17
+DON-1996-09-09,Romania,1996,Syndromic: neurological,342,17
+DON-1996-09-12,Philippines,1996,Cholera,284,5
+DON-1996-09-18,Albania,1996,Polio,66,7
+DON-1996-09-24,Romania,1996,Syndromic: neurological,450,39
+DON-1996-10-02,Benin,1996,Yellow fever,48,37
+DON-1996-10-04,Nepal,1996,Japanese encephalitis,697,118
+DON-1996-10-14,Gabon,1996,Ebola virus,37,
+DON-1996-10-15-a,Romania,1996,Syndromic: neurological,,
+DON-1996-10-15-b,Gabon,1996,Ebola virus,14,10
+DON-1996-10-17-a,India,1996,Dengue fever,,
+DON-1996-10-17-b,Guinea-Bissau,1996,Cholera,143,7
+DON-1996-10-17-b,Senegal,1996,Cholera,,
+DON-1996-10-17-b,Togo,1996,Cholera,143,7
+DON-1996-10-18,Gabon,1996,Ebola virus,18,11
+DON-1996-10-21,Gabon,1996,Ebola virus,19,11
+DON-1996-10-24,India,1996,Dengue fever,5930,251
+DON-1996-10-31-a,India,1996,Dengue fever,7427,297
+DON-1996-10-31-b,Brazil,1996,Yellow fever,2,2
+DON-1996-10-31-c,Benin,1996,Yellow fever,86,65
+DON-1996-11-05,South Africa,1996,Crimean-Congo haemorrhagic fever,32,1
+DON-1996-11-12-a,Gabon,1996,Ebola virus,24,17
+DON-1996-11-12-b,India,1996,Dengue fever,8170,319
+DON-1996-11-15-a,India,1996,Dengue fever,8514,336
+DON-1996-11-15-b,Zaire,1996,Cholera,,
+DON-1996-11-18,South Africa,1996,Ebola virus,1,0
+DON-1996-11-19,Gabon,1996,Ebola virus,,
+DON-1996-11-20,India,1996,Dengue fever,8684,346
+DON-1996-11-22,South Africa,1996,Ebola virus,2,0
+DON-1996-11-25,Gabon,1996,Ebola virus,27,19
+DON-1996-11-28-a,India,1996,Dengue fever,8777,354
+DON-1996-11-28-b,South Africa,1996,Ebola virus,2,1
+DON-1996-11-28-c,Rwanda,1996,Syndromic: diarrhoeal,9407,38
+DON-1996-12-05,Ghana,1996,Yellow fever,27,5
+DON-1996-12-06-a,Gabon,1996,Ebola virus,27,19
+DON-1996-12-06-b,Ghana,1996,Yellow fever,,
+DON-1996-12-06-c,Tanzania,1996,Cholera,1100,6
+DON-1996-12-13-a,Rwanda,1996,Cholera,106,10
+DON-1996-12-13-a,Zaire,1996,Cholera,1133,23
+DON-1996-12-13-b,United Kingdom,1996,E. coli,396,11
+DON-1996-12-20,Gabon,1996,Ebola virus,,8
+DON-1996-12-24,Gabon,1996,Ebola virus,40,30
+DON-1997-01-02,Gabon,1997,Ebola virus,52,40
+DON-1997-01-08,Gabon,1997,Ebola virus,54,41
+DON-1997-01-09-a,Burundi,1997,Cholera,153,10
+DON-1997-01-09-b,Gabon,1997,Ebola virus,58,43
+DON-1997-01-16,Gabon,1997,Ebola virus,59,44
+DON-1997-01-17-a,Guadeloupe,1997,Measles,,
+DON-1997-01-17-b,Burundi,1997,Cholera,482,21
+DON-1997-01-20,Zaire,1997,Cholera,56,2
+DON-1997-01-21,Gabon,1997,Ebola virus,60,45
+DON-1997-01-22,Bolivia,1997,Cholera,723,6
+DON-1997-01-24,Togo,1997,Syndromic: neurological,522,97
+DON-1997-01-27,Togo,1997,Syndromic: neurological,739,121
+DON-1997-01-31-a,Togo,1997,Syndromic: neurological,961,143
+DON-1997-01-31-a,Burkina Faso,1997,Syndromic: neurological,461,64
+DON-1997-01-31-a,Ghana,1997,Syndromic: neurological,181,17
+DON-1997-01-31-a,Mali,1997,Syndromic: neurological,180,26
+DON-1997-01-31-b,Zambia,1997,Plague,90,22
+DON-1997-02-07-a,Gabon,1997,Ebola virus,61,45
+DON-1997-02-07-b,Zambia,1997,Plague,267,26
+DON-1997-02-07-c,Togo,1997,Syndromic: neurological,1235,151
+DON-1997-02-20,,1997,Influenza A,,
+DON-1997-02-28-a,Cook Islands,1997,Dengue fever,123,
+DON-1997-02-28-b,Tadjikistan,1997,Typhoid,>3000,
+DON-1997-02-28-c,Spain,1997,Meningococcal disease,1383,
+DON-1997-03-02,Gabon,1997,Ebola virus,60,45
+DON-1997-03-06,Ghana,1997,Syndromic: neurological,1659,281
+DON-1997-03-11,Bolivia,1997,Yellow fever,47,33
+DON-1997-03-12,Uganda,1997,O'nyong-nyong fever,,0
+DON-1997-03-21-a,Ghana,1997,Syndromic: neurological,3757,411
+DON-1997-03-21-a,Burkina Faso,1997,Syndromic: neurological,10000,1200
+DON-1997-03-21-a,Chad,1997,Syndromic: neurological,38,6
+DON-1997-03-21-a,Gambia,1997,Syndromic: neurological,151,17
+DON-1997-03-21-a,Mali,1997,Syndromic: neurological,1549,160
+DON-1997-03-21-a,Togo,1997,Syndromic: neurological,2380,329
+DON-1997-03-21-b,Sierra Leone,1997,Lassa fever,239,39
+DON-1997-03-21-c,Democratic Republic of the Congo,1997,Monkeypox,,
+DON-1997-03-27,West Africa,1997,Syndromic: neurological,24798,2933
+DON-1997-03-27,Ghana,1997,Syndromic: neurological,8671,902
+DON-1997-03-27,Burkina Faso,1997,Syndromic: neurological,10429,1318
+DON-1997-04-11,Burkina Faso,1997,Syndromic: neurological,16775,1953
+DON-1997-04-11,Ghana,1997,Syndromic: neurological,13063,1191
+DON-1997-04-11,Mali,1997,Syndromic: neurological,6119,587
+DON-1997-04-11,Benin,1997,Syndromic: neurological,273,47
+DON-1997-04-11,Gambia,1997,Syndromic: neurological,856,119
+DON-1997-04-11,Niger,1997,Syndromic: neurological,1813,208
+DON-1997-04-11,Rwanda,1997,Syndromic: neurological,10,4
+DON-1997-04-11,Senegal,1997,Syndromic: neurological,13,4
+DON-1997-04-11,Togo,1997,Syndromic: neurological,2619,360
+DON-1997-04-14,Zaire,1997,Monkeypox,,
+DON-1997-04-15-a,Somalia,1997,Cholera,1535,47
+DON-1997-04-15-b,Zaire,1997,Cholera,,
+DON-1997-04-24-a,,1997,Cholera,,
+DON-1997-04-24-b,Zaire,1997,Monkeypox,,
+DON-1997-05-01,Sierra Leone,1997,Lassa fever,799,148
+DON-1997-05-06-a,,1997,Rabies,,
+DON-1997-05-06-b,Tanzania,1997,Cholera,<3000,>100
+DON-1997-05-06-c,Burundi,1997,Typhus,24000,
+DON-1997-05-09,Somalia,1997,Cholera,4437,146
+DON-1997-05-22,Sierra Leone,1997,Lassa fever,353,43
+DON-1997-06-04,Somalia,1997,Cholera,5557,247
+DON-1997-06-05,Ghana,1997,Anthrax,185,26
+DON-1997-06-06,Malaysia,1997,Syndromic: cardiovascular,,17
+DON-1997-06-10,Malaysia,1997,Syndromic: cardiovascular,,21
+DON-1997-06-18,Cuba,1997,Dengue fever,826,3
+DON-1997-06-19-a,Malaysia,1997,Syndromic: cardiovascular,,26
+DON-1997-06-19-b,,1997,Staphylococcus,,
+DON-1997-06-26,Malaysia,1997,Syndromic: cardiovascular,,29
+DON-1997-07-03,Malaysia,1997,Syndromic: cardiovascular,,30
+DON-1997-07-07,Gaza,1997,Syndromic: neurological,180,
+DON-1997-07-30,Central African Republic,1997,Cholera,44,8
+DON-1997-07-31-a,Malaysia,1997,Dengue fever,11328,28
+DON-1997-07-31-b,Democratic Republic of the Congo,1997,Monkeypox,170,0
+DON-1997-08-08,Mozambique,1997,Plague,115,0
+DON-1997-08-11,Liberia,1997,Yellow fever,2,
+DON-1997-09-02-a,Zimbabwe,1997,Syndromic: neurological,,
+DON-1997-09-02-b,Mozambique,1997,Cholera,49,
+DON-1997-09-02-c,Nepal,1997,Syndromic: neurological,247,
+DON-1997-09-22,Kenya,1997,Cholera,555,29
+DON-1997-10-02-a,,1997,Transmissible spongiform encephalopathy,,
+DON-1997-10-02-b,Americas,1997,Hantavirus,,
+DON-1997-10-10,Nepal,1997,Syndromic: neurological,1364,84
+DON-1997-10-27,India,1997,Leptospirosis,413,48
+DON-1997-10-28-a,Mozambique,1997,Cholera,346,14
+DON-1997-10-28-b,Kenya,1997,Cholera,2500,140
+DON-1997-10-30,Malawi,1997,Plague,43,
+DON-1997-10-31,Ghana,1997,Lassa fever,0,0
+DON-1997-11-14-a,Mozambique,1997,Cholera,1330,41
+DON-1997-11-14-b,Democratic Republic of the Congo,1997,Monkeypox,511,
+DON-1997-11-19,Mozambique,1997,Cholera,1664,62
+DON-1997-11-21-a,Mozambique,1997,Plague,335,0
+DON-1997-11-21-b,Djibouti,1997,Cholera,355,29
+DON-1997-11-26-a,Mozambique,1997,Cholera,4301,146
+DON-1997-11-26-b,Djibouti,1997,Cholera,827,
+DON-1998-01-05,Hong Kong,1998,Influenza A,,4
+DON-1998-01-06-a,Democratic Republic of the Congo,1998,Cholera,800,54
+DON-1998-01-06-b,Kenya,1998,Rift Valley fever,,<300
+DON-1998-01-07-a,United Republic of Tanzania,1998,Cholera,35591,2025
+DON-1998-01-07-b,Hong Kong,1998,Influenza A,,
+DON-1998-01-09-a,Hong Kong,1998,Influenza A,,
+DON-1998-01-09-b,Africa,1998,Cholera,,
+DON-1998-01-12-a,Chile,1998,Cholera,33,
+DON-1998-01-12-b,Hong Kong,1998,Influenza A,,
+DON-1998-01-13,Hong Kong,1998,Influenza A,,300
+DON-1998-01-14-a,Hong Kong,1998,Influenza A,,5
+DON-1998-01-14-b,Kenya,1998,Rift Valley fever,,
+DON-1998-01-15,Hong Kong,1998,Influenza A,,6
+DON-1998-01-16,Kenya,1998,Rift Valley fever,,
+DON-1998-01-16,Somalia,1998,Rift Valley fever,,
+DON-1998-01-19,Hong Kong,1998,Influenza A,,
+DON-1998-01-20,Hong Kong,1998,Influenza A,,
+DON-1998-01-28,Democratic Republic of the Congo,1998,Syndromic: neurological,,
+DON-1998-02-03-a,Republic of the Congo,1998,Syndromic: diarrhoeal,445,83
+DON-1998-02-03-b,Mozambique,1998,Cholera,,
+DON-1998-02-10-a,Mozambique,1998,Cholera,2000,109
+DON-1998-02-10-b,Republic of the Congo,1998,Cholera,485,83
+DON-1998-02-13,Cambodia,1998,Dengue fever,227,3
+DON-1998-02-19,Global,1998,Influenza A,,
+DON-1998-02-20-a,Comoros Islands,1998,Cholera,282,10
+DON-1998-02-20-b,Mozambique,1998,Cholera,14679,477
+DON-1998-02-25,Peru,1998,Cholera,2863,16
+DON-1998-03-10,Comoros Islands,1998,Cholera,193,8
+DON-1998-03-12,Hong Kong,1998,Influenza A,,6
+DON-1998-03-16,Comoros Islands,1998,Cholera,945,18
+DON-1998-03-31,Bolivia,1998,Cholera,165,5
+DON-1998-03-31,Honduras,1998,Cholera,219,12
+DON-1998-03-31,Ecuador,1998,Cholera,11,1
+DON-1998-03-31,Peru,1998,Cholera,2863,16
+DON-1998-03-31,Nicaragua,1998,Cholera,,
+DON-1998-04-07-a,Uganda,1998,Cholera,16982,849
+DON-1998-04-07-b,Zimbabwe,1998,Cholera,335,12
+DON-1998-04-15,Malaysia,1998,Dengue fever,19544,50
+DON-1998-04-22,Chad,1998,Syndromic: neurological,2835,239
+DON-1998-04-29,Cameroon,1998,Dysentery,237,60
+DON-1998-05-08-a,Afghanistan,1998,Crimean-Congo haemorrhagic fever,19,12
+DON-1998-05-08-b,Pakistan,1998,Crimean-Congo haemorrhagic fever,4,2
+DON-1998-05-19-a,United Republic of Tanzania,1998,Malaria,,
+DON-1998-05-19-b,Democratic Republic of the Congo,1998,Cholera,9605,746
+DON-1998-05-19-c,Rwanda,1998,Cholera,,
+DON-1998-05-28,Democratic Republic of the Congo,1998,Malaria,13440,778
+DON-1998-05-28,Burundi,1998,Malaria,77,3
+DON-1998-05-28,Rwanda,1998,Malaria,,
+DON-1998-05-28,Uganda,1998,Malaria,>20000,>1000
+DON-1998-06-08,Global,1998,Dengue fever,289477,842
+DON-1998-06-17,Taiwan,1998,Enterovirus,,41
+DON-1998-07-04,Taiwan,1998,Enterovirus,,55
+DON-1998-07-15,Cambodia,1998,Cholera,69,15
+DON-1998-07-20,Uganda,1998,Cholera,38697,1576
+DON-1998-08-03,Liberia,1998,Cholera,560,12
+DON-1998-08-06,Angola,1998,Meningococcal disease,574,69
+DON-1998-08-11,Russian Federation,1998,Anthrax,15,2
+DON-1998-08-13,France,1998,Legionellosis,19,3
+DON-1998-08-14,Mozambique,1998,Cholera,26783,619
+DON-1998-08-18,Asia,1998,Dengue fever,,
+DON-1998-08-19,Afghanistan,1998,Cholera,1500/day,
+DON-1998-08-20,Asia,1998,Cholera,,
+DON-1998-08-21,Afghanistan,1998,Cholera,>13962,>145
+DON-1998-08-24,Angola,1998,Meningococcal disease,1113,115
+DON-1998-08-26,Brazil,1998,Yellow fever,,9
+DON-1998-08-31,Bhutan,1998,Cholera,13,
+DON-1998-09-02,Afghanistan,1998,Cholera,,
+DON-1998-09-09,Comoros,1998,Cholera,3199,40
+DON-1998-09-11,Armenia,1998,Cholera,25,
+DON-1998-09-21-a,Kyrgyzstan,1998,Typhoid,458,
+DON-1998-09-21-b,Uganda,1998,Cholera,43911,1777
+DON-1998-09-22,Asia,1998,Cholera,,
+DON-1998-09-23,Sierra Leone,1998,Cholera,1770,55
+DON-1998-09-30,Bangladesh,1998,Syndromic: diarrhoeal,">185,000",151
+DON-1998-10-14,West Africa,1998,Cholera,,
+DON-1998-10-15,Cameroon,1998,Cholera,1106,113
+DON-1998-10-22-a,Brazil,1998,Yellow fever,,13
+DON-1998-10-22-b,Sudan,1998,Syndromic: respiratory,,100
+DON-1998-10-22-c,Rwanda,1998,Cholera,2900,55
+DON-1998-10-22-c,Democratic Republic of the Congo,1998,Cholera,,
+DON-1998-10-23,Russian Federation,1998,Cholera,8,
+DON-1998-10-26,Iraq,1998,Cholera,20,1
+DON-1998-11-04,Venezuela,1998,Yellow fever,14,3
+DON-1998-11-06,Uganda,1998,Plague,49,
+DON-1998-11-10-a,Mauritania,1998,Rift Valley fever,300-400,8
+DON-1998-11-10-b,Honduras,1998,Plague,,>5000
+DON-1998-11-10-b,Nicaragua,1998,Plague,,1368
+DON-1998-11-11,Central America,1998,Rift Valley fever,,
+DON-1998-11-23,Nicaragua,1998,Rift Valley fever,,2362
+DON-1998-11-23,Honduras,1998,Rift Valley fever,,7000
+DON-1998-11-24,El Salvador,1998,Cholera,,1
+DON-1998-11-24,Guatemala,1998,Cholera,,17
+DON-1998-11-24,Guatemala,1998,Leptospirosis,7,
+DON-1998-11-24,Guatemala,1998,Dengue fever,6,
+DON-1998-11-24,Guatemala,1998,Malaria,70,
+DON-1998-11-24,Nicaragua,1998,Cholera,335,
+DON-1998-11-24,Nicaragua,1998,Leptospirosis,264,7
+DON-1998-11-24,Honduras,1998,Cholera,14,
+DON-1998-11-24,Honduras,1998,Leptospirosis,4,3
+DON-1998-11-24,Honduras,1998,Dengue fever,1080,
+DON-1998-11-24,Honduras,1998,Dengue fever,,4
+DON-1998-11-24,Honduras,1998,Malaria,1567,7
+DON-1998-11-24,Belize,1998,Cholera,,
+DON-1998-11-25-a,Sri Lanka,1998,Cholera,1264,36
+DON-1998-11-25-b,Brazil,1998,Cholera,376,
+DON-1998-11-26,El Salvador,1998,Cholera,6,1
+DON-1998-11-26,Guatemala,1998,Cholera,261,17
+DON-1998-11-26,Guatemala,1998,Leptospirosis,6,0
+DON-1998-11-26,Guatemala,1998,Dengue fever,277,
+DON-1998-11-26,Guatemala,1998,Malaria,,
+DON-1998-11-26,Nicaragua,1998,Cholera,335,
+DON-1998-11-26,Nicaragua,1998,Leptospirosis,264,
+DON-1998-11-26,Honduras,1998,Cholera,,
+DON-1998-11-26,Honduras,1998,Leptospirosis,4,3
+DON-1998-11-26,Honduras,1998,Dengue fever,1080,
+DON-1998-11-26,Honduras,1998,Dengue fever,33,4
+DON-1998-11-26,Belize,1998,Cholera,,1
+DON-1998-12-02,El Salvador,1998,Cholera,8,1
+DON-1998-12-02,Guatemala,1998,Cholera,,17
+DON-1998-12-02,Guatemala,1998,Leptospirosis,6,
+DON-1998-12-02,Guatemala,1998,Dengue fever,,
+DON-1998-12-02,Guatemala,1998,Malaria,,
+DON-1998-12-02,Nicaragua,1998,Cholera,,
+DON-1998-12-02,Nicaragua,1998,Leptospirosis,523,7
+DON-1998-12-02,Nicaragua,1998,Dengue fever,1244,
+DON-1998-12-02,Nicaragua,1998,Malaria,2723,
+DON-1998-12-02,Honduras,1998,Cholera,16,
+DON-1998-12-02,Honduras,1998,Malaria,1908,
+DON-1998-12-02,Honduras,1998,Leptospirosis,18,1
+DON-1998-12-02,Honduras,1998,Dengue fever,1165,
+DON-1998-12-02,Honduras,1998,Dengue fever,,
+DON-1998-12-02,Belize,1998,Cholera,2,
+DON-1998-12-04,Mozambique,1998,Syndromic: gastrointestinal,600,100
+DON-1998-12-18,Somalia,1998,Cholera,,
+DON-1998-12-22-a,Burkina Faso,1998,Yellow fever,2,1
+DON-1998-12-22-b,Democratic Republic of the Congo,1998,Syndromic: neurological,203,79
+DON-1998-12-23,China,1998,Influenza A,,
+DON-1999-01-06,China,1999,Influenza A,,
+DON-1999-01-12,Sudan,1999,Meningococcal disease,169,>20
+DON-1999-01-20,Kenya,1999,Cholera,1025,25
+DON-1999-01-22,Sudan,1999,Meningococcal disease,199,30
+DON-1999-01-27,Zambia,1999,Cholera,66,4
+DON-1999-02-10,South Africa,1999,Rift Valley fever,3,
+DON-1999-02-11,Bolivia,1999,Yellow fever,,13
+DON-1999-02-24,Afghanistan,1999,Unspecified,6300,135
+DON-1999-02-26-a,Africa,1999,Cholera,,
+DON-1999-02-26-b,Guinea-Bissau,1999,Meningococcal disease,139,36
+DON-1999-03-01,Afghanistan,1999,Syndromic: respiratory,,
+DON-1999-03-12-a,Sudan,1999,Meningococcal disease,2293,262
+DON-1999-03-12-b,Somalia,1999,Cholera,4457,166
+DON-1999-03-17-a,Bolivia,1999,Yellow fever,,
+DON-1999-03-17-b,Brazil,1999,Yellow fever,,0
+DON-1999-03-17-c,Republic of the Congo,1999,Cholera,,
+DON-1999-03-18-a,Senegal,1999,Meningococcal disease,2709,372
+DON-1999-03-18-b,Netherlands,1999,Legionellosis,200,13
+DON-1999-03-19-a,Brazil,1999,Yellow fever,4,
+DON-1999-03-19-b,Ethiopia,1999,Meningococcal disease,126,4
+DON-1999-03-19-c,Sudan,1999,Syndromic: diarrhoeal,,78
+DON-1999-03-22-a,Malaysia,1999,Nipah virus,133,
+DON-1999-03-22-a,Malaysia,1999,Nipah virus,,
+DON-1999-03-22-b,Guinea-Bissau,1999,Meningococcal disease,881,135
+DON-1999-03-26,Malaysia,1999,Syndromic: neurological,157,58
+DON-1999-03-29,Hong Kong,1999,Influenza A,0,0
+DON-1999-04-06,Hong Kong,1999,Influenza A,0,0
+DON-1999-04-07-a,Sudan,1999,Tick-borne relapsing fever,,
+DON-1999-04-07-b,Hong Kong,1999,Influenza A,,0
+DON-1999-04-08,Brazil,1999,Cholera,235,3
+DON-1999-04-13,Hong Kong,1999,Influenza A,5,
+DON-1999-04-14-a,Madagascar,1999,Cholera,278,
+DON-1999-04-14-b,Guinea-Bissau,1999,Meningococcal disease,1307,158
+DON-1999-04-15,Malaysia,1999,Nipah virus,,
+DON-1999-04-20,Sudan,1999,Tick-borne relapsing fever,,
+DON-1999-04-28-a,Sudan,1999,Meningococcal disease,>16000,1000
+DON-1999-04-28-b,Angola,1999,Polio,661,41
+DON-1999-04-29,Sudan,1999,Tick-borne relapsing fever,,
+DON-1999-04-30-a,Democratic Republic of the Congo,1999,Marburg fever,50,46
+DON-1999-04-30-b,Somalia,1999,Cholera,7860,233
+DON-1999-04-30-c,Sudan,1999,Syndromic: diarrhoeal,892,24
+DON-1999-05-05,Democratic Republic of the Congo,1999,Marburg fever,68,63
+DON-1999-05-06,Democratic Republic of the Congo,1999,Marburg fever,76,52
+DON-1999-05-07,Singapore,1999,Nipah virus,,1
+DON-1999-05-10,Democratic Republic of the Congo,1999,Marburg fever,,
+DON-1999-05-11,Namibia,1999,Plague,39,8
+DON-1999-05-12-a,Nigeria,1999,Cholera,1122,89
+DON-1999-05-12-b,Sudan,1999,Meningococcal disease,22000,1600
+DON-1999-05-12-c,Democratic Republic of the Congo,1999,Marburg fever,,
+DON-1999-05-14,Zimbabwe,1999,Syndromic: haemorrhagic,,
+DON-1999-05-17,Democratic Republic of the Congo,1999,Marburg fever,,
+DON-1999-05-18-a,Democratic Republic of the Congo,1999,Marburg fever,,3
+DON-1999-05-18-b,Bolivia,1999,Yellow fever,,21
+DON-1999-05-18-b,Brazil,1999,Yellow fever,,3
+DON-1999-05-18-b,Colombia,1999,Yellow fever,,2
+DON-1999-05-18-b,Peru,1999,Yellow fever,49,
+DON-1999-05-20,Democratic Republic of the Congo,1999,Marburg fever,72,
+DON-1999-05-21,Cambodia,1999,Cholera,874,56
+DON-1999-05-28,Democratic Republic of the Congo,1999,Marburg fever,,
+DON-1999-06-16,Zambia,1999,Cholera,11327,393
+DON-1999-06-23,Burundi,1999,Cholera,587,
+DON-1999-06-23,Madagascar,1999,Cholera,4007,218
+DON-1999-06-23,Honduras,1999,Cholera,32,
+DON-1999-06-23,Nicaragua,1999,Cholera,359,7
+DON-1999-06-23,Afghanistan,1999,Cholera,,
+DON-1999-06-23,Brunei Darussalam,1999,Cholera,,
+DON-1999-06-25,Burundi,1999,Malaria,616034,
+DON-1999-07-14-a,Guinea,1999,Dysentery,7,
+DON-1999-07-14-b,Kenya,1999,Malaria,,
+DON-1999-07-20,Afghanistan,1999,Cholera,14402,
+DON-1999-07-26,Russian Federation,1999,Crimean-Congo haemorrhagic fever,65,6
+DON-1999-07-27,Malawi,1999,Plague,,
+DON-1999-08-03,Niger,1999,Cholera,169,10
+DON-1999-08-04,Germany,1999,Yellow fever,,
+DON-1999-08-06,Germany,1999,Yellow fever,,
+DON-1999-08-09,Madagascar,1999,Cholera,,
+DON-1999-08-25,Afghanistan,1999,Polio,26,
+DON-1999-08-30,Kosovo,1999,Hantavirus,,
+DON-1999-09-02,Ghana,1999,Cholera,269,9
+DON-1999-09-07,Afghanistan,1999,Cholera,,
+DON-1999-09-09,Somalia,1999,Cholera,6964,
+DON-1999-09-10,United States,1999,St. Louis encephalitis,47,3
+DON-1999-09-14-a,Sierra Leone,1999,Cholera,134,1
+DON-1999-09-14-b,United States of America,1999,St. Louis encephalitis,,3
+DON-1999-09-24,Iraq,1999,Polio,,
+DON-1999-10-06,United States of America,1999,West Nile virus,,5
+DON-1999-10-20,Rwanda,1999,Syndromic: neurological,29,11
+DON-1999-10-21,Angola,1999,Meningococcal disease,253,147
+DON-1999-10-27,Zambia,1999,Cholera,13,6
+DON-1999-11-18-a,Rwanda,1999,Cholera,140,5
+DON-1999-11-18-b,Belgium,1999,Legionellosis,80,4
+DON-1999-11-19,Fiji,1999,Cholera,2,
+DON-1999-11-23,United States of America,1999,Yellow fever,1,1
+DON-1999-12-09,Democratic Republic of the Congo,1999,Cholera,74,4
+DON-1999-12-10,India,1999,Japanese encephalitis,965,200
+DON-1999-12-17,France,1999,Transmissible spongiform encephalopathy,,
+DON-1999-12-22,Comoros,1999,Cholera,103,14
+DON-2000-01-01,Hungary,2000,Meningococcal disease,30,4
+DON-2000-01-13,Germany,2000,Lassa fever,1,0
+DON-2000-01-14,Brazil,2000,Yellow fever,3,1
+DON-2000-01-18-a,China,2000,Polio,,
+DON-2000-01-18-b,Germany,2000,Lassa fever,1,1
+DON-2000-01-20,Brazil,2000,Yellow fever,3,
+DON-2000-01-24,Brazil,2000,Yellow fever,,2
+DON-2000-01-28-a,Madagascar,2000,Cholera,6983,433
+DON-2000-01-28-b,Lesotho,2000,Dysentery,1862,28
+DON-2000-02-04,Sierra Leone,2000,Dysentery,,
+DON-2000-02-11,Democratic Republic of the Congo,2000,Marburg fever,,
+DON-2000-02-16,Central African Republic,2000,Meningococcal disease,86,14
+DON-2000-02-25,Netherlands,2000,Yellow fever,1,0
+DON-2000-02-29,France,2000,Listeriosis,26,7
+DON-2000-03-02,Democratic Republic of the Congo,2000,Marburg fever,,3
+DON-2000-03-03,Panama,2000,Hantavirus,12,3
+DON-2000-03-08,Madagascar,2000,Cholera,12481,736
+DON-2000-03-13-a,United Kingdom,2000,Lassa fever,,
+DON-2000-03-13-b,Democratic Republic of the Congo,2000,Marburg fever,30,12
+DON-2000-03-14,United Kingdom,2000,Lassa fever,1,0
+DON-2000-03-16,Madagascar,2000,Cholera,15137,860
+DON-2000-03-17,Ethiopia,2000,Meningococcal disease,129,9
+DON-2000-03-31,Democratic Republic of the Congo,2000,Marburg fever,16,
+DON-2000-04-04,Germany,2000,Lassa fever,,0
+DON-2000-04-07,Sudan,2000,Meningococcal disease,2549,186
+DON-2000-04-10,Ethiopia,2000,Meningococcal disease,149,14
+DON-2000-04-11,France,2000,Meningococcal disease,6,3
+DON-2000-04-11,United Kingdom,2000,Meningococcal disease,,4
+DON-2000-04-21-a,Kosovo,2000,Tularemia,,0
+DON-2000-04-21-b,France,2000,Meningococcal disease,14,4
+DON-2000-04-21-b,United Kingdom,2000,Meningococcal disease,22,4
+DON-2000-04-21-b,Oman,2000,Meningococcal disease,12,3
+DON-2000-04-21-b,Saudi Arabia,2000,Meningococcal disease,199,55
+DON-2000-04-21-b,Netherlands,2000,Meningococcal disease,,
+DON-2000-04-26,United States,2000,Meningococcal disease,3,
+DON-2000-04-27-a,Saudi Arabia,2000,Meningococcal disease,225,57
+DON-2000-04-27-a,Netherlands,2000,Meningococcal disease,,1
+DON-2000-04-27-b,Kosovo,2000,Tularemia,,
+DON-2000-05-02,Somalia,2000,Cholera,2232,230
+DON-2000-05-03,Singapore,2000,Meningococcal disease,4,
+DON-2000-05-03,Indonesia,2000,Meningococcal disease,14,6
+DON-2000-05-03,Iran,2000,Meningococcal disease,2,
+DON-2000-05-03,Morocco,2000,Meningococcal disease,3,
+DON-2000-05-04,Australia,2000,Legionellosis,,
+DON-2000-05-11,Australia,2000,Legionellosis,,2
+DON-2000-05-19,Nigeria,2000,Yellow fever,,
+DON-2000-05-30,Canada,2000,E. coli,32,5
+DON-2000-06-19,Afghanistan,2000,Syndromic: haemorrhagic,,15
+DON-2000-06-20-a,Russian Federation,2000,Smallpox,,
+DON-2000-06-20-b,Ethiopia,2000,Anthrax,,
+DON-2000-07-06,Federated States of Micronesia,2000,Cholera,954,9
+DON-2000-07-10,Japan,2000,Staphylococcus,13809,
+DON-2000-07-11,Afghanistan,2000,Syndromic: haemorrhagic,,16
+DON-2000-07-25,Netherlands,2000,Lassa fever,,0
+DON-2000-07-26,Netherlands,2000,Lassa fever,,1
+DON-2000-08-09,Ireland,2000,Measles,1376,2
+DON-2000-08-17,Ethiopia,2000,Meningococcal disease,855,19
+DON-2000-08-24-a,Rwanda,2000,Meningococcal disease,164,10
+DON-2000-08-24-b,Afghanistan,2000,Syndromic: haemorrhagic,,
+DON-2000-08-24-c,Liberia,2000,Yellow fever,29,3
+DON-2000-09-09,Federated States of Micronesia,2000,Cholera,2689,15
+DON-2000-09-11,Liberia,2000,Yellow fever,,
+DON-2000-09-13,Afghanistan,2000,Cholera,1604,19
+DON-2000-09-15,United States of America,2000,Leptospirosis,37,
+DON-2000-09-18,Saudi Arabia,2000,Rift Valley fever,,14
+DON-2000-09-21-a,France,2000,Leptospirosis,4,
+DON-2000-09-21-b,Canada,2000,Leptospirosis,6,
+DON-2000-09-22,Israel,2000,West Nile virus,151,12
+DON-2000-09-26,Yemen,2000,Rift Valley fever,113,30
+DON-2000-09-29,Saudi Arabia,2000,Rift Valley fever,160,33
+DON-2000-09-29,Yemen,2000,Rift Valley fever,134,31
+DON-2000-10-03,Yemen,2000,Rift Valley fever,,32
+DON-2000-10-09,Yemen,2000,Rift Valley fever,321,32
+DON-2000-10-10,Saudi Arabia,2000,Rift Valley fever,,64
+DON-2000-10-13,South Africa,2000,Cholera,2175,22
+DON-2000-10-16,Uganda,2000,Ebola virus,,35
+DON-2000-10-17,Uganda,2000,Ebola virus,81,35
+DON-2000-10-18-a,Uganda,2000,Ebola virus,94,39
+DON-2000-10-18-b,South Africa,2000,Cholera,3075,26
+DON-2000-10-19-a,Uganda,2000,Ebola virus,111,41
+DON-2000-10-19-b,Saudi Arabia,2000,Rift Valley fever,,76
+DON-2000-10-20-a,South Africa,2000,Cholera,3279,27
+DON-2000-10-20-b,Uganda,2000,Ebola virus,122,47
+DON-2000-10-21,Uganda,2000,Ebola virus,139,51
+DON-2000-10-22,Uganda,2000,Ebola virus,149,54
+DON-2000-10-23,Uganda,2000,Ebola virus,160,55
+DON-2000-10-24,Uganda,2000,Ebola virus,165,60
+DON-2000-10-25-a,Saudi Arabia,2000,Rift Valley fever,443,85
+DON-2000-10-25-b,Uganda,2000,Ebola virus,176,64
+DON-2000-10-26-a,Yemen,2000,Rift Valley fever,,80
+DON-2000-10-26-b,Uganda,2000,Ebola virus,182,64
+DON-2000-10-27-a,Uganda,2000,Ebola virus,191,68
+DON-2000-10-27-b,South Africa,2000,Cholera,3806,33
+DON-2000-10-28,Uganda,2000,Ebola virus,205,71
+DON-2000-10-29,Uganda,2000,Ebola virus,211,72
+DON-2000-10-30,Uganda,2000,Ebola virus,224,73
+DON-2000-10-31,Uganda,2000,Ebola virus,239,75
+DON-2000-11-01,Uganda,2000,Ebola virus,251,80
+DON-2000-11-02,Uganda,2000,Ebola virus,262,81
+DON-2000-11-03-a,Uganda,2000,Ebola virus,266,83
+DON-2000-11-03-b,South Africa,2000,Cholera,4270,32
+DON-2000-11-03-c,Uganda,2000,Ebola virus,,
+DON-2000-11-05,Uganda,2000,Ebola virus,280,89
+DON-2000-11-06,Uganda,2000,Ebola virus,281,91
+DON-2000-11-07,Uganda,2000,Ebola virus,287,92
+DON-2000-11-08,Uganda,2000,Ebola virus,286,94
+DON-2000-11-09,Uganda,2000,Ebola virus,295,96
+DON-2000-11-10-a,South Africa,2000,Cholera,4583,33
+DON-2000-11-10-b,Uganda,2000,Ebola virus,304,101
+DON-2000-11-11,Uganda,2000,Ebola virus,313,101
+DON-2000-11-12,Uganda,2000,Ebola virus,320,102
+DON-2000-11-14,Uganda,2000,Ebola virus,320,104
+DON-2000-11-15,Uganda,2000,Ebola virus,321,104
+DON-2000-11-17,Uganda,2000,Ebola virus,329,107
+DON-2000-11-20,South Africa,2000,Cholera,5285,35
+DON-2000-11-22,Somalia,2000,Cholera,272,14
+DON-2000-11-24,Uganda,2000,Ebola virus,343,123
+DON-2000-11-27,South Africa,2000,Cholera,5876,35
+DON-2000-11-30,Uganda,2000,Ebola virus,354,140
+DON-2000-11-30,Tanzania,2000,Ebola virus,,
+DON-2000-12-05,Uganda,2000,Ebola virus,370,140
+DON-2000-12-06,South Africa,2000,Cholera,6548,35
+DON-2000-12-08,Uganda,2000,Ebola virus,405,160
+DON-2000-12-19-a,South Africa,2000,Cholera,8137,41
+DON-2000-12-19-b,Uganda,2000,Ebola virus,421,162
+DON-2000-12-29-a,Guinea,2000,Yellow fever,,190
+DON-2000-12-29-b,South Africa,2000,Cholera,11183,51
+DON-2000-12-29-c,Uganda,2000,Ebola virus,426,172
+DON-2001-01-03-a,Uganda,2001,Ebola virus,421,168
+DON-2001-01-03-b,Democratic Republic of the Congo,2001,Syndromic: haemorrhagic,,
+DON-2001-01-09-a,South Africa,2001,Cholera,,60
+DON-2001-01-09-b,Uganda,2001,Ebola virus,422,169
+DON-2001-01-16,South Africa,2001,Cholera,19499,66
+DON-2001-01-17,Uganda,2001,Ebola virus,423,169
+DON-2001-01-24,Uganda,2001,Ebola virus,423,169
+DON-2001-01-26,South Africa,2001,Cholera,27431,74
+DON-2001-02-05,South Africa,2001,Cholera,37204,85
+DON-2001-02-09,Republic of Korea,2001,Measles,39537,6
+DON-2001-02-14,South Africa,2001,Cholera,48647,108
+DON-2001-02-20,Benin,2001,Meningococcal disease,603,45
+DON-2001-02-20,Chad,2001,Meningococcal disease,798,83
+DON-2001-02-20,Ethiopia,2001,Meningococcal disease,485,61
+DON-2001-02-23,South Africa,2001,Cholera,56092,120
+DON-2001-02-28-a,Benin,2001,Meningococcal disease,2239,122
+DON-2001-02-28-a,Burkina Faso,2001,Meningococcal disease,1555,301
+DON-2001-02-28-a,Cameroon,2001,Meningococcal disease,270,17
+DON-2001-02-28-a,Chad,2001,Meningococcal disease,1257,156
+DON-2001-02-28-a,Ethiopia,2001,Meningococcal disease,1004,99
+DON-2001-02-28-b,Brazil,2001,Yellow fever,9,6
+DON-2001-02-28-c,Uganda,2001,Ebola virus,,224
+DON-2001-03-05,South Africa,2001,Cholera,62607,131
+DON-2001-03-07,Brazil,2001,Yellow fever,,6
+DON-2001-03-08,Chad,2001,Meningococcal disease,2317,267
+DON-2001-03-08,Ethiopia,2001,Meningococcal disease,1348,108
+DON-2001-03-16-a,South Africa,2001,Cholera,69761,139
+DON-2001-03-16-b,Burkina Faso,2001,Meningococcal disease,3267,552
+DON-2001-03-16-b,Benin,2001,Meningococcal disease,3643,172
+DON-2001-03-16-b,Cameroon,2001,Meningococcal disease,415,28
+DON-2001-03-16-b,Ethiopia,2001,Meningococcal disease,2324,148
+DON-2001-03-20-a,Brazil,2001,Yellow fever,,9
+DON-2001-03-20-b,Zambia,2001,Plague,,11
+DON-2001-03-26,Zambia,2001,Plague,23,3
+DON-2001-03-27,Burkina Faso,2001,Meningococcal disease,4350,719
+DON-2001-03-27,Chad,2001,Meningococcal disease,3064,337
+DON-2001-03-27,Niger,2001,Meningococcal disease,1795,137
+DON-2001-03-28,South Africa,2001,Cholera,78140,163
+DON-2001-04-05,Burkina Faso,2001,Meningococcal disease,7751,1137
+DON-2001-04-05,Benin,2001,Meningococcal disease,6147,265
+DON-2001-04-05,Chad,2001,Meningococcal disease,3579,401
+DON-2001-04-05,Central African Republic,2001,Meningococcal disease,1816,343
+DON-2001-04-05,Ethiopia,2001,Meningococcal disease,3521,197
+DON-2001-04-05,Gambia,2001,Meningococcal disease,137,21
+DON-2001-04-09,Ethiopia,2001,Meningococcal disease,,
+DON-2001-04-17,South Africa,2001,Cholera,86107,181
+DON-2001-04-23,Burkina Faso,2001,Meningococcal disease,10897,1525
+DON-2001-04-23,Benin,2001,Meningococcal disease,7532,300
+DON-2001-04-23,Central African Republic,2001,Meningococcal disease,1816,343
+DON-2001-04-23,Chad,2001,Meningococcal disease,5780,607
+DON-2001-04-23,Ethiopia,2001,Meningococcal disease,4138,242
+DON-2001-04-23,Niger,2001,Meningococcal disease,4014,321
+DON-2001-04-27,Burkina Faso,2001,Meningococcal disease,4,
+DON-2001-04-27,Central African Republic,2001,Meningococcal disease,,
+DON-2001-04-27,France,2001,Meningococcal disease,2,0
+DON-2001-04-27,Norway,2001,Meningococcal disease,4,0
+DON-2001-04-27,Saudi Arabia,2001,Meningococcal disease,109,35
+DON-2001-04-27,Singapore,2001,Meningococcal disease,4,0
+DON-2001-04-27,United Kingdom,2001,Meningococcal disease,,7
+DON-2001-05-16,Burkina Faso,2001,Meningococcal disease,4,
+DON-2001-05-16,Central African Republic,2001,Meningococcal disease,3,
+DON-2001-05-16,Denmark,2001,Meningococcal disease,2,
+DON-2001-05-16,France,2001,Meningococcal disease,2,
+DON-2001-05-16,Norway,2001,Meningococcal disease,4,
+DON-2001-05-16,Saudi Arabia,2001,Meningococcal disease,109,35
+DON-2001-05-16,Singapore,2001,Meningococcal disease,4,1
+DON-2001-05-16,United Kingdom,2001,Meningococcal disease,41,11
+DON-2001-05-17,Hong Kong,2001,Influenza A,0,0
+DON-2001-05-18,Hong Kong,2001,Influenza A,0,0
+DON-2001-05-25-a,Ethiopia,2001,Meningococcal disease,5636,392
+DON-2001-05-25-b,Bangladesh,2001,Syndromic: neurological,28,9
+DON-2001-05-30,Bangladesh,2001,Syndromic: neurological,,
+DON-2001-05-31,Cote d'Ivoire,2001,Yellow fever,4,3
+DON-2001-06-05,Bangladesh,2001,Syndromic: neurological,,
+DON-2001-06-07,Peru,2001,Yellow fever,20,2
+DON-2001-06-08,Kosovo,2001,Crimean-Congo haemorrhagic fever,27,4
+DON-2001-06-11,Kosovo,2001,Crimean-Congo haemorrhagic fever,,
+DON-2001-06-14-a,Ethiopia,2001,Meningococcal disease,6266,311
+DON-2001-06-14-b,Kosovo,2001,Crimean-Congo haemorrhagic fever,44,
+DON-2001-06-15,Kosovo,2001,Crimean-Congo haemorrhagic fever,48,
+DON-2001-06-20,Kosovo,2001,Crimean-Congo haemorrhagic fever,57,
+DON-2001-06-22,Burkina Faso,2001,Meningococcal disease,,
+DON-2001-06-22,Niger,2001,Meningococcal disease,,
+DON-2001-06-22,Central African Republic,2001,Meningococcal disease,3,
+DON-2001-06-22,Denmark,2001,Meningococcal disease,2,
+DON-2001-06-22,France,2001,Meningococcal disease,2,
+DON-2001-06-22,Norway,2001,Meningococcal disease,4,
+DON-2001-06-22,Saudi Arabia,2001,Meningococcal disease,109,35
+DON-2001-06-22,Singapore,2001,Meningococcal disease,4,1
+DON-2001-06-22,United Kingdom,2001,Meningococcal disease,41,11
+DON-2001-06-29,Kosovo,2001,Crimean-Congo haemorrhagic fever,,6
+DON-2001-07-03,France,2001,Meningococcal disease,6,
+DON-2001-07-12,Spain,2001,Legionellosis,470,1
+DON-2001-07-18,Spain,2001,Legionellosis,751,2
+DON-2001-07-26-a,Tanzania,2001,Cholera,109,3
+DON-2001-07-26-b,Chad,2001,Cholera,608,20
+DON-2001-07-26-c,Afghanistan,2001,Cholera,4499,114
+DON-2001-08-06,Chad,2001,Cholera,1111,33
+DON-2001-08-12,Chad,2001,Cholera,1959,83
+DON-2001-08-14,India,2001,Cholera,34111,33
+DON-2001-08-15,Angola,2001,Meningococcal disease,77,17
+DON-2001-08-22,Chad,2001,Cholera,2458,88
+DON-2001-08-23,Liberia,2001,Yellow fever,3,3
+DON-2001-09-04,Cote d'Ivoire,2001,Yellow fever,128,14
+DON-2001-09-05-a,Chad,2001,Cholera,3557,113
+DON-2001-09-05-a,Cameroon,2001,Cholera,158,3
+DON-2001-09-05-b,Norway,2001,Legionellosis,19,2
+DON-2001-09-05-c,Cote d'Ivoire,2001,Yellow fever,20,4
+DON-2001-09-12,Cote d'Ivoire,2001,Yellow fever,,
+DON-2001-09-13,Cote d'Ivoire,2001,Yellow fever,,
+DON-2001-09-17-a,Angola,2001,Meningococcal disease,193,24
+DON-2001-09-17-b,Burkina Faso,2001,Cholera,55,3
+DON-2001-09-17-b,Cote d'Ivoire,2001,Cholera,897,47
+DON-2001-09-17-b,Niger,2001,Cholera,13,3
+DON-2001-09-18,Cote d'Ivoire,2001,Yellow fever,153,20
+DON-2001-09-25-a,Cote d'Ivoire,2001,Yellow fever,169,20
+DON-2001-09-25-b,Guinea,2001,Yellow fever,29,2
+DON-2001-09-26,Burkina Faso,2001,Cholera,314,6
+DON-2001-09-26,Cote d'Ivoire,2001,Cholera,3152,175
+DON-2001-09-26,Guinea,2001,Cholera,155,12
+DON-2001-10-02,Cote d'Ivoire,2001,Yellow fever,174,20
+DON-2001-10-10-a,United States,2001,Anthrax,2,1
+DON-2001-10-10-b,Cote d'Ivoire,2001,Yellow fever,201,21
+DON-2001-10-10-c,Democratic Republic of the Congo,2001,Meningococcal disease,283,27
+DON-2001-10-10-d,Angola,2001,Meningococcal disease,332,30
+DON-2001-10-11,United States,2001,Anthrax,3,1
+DON-2001-10-15,United States,2001,Anthrax,,
+DON-2001-10-17,United States,2001,Anthrax,,
+DON-2001-10-18,United States,2001,Anthrax,,
+DON-2001-10-19,United States,2001,Anthrax,,
+DON-2001-10-22-a,United States,2001,Anthrax,,
+DON-2001-10-22-b,Democratic Republic of the Congo,2001,Meningococcal disease,378,32
+DON-2001-10-23,United States,2001,Anthrax,,
+DON-2001-10-24,United States,2001,Anthrax,,
+DON-2001-10-26,United States,2001,Anthrax,,
+DON-2001-10-29,United States,2001,Anthrax,,
+DON-2001-10-30,United States,2001,Anthrax,,
+DON-2001-10-31,United States,2001,Anthrax,,
+DON-2001-11-05,United States,2001,Anthrax,22,4
+DON-2001-11-12,Belgium,2001,Yellow fever,1,0
+DON-2001-11-15,Belgium,2001,Yellow fever,1,1
+DON-2001-11-23,United States,2001,Anthrax,23,5
+DON-2001-11-27,Nigeria,2001,Cholera,724,52
+DON-2001-12-03,Nigeria,2001,Cholera,2050,80
+DON-2001-12-05,Gabon,2001,Ebola virus,,7
+DON-2001-12-07,Somalia,2001,Meningococcal disease,49,6
+DON-2001-12-11,Gabon,2001,Ebola virus,,10
+DON-2001-12-12-a,Gabon,2001,Ebola virus,,10
+DON-2001-12-12-b,United Kingdom,2001,Coccidioidomycosis,,
+DON-2001-12-13,Gabon,2001,Ebola virus,14,10
+DON-2001-12-16,Gabon,2001,Ebola virus,15,12
+DON-2001-12-17,Gabon,2001,Ebola virus,16,12
+DON-2001-12-18-a,Ethiopia,2001,Meningococcal disease,391,37
+DON-2001-12-18-b,Gabon,2001,Ebola virus,19,13
+DON-2001-12-20,Gabon,2001,Ebola virus,27,15
+DON-2001-12-24,Gabon,2001,Ebola virus,,18
+DON-2001-12-28,Gabon,2001,Ebola virus,,20
+DON-2001-12-28,Republic of the Congo,2001,Ebola virus,,
+DON-2001-12-31,Gabon,2001,Ebola virus,,22
+DON-2001-12-31,Republic of the Congo,2001,Ebola virus,,
+DON-2002-01-02,Gabon,2002,Ebola virus,,17
+DON-2002-01-02,Republic of the Congo,2002,Ebola virus,,6
+DON-2002-01-04,Gabon,2002,Ebola virus,,17
+DON-2002-01-04,Republic of the Congo,2002,Ebola virus,,6
+DON-2002-01-07,Gabon,2002,Ebola virus,,17
+DON-2002-01-07,Republic of the Congo,2002,Ebola virus,,7
+DON-2002-01-09,Gabon,2002,Ebola virus,,18
+DON-2002-01-09,Republic of the Congo,2002,Ebola virus,,7
+DON-2002-01-16,Pakistan,2002,Leishmaniasis,,2238
+DON-2002-01-17,Kosovo,2002,Tularemia,282,
+DON-2002-01-18,Somalia,2002,Meningococcal disease,144,33
+DON-2002-01-21,Senegal,2002,Yellow fever,,
+DON-2002-01-24,Gabon,2002,Ebola virus,,23
+DON-2002-01-24,Republic of the Congo,2002,Ebola virus,,11
+DON-2002-01-25,Kosovo,2002,Tularemia,496,0
+DON-2002-01-28,Somalia,2002,Meningococcal disease,,
+DON-2002-02-06,Kosovo,2002,Tularemia,715,
+DON-2002-02-07,Gabon,2002,Ebola virus,,42
+DON-2002-02-07,Republic of the Congo,2002,Ebola virus,,12
+DON-2002-02-08,Hong Kong,2002,Influenza A,,
+DON-2002-02-12,Pakistan,2002,Leishmaniasis,5000,
+DON-2002-02-15,Democratic Republic of the Congo,2002,Meningococcal disease,893,104
+DON-2002-02-20,India,2002,Plague,16,4
+DON-2002-02-21-a,Ethiopia,2002,Meningococcal disease,1332,85
+DON-2002-02-21-b,Gabon,2002,Ebola virus,,46
+DON-2002-02-21-b,Republic of the Congo,2002,Ebola virus,,13
+DON-2002-02-25,Gabon,2002,Ebola virus,,48
+DON-2002-03-05,Democratic Republic of the Congo,2002,Cholera,5021,407
+DON-2002-03-06,Gabon,2002,Ebola virus,,49
+DON-2002-03-07,Burkina Faso,2002,Meningococcal disease,201,36
+DON-2002-03-08-a,Burkina Faso,2002,Meningococcal disease,1874,329
+DON-2002-03-08-b,Ethiopia,2002,Meningococcal disease,2329,118
+DON-2002-03-14,Gabon,2002,Ebola virus,,50
+DON-2002-03-14,Republic of the Congo,2002,Ebola virus,,18
+DON-2002-03-15,Democratic Republic of the Congo,2002,Cholera,6601,502
+DON-2002-03-21-a,Brazil,2002,Dengue fever,104469,40
+DON-2002-03-21-b,Burkina Faso,2002,Meningococcal disease,3579,544
+DON-2002-03-22,Gabon,2002,Ebola virus,,50
+DON-2002-03-22,Republic of the Congo,2002,Ebola virus,,19
+DON-2002-03-26,Malawi,2002,Cholera,22023,609
+DON-2002-04-25,Greece,2002,Enterovirus,39,3
+DON-2002-04-26,Greece,2002,Enterovirus,,
+DON-2002-05-03,Greece,2002,Enterovirus,51,3
+DON-2002-05-06,Burkina Faso,2002,Meningococcal disease,11899,1368
+DON-2002-05-06,Niger,2002,Meningococcal disease,3518,308
+DON-2002-05-08,Brazil,2002,Dengue fever,317787,57
+DON-2002-05-09,Gabon,2002,Ebola virus,,
+DON-2002-05-17,Burkina Faso,2002,Meningococcal disease,12587,1447
+DON-2002-05-22,Afghanistan,2002,Leishmaniasis,200000,
+DON-2002-06-05,Malawi,2002,Plague,71,
+DON-2002-06-12,Republic of the Congo,2002,Syndromic: haemorrhagic,,5
+DON-2002-06-19,Republic of the Congo,2002,Syndromic: haemorrhagic,,5
+DON-2002-06-21,El Salvador,2002,Dengue fever,,
+DON-2002-06-24,Gabon,2002,Syndromic: haemorrhagic,,2
+DON-2002-06-28-a,Mozambique,2002,Cholera,2028,17
+DON-2002-06-28-b,Gabon,2002,Syndromic: haemorrhagic,,2
+DON-2002-06-28-c,Afghanistan,2002,Leishmaniasis,200000,
+DON-2002-07-10,Republic of the Congo,2002,Syndromic: haemorrhagic,,5
+DON-2002-07-12-a,El Salvador,2002,Dengue fever,1773,6
+DON-2002-07-12-b,Afghanistan,2002,Cholera,6691,3
+DON-2002-07-19-a,Burundi,2002,Cholera,217,2
+DON-2002-07-19-b,El Salvador,2002,Dengue fever,4538,6
+DON-2002-07-19-c,Honduras,2002,Dengue fever,2405,8
+DON-2002-07-24,Niger,2002,Cholera,104,8
+DON-2002-08-05,Madagascar,2002,Syndromic: respiratory,1930,153
+DON-2002-08-07,Madagascar,2002,Influenza A,1291,156
+DON-2002-08-13-a,Madagascar,2002,Influenza A,5117,374
+DON-2002-08-13-b,Cote d'Ivoir,2002,Cholera,581,19
+DON-2002-08-14,Burundi,2002,Cholera,577,8
+DON-2002-08-16-a,Ecuador,2002,Dengue fever,5991,
+DON-2002-08-16-b,Madagascar,2002,Influenza A,13300,444
+DON-2002-08-23-a,Madagascar,2002,Influenza A,22646,671
+DON-2002-08-23-b,Burundi,2002,Meningococcal disease,269,30
+DON-2002-08-23-b,Rwanda,2002,Meningococcal disease,173,27
+DON-2002-08-23-b,United Republic of Tanzania,2002,Meningococcal disease,,4
+DON-2002-08-27,United States,2002,West Nile virus,425,20
+DON-2002-08-28,Madagascar,2002,Influenza A,,
+DON-2002-08-29,Burundi,2002,Cholera,794,13
+DON-2002-08-30-a,Madagascar,2002,Influenza A,,
+DON-2002-08-30-b,Bangladesh,2002,Syndromic: neurological,,
+DON-2002-09-03,United States,2002,West Nile virus,638,31
+DON-2002-09-04,Burundi,2002,Meningococcal disease,428,38
+DON-2002-09-04,Rwanda,2002,Meningococcal disease,506,72
+DON-2002-09-04,United Republic of Tanzania,2002,Meningococcal disease,,9
+DON-2002-09-06,Malawi,2002,Cholera,755,24
+DON-2002-09-12-a,United States,2002,West Nile virus,1201,46
+DON-2002-09-12-b,Burundi,2002,Meningococcal disease,,
+DON-2002-09-12-b,Rwanda,2002,Meningococcal disease,636,83
+DON-2002-09-12-b,United Republic of Tanzania,2002,Meningococcal disease,,
+DON-2002-09-12-c,Canada,2002,West Nile virus,,
+DON-2002-09-13-a,Malawi,2002,Cholera,773,41
+DON-2002-09-13-b,Liberia,2002,Cholera,661,
+DON-2002-09-16,Democratic Republic of the Congo,2002,Cholera,2636,67
+DON-2002-09-17,United States,2002,West Nile virus,1460,66
+DON-2002-09-18,Canada,2002,West Nile virus,,1
+DON-2002-09-20,Canada,2002,West Nile virus,20,1
+DON-2002-09-24,United States,2002,West Nile virus,1963,94
+DON-2002-10-01-a,United States,2002,West Nile virus,2405,117
+DON-2002-10-01-b,Canada,2002,West Nile virus,38,1
+DON-2002-10-02,Burundi,2002,Meningococcal disease,934,68
+DON-2002-10-02,United Republic of Tanzania,2002,Meningococcal disease,,
+DON-2002-10-04,Senegal,2002,Yellow fever,,
+DON-2002-10-11,Senegal,2002,Yellow fever,,2
+DON-2002-10-15-a,United States,2002,West Nile virus,2946,160
+DON-2002-10-15-b,Canada,2002,West Nile virus,69,1
+DON-2002-10-18,Senegal,2002,Yellow fever,,2
+DON-2002-10-22-a,United States,2002,West Nile virus,3231,176
+DON-2002-10-22-b,Canada,2002,West Nile virus,88,1
+DON-2002-10-22-c,Canada,2002,West Nile virus,96,1
+DON-2002-10-25,Senegal,2002,Yellow fever,,4
+DON-2002-10-30-a,United States,2002,West Nile virus,3399,193
+DON-2002-10-30-b,Canada,2002,West Nile virus,,1
+DON-2002-11-01,Senegal,2002,Yellow fever,,4
+DON-2002-11-06,Canada,2002,West Nile virus,,1
+DON-2002-11-13,Canada,2002,West Nile virus,,2
+DON-2002-11-14,United States,2002,West Nile virus,3587,211
+DON-2002-11-15,Democratic Republic of the Congo,2002,Cholera,394,41
+DON-2002-11-20,Senegal,2002,Yellow fever,57,10
+DON-2002-11-29-a,Senegal,2002,Yellow fever,60,11
+DON-2002-11-29-b,Democratic Republic of the Congo,2002,Influenza A,4000,500
+DON-2002-12-12,Democratic Republic of the Congo,2002,Influenza A,1245,18
+DON-2002-12-20,Democratic Republic of the Congo,2002,Influenza A,,
+DON-2003-01-08-a,Cote d'Ivoire,2003,Cholera,70,15
+DON-2003-01-08-b,Afghanistan,2003,Pertussis,115,17
+DON-2003-01-17,Brazil,2003,Yellow fever,24,5
+DON-2003-01-21,Afghanistan,2003,Pertussis,,
+DON-2003-02-03,Guinea,2003,Yellow fever,43,24
+DON-2003-02-04,Burkina Faso,2003,Meningococcal disease,980,196
+DON-2003-02-07-a,Burkina Faso,2003,Meningococcal disease,369,58
+DON-2003-02-07-b,Republic of the Congo,2003,Ebola virus,,
+DON-2003-02-10-a,Republic of the Congo,2003,Ebola virus,,
+DON-2003-02-10-b,United Kingdom,2003,Lassa fever,,0
+DON-2003-02-11,China,2003,SARS-CoV,300,5
+DON-2003-02-12-a,Democratic Republic of the Congo,2003,Influenza A,31174,296
+DON-2003-02-12-b,China,2003,SARS-CoV,305,5
+DON-2003-02-12-c,Republic of the Congo,2003,Ebola virus,,48
+DON-2003-02-14-a,China,2003,SARS-CoV,305,5
+DON-2003-02-14-b,Republic of the Congo,2003,Ebola virus,,50
+DON-2003-02-18,Republic of the Congo,2003,Ebola virus,,59
+DON-2003-02-19,Hong Kong,2003,Influenza A,4,2
+DON-2003-02-20-a,Hong Kong,2003,Influenza A,4,2
+DON-2003-02-20-b,China,2003,SARS-CoV,305,5
+DON-2003-02-26,Republic of the Congo,2003,Ebola virus,,77
+DON-2003-02-27-a,Burkina Faso,2003,Meningococcal disease,3107,480
+DON-2003-02-27-b,Hong Kong,2003,Influenza A,4,2
+DON-2003-02-28,Republic of the Congo,2003,Ebola virus,,80
+DON-2003-03-07-a,Republic of the Congo,2003,Ebola virus,,89
+DON-2003-03-07-b,Burkina Faso,2003,Meningococcal disease,3691,542
+DON-2003-03-11,Mauritania,2003,Crimean-Congo haemorrhagic fever,30,6
+DON-2003-03-12,Hong Kong,2003,SARS-CoV,23,
+DON-2003-03-12,Vietnam,2003,SARS-CoV,21,
+DON-2003-03-12,China,2003,SARS-CoV,305,5
+DON-2003-03-13,Niger,2003,Meningococcal disease,2056,195
+DON-2003-03-14,Republic of the Congo,2003,Ebola virus,118,106
+DON-2003-03-16,Global,2003,SARS-CoV,>150,
+DON-2003-03-17,Global,2003,SARS-CoV,,
+DON-2003-03-18,Global,2003,SARS-CoV,,
+DON-2003-03-19,Global,2003,SARS-CoV,264,9
+DON-2003-03-20,Global,2003,SARS-CoV,306,10
+DON-2003-03-21,Global,2003,SARS-CoV,350,10
+DON-2003-03-22,Global,2003,SARS-CoV,>380,
+DON-2003-03-24-a,Mauritania,2003,Crimean-Congo haemorrhagic fever,35,6
+DON-2003-03-24-b,Republic of the Congo,2003,Ebola virus,123,113
+DON-2003-03-24-c,Global,2003,SARS-CoV,456,17
+DON-2003-03-25,Global,2003,SARS-CoV,487,
+DON-2003-03-26,Global,2003,SARS-CoV,1323,49
+DON-2003-03-27-a,Global,2003,SARS-CoV,,
+DON-2003-03-27-b,Global,2003,SARS-CoV,1408,53
+DON-2003-03-28,Global,2003,SARS-CoV,1485,53
+DON-2003-03-29,Global,2003,SARS-CoV,1550,54
+DON-2003-03-31,Global,2003,SARS-CoV,1622,58
+DON-2003-04-01,Global,2003,SARS-CoV,1804,62
+DON-2003-04-02-a,Global,2003,SARS-CoV,,
+DON-2003-04-02-b,Global,2003,SARS-CoV,,
+DON-2003-04-02-c,China,2003,SARS-CoV,1153,40
+DON-2003-04-02-d,Republic of the Congo,2003,Ebola virus,135,120
+DON-2003-04-03,Global,2003,SARS-CoV,2270,79
+DON-2003-04-04,Global,2003,SARS-CoV,2353,84
+DON-2003-04-05,Global,2003,SARS-CoV,2416,89
+DON-2003-04-07,Global,2003,SARS-CoV,2601,98
+DON-2003-04-08,Global,2003,SARS-CoV,2671,103
+DON-2003-04-09,Global,2003,SARS-CoV,2722,106
+DON-2003-04-10,Global,2003,SARS-CoV,2781,111
+DON-2003-04-11,Global,2003,SARS-CoV,2781,111
+DON-2003-04-12,Global,2003,SARS-CoV,2960,119
+DON-2003-04-14-a,Republic of the Congo,2003,Ebola virus,140,123
+DON-2003-04-14-b,Global,2003,SARS-CoV,3169,144
+DON-2003-04-15,Global,2003,SARS-CoV,3235,154
+DON-2003-04-16,Global,2003,SARS-CoV,,
+DON-2003-04-17,Global,2003,SARS-CoV,3389,165
+DON-2003-04-18,Global,2003,SARS-CoV,3461,170
+DON-2003-04-19,Global,2003,SARS-CoV,3547,182
+DON-2003-04-21,China,2003,SARS-CoV,,
+DON-2003-04-22,Global,2003,SARS-CoV,,228
+DON-2003-04-23,Global,2003,SARS-CoV,3947,
+DON-2003-04-24-a,Netherlands,2003,Influenza A,,1
+DON-2003-04-24-b,Global,2003,SARS-CoV,4439,263
+DON-2003-04-25,Global,2003,SARS-CoV,4649,274
+DON-2003-04-26,Global,2003,SARS-CoV,4836,293
+DON-2003-04-28,Global,2003,SARS-CoV,,321
+DON-2003-04-28,Vietnam,2003,SARS-CoV,,
+DON-2003-04-29,Global,2003,SARS-CoV,,353
+DON-2003-04-30,Global,2003,SARS-CoV,,372
+DON-2003-05-01,Global,2003,SARS-CoV,,391
+DON-2003-05-02-a,Burkina Faso,2003,Meningococcal disease,7146,1058
+DON-2003-05-02-b,Global,2003,SARS-CoV,,417
+DON-2003-05-03,Global,2003,SARS-CoV,,435
+DON-2003-05-05,Global,2003,SARS-CoV,,461
+DON-2003-05-06,Global,2003,SARS-CoV,,478
+DON-2003-05-07-a,Republic of the Congo,2003,Ebola virus,143,128
+DON-2003-05-07-b,Global,2003,SARS-CoV,,495
+DON-2003-05-08-a,Global,2003,SARS-CoV,6903,
+DON-2003-05-08-b,Iraq,2003,Cholera,17,
+DON-2003-05-09-a,Zambia,2003,Cholera,68,3
+DON-2003-05-09-b,Global,2003,SARS-CoV,,514
+DON-2003-05-10,Global,2003,SARS-CoV,,526
+DON-2003-05-12,Global,2003,SARS-CoV,,552
+DON-2003-05-13-a,Iraq,2003,Cholera,,
+DON-2003-05-13-b,Global,2003,SARS-CoV,,573
+DON-2003-05-14-a,Iraq,2003,Cholera,,
+DON-2003-05-14-b,Global,2003,SARS-CoV,,587
+DON-2003-05-14-b,Canada,2003,SARS-CoV,,
+DON-2003-05-15,Global,2003,SARS-CoV,,598
+DON-2003-05-16,Global,2003,SARS-CoV,,611
+DON-2003-05-17,Global,2003,SARS-CoV,,623
+DON-2003-05-19-a,Uganda,2003,Cholera,277,35
+DON-2003-05-19-b,Global,2003,SARS-CoV,,643
+DON-2003-05-20,Global,2003,SARS-CoV,,662
+DON-2003-05-20,Philippines,2003,SARS-CoV,,2
+DON-2003-05-21-a,Mozambique,2003,Cholera,7288,67
+DON-2003-05-21-b,Taiwan,2003,SARS-CoV,,
+DON-2003-05-22-a,Global,2003,SARS-CoV,,682
+DON-2003-05-22-b,China,2003,SARS-CoV,,
+DON-2003-05-23-a,South Africa,2003,Cholera,174,3
+DON-2003-05-23-b,Global,2003,SARS-CoV,,689
+DON-2003-05-24,Global,2003,SARS-CoV,,696
+DON-2003-05-26,Global,2003,SARS-CoV,,725
+DON-2003-05-26,Canada,2003,SARS-CoV,,
+DON-2003-05-27-a,Sudan,2003,Yellow fever,178,27
+DON-2003-05-27-b,Global,2003,SARS-CoV,,735
+DON-2003-05-28,Global,2003,SARS-CoV,,745
+DON-2003-05-28,Taiwan,2003,SARS-CoV,,81
+DON-2003-05-29,Global,2003,SARS-CoV,,750
+DON-2003-05-29,China,2003,SARS-CoV,,
+DON-2003-05-30-a,Singapore,2003,SARS-CoV,,
+DON-2003-05-30-b,Global,2003,SARS-CoV,,770
+DON-2003-06-03,China,2003,SARS-CoV,,
+DON-2003-06-04,Global,2003,SARS-CoV,,772
+DON-2003-06-05,Global,2003,SARS-CoV,,775
+DON-2003-06-06,Singapore,2003,SARS-CoV,,
+DON-2003-06-09,China,2003,SARS-CoV,,
+DON-2003-06-09,Taiwan,2003,SARS-CoV,,
+DON-2003-06-09,Hong Kong,2003,SARS-CoV,,1
+DON-2003-06-10,China,2003,SARS-CoV,,
+DON-2003-06-11-a,Sudan,2003,Yellow fever,,
+DON-2003-06-11-b,Canada,2003,SARS-CoV,,
+DON-2003-06-12,China,2003,SARS-CoV,,
+DON-2003-06-13-a,China,2003,SARS-CoV,,
+DON-2003-06-13-a,Canada,2003,SARS-CoV,,
+DON-2003-06-13-b,Democratic Republic of the Congo,2003,Cholera,13452,380
+DON-2003-06-16-a,Global,2003,SARS-CoV,,
+DON-2003-06-16-b,Mozambique,2003,Cholera,11796,87
+DON-2003-06-17-a,Taiwan,2003,SARS-CoV,,
+DON-2003-06-17-b,Haiti,2003,Typhoid,200,40
+DON-2003-06-18,Global,2003,SARS-CoV,,
+DON-2003-06-19-a,Iraq,2003,Cholera,,0
+DON-2003-06-19-b,Global,2003,SARS-CoV,,
+DON-2003-06-20,Hong Kong,2003,SARS-CoV,,
+DON-2003-06-23,Hong Kong,2003,SARS-CoV,,
+DON-2003-06-24-a,China,2003,SARS-CoV,,191
+DON-2003-06-24-b,Algeria,2003,Plague,10,1
+DON-2003-06-25,China,2003,SARS-CoV,,
+DON-2003-06-25,Japan,2003,SARS-CoV,,
+DON-2003-06-26,Global,2003,SARS-CoV,,
+DON-2003-06-27,Japan,2003,SARS-CoV,,
+DON-2003-06-30,Global,2003,SARS-CoV,,
+DON-2003-07-01,Global,2003,SARS-CoV,,
+DON-2003-07-02,Canada,2003,SARS-CoV,,
+DON-2003-07-03-a,Global,2003,SARS-CoV,,
+DON-2003-07-03-b,Liberia,2003,Cholera,586,
+DON-2003-07-03-c,Algeria,2003,Plague,10,1
+DON-2003-07-04,Global,2003,SARS-CoV,,
+DON-2003-07-05,Taiwan,2003,SARS-CoV,674,84
+DON-2003-07-10,Algeria,2003,Plague,,
+DON-2003-07-15,Liberia,2003,Cholera,1630,15
+DON-2003-07-28,Hong Kong,2003,Influenza A,,
+DON-2003-08-13,Liberia,2003,Cholera,1944,17
+DON-2003-08-14,France,2003,Legionellosis,29,2
+DON-2003-08-18-a,France,2003,Legionellosis,30,3
+DON-2003-08-18-b,Liberia,2003,Cholera,,
+DON-2003-08-19,Sierra Leone,2003,Yellow fever,,
+DON-2003-08-25-a,Liberia,2003,Cholera,3889,
+DON-2003-08-25-b,Canada,2003,Human coronavirus OC43,143,
+DON-2003-08-29,Afghanistan,2003,Diptheria,50,3
+DON-2003-09-02,Liberia,2003,Cholera,6353,
+DON-2003-09-10,Singapore,2003,SARS-CoV,,0
+DON-2003-09-16,Singapore,2003,SARS-CoV,,0
+DON-2003-09-24,Singapore,2003,SARS-CoV,,
+DON-2003-09-30-a,Liberia,2003,Cholera,17561,
+DON-2003-09-30-b,Sierra Leone,2003,Yellow fever,90,10
+DON-2003-10-09,Togo,2003,Polio,1,
+DON-2003-10-09,Burkina Faso,2003,Polio,1,
+DON-2003-10-09,Ghana,2003,Polio,1,
+DON-2003-10-10,Burkina Faso,2003,Yellow fever,1,
+DON-2003-10-29,Chad,2003,Polio,,
+DON-2003-10-30,India,2003,Dengue fever,,4
+DON-2003-11-05-a,Liberia,2003,Dysentery,1857,
+DON-2003-11-05-b,Central African Republic,2003,Dysentery,379,23
+DON-2003-11-07,Republic of the Congo,2003,Ebola virus,,9
+DON-2003-11-12,India,2003,Dengue fever,,
+DON-2003-11-17,Republic of the Congo,2003,Ebola virus,11,11
+DON-2003-11-20,Benin,2003,Cholera,265,3
+DON-2003-11-21-a,Republic of the Congo,2003,Ebola virus,24,12
+DON-2003-11-21-b,Northrern Hemisphere,2003,Influenza A,,
+DON-2003-11-25-a,Mali,2003,Cholera,693,55
+DON-2003-11-25-b,Republic of the Congo,2003,Ebola virus,36,18
+DON-2003-12-03,Republic of the Congo,2003,Ebola virus,47,28
+DON-2003-12-04-a,Mali,2003,Cholera,1149,78
+DON-2003-12-04-b,Northern Hemisphere,2003,Influenza A,,
+DON-2003-12-10-a,Hong Kong,2003,Influenza A,,0
+DON-2003-12-10-b,Northern Hemisphere,2003,Influenza A,,
+DON-2003-12-12,Republic of the Congo,2003,Ebola virus,,29
+DON-2003-12-17-a,Taiwan,2003,SARS-CoV,1,
+DON-2003-12-17-b,Northern Hemisphere,2003,Influenza A,,
+DON-2003-12-17-c,Mali,2003,Cholera,1216,106
+DON-2003-12-23,Northern Hemisphere,2003,Influenza A,,
+DON-2003-12-28,China,2003,SARS-CoV,,
+DON-2003-12-30,China,2003,SARS-CoV,,0
+DON-2004-01-05,China,2004,SARS-CoV,1,0
+DON-2004-01-06,Republic of the Congo,2004,Ebola virus,35,29
+DON-2004-01-07,Global,2004,Influenza A,,
+DON-2004-01-08,China,2004,SARS-CoV,2,0
+DON-2004-01-13-a,Vietnam,2004,Influenza A,14,12
+DON-2004-01-13-b,Global,2004,Influenza A,,
+DON-2004-01-14,Vietnam,2004,Influenza A,,
+DON-2004-01-14,Republic of Korea,2004,Influenza A,0,0
+DON-2004-01-14,Japan,2004,Influenza A,0,0
+DON-2004-01-16,Vietnam,2004,Influenza A,,
+DON-2004-01-19,Vietnam,2004,Influenza A,,5
+DON-2004-01-20,Vietnam,2004,Influenza A,,5
+DON-2004-01-21,Global,2004,Influenza A,,
+DON-2004-01-22,Vietnam,2004,Influenza A,,
+DON-2004-01-23,Thailand,2004,Influenza A,,
+DON-2004-01-24,Vietnam,2004,Influenza A,,6
+DON-2004-01-24,Thailand,2004,Influenza A,,
+DON-2004-01-26,Thailand,2004,Influenza A,,1
+DON-2004-01-27-a,China,2004,SARS-CoV,,
+DON-2004-01-27-b,Thailand,2004,Influenza A,,2
+DON-2004-01-27-b,Vietnam,2004,Influenza A,,6
+DON-2004-01-27-c,China,2004,Influenza A,0,0
+DON-2004-01-28-a,Chad,2004,Cholera,131,11
+DON-2004-01-28-a,Mozambique,2004,Cholera,3699,19
+DON-2004-01-28-a,Zambia,2004,Cholera,1721,70
+DON-2004-01-28-b,Vietnam,2004,Influenza A,,6
+DON-2004-01-29,Asia,2004,Influenza A,,
+DON-2004-01-30,China,2004,Influenza A,0,0
+DON-2004-01-31,China,2004,SARS-CoV,4,
+DON-2004-02-01,Vietnam,2004,Influenza A,,8
+DON-2004-02-02,Thailand,2004,Influenza A,4,3
+DON-2004-02-02,China,2004,Influenza A,0,0
+DON-2004-02-02,Vietnam,2004,Influenza A,,
+DON-2004-02-03,Vietnam,2004,Influenza A,,9
+DON-2004-02-04,Thailand,2004,Influenza A,,4
+DON-2004-02-04,China,2004,Influenza A,0,0
+DON-2004-02-04,Indonesia,2004,Influenza A,0,0
+DON-2004-02-04,Republic of Korea,2004,Influenza A,0,0
+DON-2004-02-04,Vietnam,2004,Influenza A,,
+DON-2004-02-04,Cambodia,2004,Influenza A,0,0
+DON-2004-02-04,Laos,2004,Influenza A,0,0
+DON-2004-02-05,Vietnam,2004,Influenza A,,11
+DON-2004-02-05,Thailand,2004,Influenza A,,5
+DON-2004-02-06,Vietnam,2004,Influenza A,,
+DON-2004-02-06,China,2004,Influenza A,0,0
+DON-2004-02-09,Vietnam,2004,Influenza A,,13
+DON-2004-02-09,Asia,2004,Influenza A,0,0
+DON-2004-02-11,China,2004,Influenza A,0,0
+DON-2004-02-11,Vietnam,2004,Influenza A,,
+DON-2004-02-12-a,Bangladesh,2004,Nipah virus,42,14
+DON-2004-02-12-b,Thailand,2004,Influenza A,,
+DON-2004-02-12-b,Vietnam,2004,Influenza A,,14
+DON-2004-02-13,Thailand,2004,Influenza A,,6
+DON-2004-02-16,Vietnam,2004,Influenza A,20,14
+DON-2004-02-17,Vietnam,2004,Influenza A,21,14
+DON-2004-02-18-a,Thailand,2004,Influenza A,9,7
+DON-2004-02-18-a,Vietnam,2004,Influenza A,22,15
+DON-2004-02-18-a,Asia,2004,Influenza A,0,0
+DON-2004-02-18-b,Burundi,2004,Cholera,236,6
+DON-2004-02-18-b,Cameroon,2004,Cholera,514,13
+DON-2004-02-18-b,Mali,2004,Cholera,280,33
+DON-2004-02-18-b,Mozambique,2004,Cholera,9391,61
+DON-2004-02-18-b,South Africa,2004,Cholera,179,5
+DON-2004-02-18-b,Zambia,2004,Cholera,3835,179
+DON-2004-02-19,Vietnam,2004,Influenza A,22,15
+DON-2004-02-20,Thailand,2004,Influenza A,,7
+DON-2004-02-20,Japan,2004,Influenza A,0,0
+DON-2004-02-20,China,2004,Influenza A,0,0
+DON-2004-02-23,Vietnam,2004,Influenza A,,15
+DON-2004-02-26-a,Bangladesh,2004,Nipah virus,22,17
+DON-2004-02-26-b,Indonesia,2004,Dengue fever,14626,260
+DON-2004-02-27,Thailand,2004,Influenza A,10,7
+DON-2004-03-02,Asia,2004,Influenza A,0,0
+DON-2004-03-04,Liberia,2004,Yellow fever,33,8
+DON-2004-03-05,Indonesia,2004,Dengue fever,,387
+DON-2004-03-09,Thailand,2004,Influenza A,,7
+DON-2004-03-11,Liberia,2004,Yellow fever,39,8
+DON-2004-03-17,Thailand,2004,Influenza A,,8
+DON-2004-03-22-a,Global,2004,Influenza A,,
+DON-2004-03-22-b,Vietnam,2004,Influenza A,,2
+DON-2004-03-23,Mozambique,2004,Cholera,15237,85
+DON-2004-03-26-a,Burkina Faso,2004,Meningococcal disease,2783,527
+DON-2004-03-26-b,Nigeria,2004,Meningococcal disease,327,46
+DON-2004-03-29,Indonesia,2004,Dengue fever,40337,507
+DON-2004-04-05,Canada,2004,Influenza A,2,0
+DON-2004-04-08-a,Indonesia,2004,Dengue fever,52013,603
+DON-2004-04-08-b,Central African Republic,2004,Meningococcal disease,43,7
+DON-2004-04-08-c,Chad,2004,Meningococcal disease,19,4
+DON-2004-04-20-a,Bangladesh,2004,Nipah virus,30,18
+DON-2004-04-20-b,Sierra Leone,2004,Lassa fever,,
+DON-2004-04-22,China,2004,SARS-CoV,1,0
+DON-2004-04-23,China,2004,SARS-CoV,4,1
+DON-2004-04-26,China,2004,SARS-CoV,8,
+DON-2004-04-28,China,2004,SARS-CoV,9,1
+DON-2004-04-29,China,2004,SARS-CoV,9,1
+DON-2004-04-30,China,2004,SARS-CoV,9,1
+DON-2004-05-05,China,2004,SARS-CoV,,
+DON-2004-05-11-a,Burkina Faso,2004,Yellow fever,25,
+DON-2004-05-11-b,Indonesia,2004,Dengue fever,58301,658
+DON-2004-05-18,Sudan,2004,Ebola virus,,
+DON-2004-05-24,Sudan,2004,Ebola virus,19,4
+DON-2004-05-26,Sudan,2004,Ebola virus,20,5
+DON-2004-06-01-a,Burkina Faso,2004,Yellow fever,,
+DON-2004-06-01-b,Sudan,2004,Ebola virus,25,6
+DON-2004-06-02-a,Niger,2004,Cholera,137,5
+DON-2004-06-02-b,United States of America,2004,Salmonella enterica,32,
+DON-2004-06-07,Sudan,2004,Ebola virus,28,7
+DON-2004-06-11,Sudan,2004,Ebola virus,30,7
+DON-2004-06-15,Cameroon,2004,Cholera,2924,46
+DON-2004-06-17-a,Sudan,2004,Ebola virus,,
+DON-2004-06-17-b,Kenya,2004,Leptospirosis,,8
+DON-2004-06-22,Sudan,2004,Ebola virus,18,6
+DON-2004-07-06,Sudan,2004,Ebola virus,17,7
+DON-2004-07-08,Asia,2004,Influenza A,0,0
+DON-2004-07-14,Sudan,2004,Dysentery,1340,11
+DON-2004-07-16,Asia,2004,Influenza A,0,0
+DON-2004-07-30,Asia,2004,Influenza A,0,0
+DON-2004-08-07,Sudan,2004,Ebola virus,17,7
+DON-2004-08-10,Sudan,2004,Hepatitis E,625,22
+DON-2004-08-12,Vietnam,2004,Influenza A,,3
+DON-2004-08-13,Vietnam,2004,Influenza A,,3
+DON-2004-08-18,Vietnam,2004,Influenza A,,3
+DON-2004-08-19,Chad,2004,Hepatitis E,672,21
+DON-2004-08-20,China,2004,Influenza A,0,0
+DON-2004-08-25,China,2004,Influenza A,0,0
+DON-2004-08-30,Sudan,2004,Hepatitis E,2431,41
+DON-2004-08-31,Chad,2004,Hepatitis E,959,30
+DON-2004-09-01-a,Chad,2004,Cholera,2046,98
+DON-2004-09-01-b,France,2004,Rabies,1,0
+DON-2004-09-06,Chad,2004,Hepatitis E,1077,35
+DON-2004-09-07,Vietnam,2004,Influenza A,4,
+DON-2004-09-08,Sudan,2004,Hepatitis E,,55
+DON-2004-09-09,Thailand,2004,Influenza A,,1
+DON-2004-09-14,Venezuela,2004,Yellow fever,,1
+DON-2004-09-15,Chad,2004,Hepatitis E,,42
+DON-2004-09-27-a,Chad,2004,Cholera,3910,164
+DON-2004-09-27-b,Chad,2004,Hepatitis E,,46
+DON-2004-09-28-a,Sudan,2004,Hepatitis E,,87
+DON-2004-09-28-b,Thailand,2004,Influenza A,15,10
+DON-2004-10-04,Thailand,2004,Influenza A,,11
+DON-2004-10-25,Thailand,2004,Influenza A,17,12
+DON-2004-10-29,Asia,2004,Influenza A,,
+DON-2004-11-02,Senegal,2004,Cholera,128,2
+DON-2004-11-12,Senegal,2004,Cholera,861,6
+DON-2004-11-24,Burkina Faso,2004,Yellow fever,,1
+DON-2004-12-03,Nigeria,2004,Cholera,1316,76
+DON-2004-12-15,Democratic Republic of the Congo,2004,Typhoid,13400,134
+DON-2004-12-30,Vietnam,2004,Influenza A,28,20
+DON-2005-01-06-a,Mali,2005,Yellow fever,,1
+DON-2005-01-06-b,Vietnam,2005,Influenza A,3,2
+DON-2005-01-07,Guinea,2005,Yellow fever,,
+DON-2005-01-11-a,Philippines,2005,Meningococcal disease,33,19
+DON-2005-01-11-b,Chad,2005,Meningococcal disease,3,
+DON-2005-01-13,Vietnam,2005,Influenza A,31,23
+DON-2005-01-14,Vietnam,2005,Influenza A,6,4
+DON-2005-01-19-a,Democratic Republic of the Congo,2005,Typhoid,42564,214
+DON-2005-01-19-b,Philippines,2005,Meningococcal disease,78,30
+DON-2005-01-19-c,Vietnam,2005,Influenza A,,0
+DON-2005-01-20,Chad,2005,Meningococcal disease,8,
+DON-2005-01-26,Vietnam,2005,Influenza A,10,9
+DON-2005-01-28-a,Chad,2005,Meningococcal disease,14,
+DON-2005-01-28-b,Philippines,2005,Meningococcal disease,98,32
+DON-2005-01-28-c,Vietnam,2005,Influenza A,12,9
+DON-2005-01-31,Timor-Leste,2005,Syndromic: haemorrhagic,67,8
+DON-2005-02-02,Cambodia,2005,Influenza A,1,1
+DON-2005-02-02,Vietnam,2005,Influenza A,13,12
+DON-2005-02-03,Timor-Leste,2005,Dengue fever,95,11
+DON-2005-02-10,Timor-Leste,2005,Dengue fever,178,16
+DON-2005-02-14,Sudan,2005,Meningococcal disease,250,19
+DON-2005-02-15,Timor-Leste,2005,Dengue fever,215,20
+DON-2005-02-18,Democratic Republic of the Congo,2005,Plague,,61
+DON-2005-03-01-a,Democratic Republic of the Congo,2005,Plague,,1
+DON-2005-03-01-b,Timor-Leste,2005,Dengue fever,336,22
+DON-2005-03-04,Democratic Republic of the Congo,2005,Plague,57,16
+DON-2005-03-07,Vietnam,2005,Influenza A,,
+DON-2005-03-09,Democratic Republic of the Congo,2005,Plague,114,54
+DON-2005-03-11,Vietnam,2005,Influenza A,,13
+DON-2005-03-15,Democratic Republic of the Congo,2005,Plague,,57
+DON-2005-03-17-a,Nigeria,2005,Measles,1118,76
+DON-2005-03-17-b,Sri Lanka,2005,Syndromic: cardiovascular,,
+DON-2005-03-17-c,Angola,2005,Marburg fever,,39
+DON-2005-03-23-a,Angola,2005,Marburg fever,102,95
+DON-2005-03-23-b,Sudan,2005,Meningococcal disease,,
+DON-2005-03-24-a,Chad,2005,Meningococcal disease,387,53
+DON-2005-03-24-b,Angola,2005,Marburg fever,,
+DON-2005-03-29-a,Senegal,2005,Cholera,2054,8
+DON-2005-03-29-b,Angola,2005,Marburg fever,124,117
+DON-2005-03-29-c,Vietnam,2005,Influenza A,,28
+DON-2005-03-29-c,Cambodia,2005,Influenza A,2,
+DON-2005-03-30,Democratic People's Republic of Korea,2005,Influenza A,0,0
+DON-2005-03-31-a,Senegal,2005,Cholera,757,
+DON-2005-03-31-b,Angola,2005,Marburg fever,132,127
+DON-2005-04-01,Angola,2005,Marburg fever,140,132
+DON-2005-04-04-a,Vietnam,2005,Influenza A,33,15
+DON-2005-04-04-b,Angola,2005,Marburg fever,163,150
+DON-2005-04-06-a,Angola,2005,Marburg fever,181,156
+DON-2005-04-06-b,Sudan,2005,Meningococcal disease,,5
+DON-2005-04-07,Angola,2005,Marburg fever,200,173
+DON-2005-04-08-a,Senegal,2005,Cholera,3475,54
+DON-2005-04-08-b,Angola,2005,Marburg fever,,
+DON-2005-04-11,Angola,2005,Marburg fever,,
+DON-2005-04-12,Cambodia,2005,Influenza A,,
+DON-2005-04-13,Angola,2005,Marburg fever,231,210
+DON-2005-04-14-a,Vietnam,2005,Influenza A,41,16
+DON-2005-04-14-b,Angola,2005,Marburg fever,235,215
+DON-2005-04-15,Angola,2005,Marburg fever,224,207
+DON-2005-04-20,Senegal,2005,Cholera,1187,14
+DON-2005-04-21,Angola,2005,Marburg fever,266,239
+DON-2005-04-22,Angola,2005,Marburg fever,266,244
+DON-2005-04-25,Yemen,2005,Polio,,
+DON-2005-04-29,Angola,2005,Marburg fever,275,255
+DON-2005-05-04,Cambodia,2005,Influenza A,4,
+DON-2005-05-06,Angola,2005,Marburg fever,308,277
+DON-2005-05-09,India,2005,Meningococcal disease,111,15
+DON-2005-05-11,Angola,2005,Marburg fever,316,276
+DON-2005-05-12,India,2005,Meningococcal disease,214,16
+DON-2005-05-13-a,Republic of the Congo,2005,Ebola virus,,9
+DON-2005-05-13-b,Senegal,2005,Cholera,509,6
+DON-2005-05-17,India,2005,Meningococcal disease,303,26
+DON-2005-05-18-a,Republic of the Congo,2005,Ebola virus,11,9
+DON-2005-05-18-b,Angola,2005,Marburg fever,337,311
+DON-2005-05-19,Vietnam,2005,Influenza A,76,37
+DON-2005-05-19,Thailand,2005,Influenza A,17,12
+DON-2005-05-19,Cambodia,2005,Influenza A,4,4
+DON-2005-05-25,Republic of the Congo,2005,Ebola virus,12,9
+DON-2005-05-27-a,Senegal,2005,Cholera,766,8
+DON-2005-05-27-b,Angola,2005,Marburg fever,399,335
+DON-2005-05-30-a,Yemen,2005,Polio,179,
+DON-2005-05-30-b,India,2005,Meningococcal disease,368,37
+DON-2005-06-06,Indonesia,2005,Polio,20,
+DON-2005-06-07,Angola,2005,Marburg fever,423,357
+DON-2005-06-08-a,Indonesia,2005,Polio,28,
+DON-2005-06-08-b,Vietnam,2005,Influenza A,52,18
+DON-2005-06-09,Indonesia,2005,Polio,34,
+DON-2005-06-14-a,India,2005,Meningococcal disease,405,48
+DON-2005-06-14-b,Indonesia,2005,Polio,39,
+DON-2005-06-14-c,Vietnam,2005,Influenza A,55,18
+DON-2005-06-15,Indonesia,2005,Polio,46,
+DON-2005-06-16-a,Republic of the Congo,2005,Ebola virus,12,9
+DON-2005-06-16-b,Vietnam,2005,Influenza A,7,
+DON-2005-06-17-a,Angola,2005,Marburg fever,422,356
+DON-2005-06-17-b,Vietnam,2005,Influenza A,59,18
+DON-2005-06-20,Indonesia,2005,Polio,51,
+DON-2005-06-21,Afghanistan,2005,Cholera,3245,
+DON-2005-06-27,Indonesia,2005,Polio,65,
+DON-2005-06-28,Vietnam,2005,Influenza A,60,18
+DON-2005-06-30,Vietnam,2005,Influenza A,,
+DON-2005-07-01-a,Indonesia,2005,Polio,66,
+DON-2005-07-01-b,Angola,2005,Polio,1,
+DON-2005-07-04,Indonesia,2005,Polio,79,
+DON-2005-07-05,Indonesia,2005,Polio,100,
+DON-2005-07-08-a,Indonesia,2005,Polio,122,
+DON-2005-07-08-b,Senegal,2005,Cholera,469,4
+DON-2005-07-13,Angola,2005,Marburg fever,351,312
+DON-2005-07-15,Senegal,2005,Cholera,532,6
+DON-2005-07-21-a,Indonesia,2005,Polio,153,
+DON-2005-07-21-b,Indonesia,2005,Influenza A,3,3
+DON-2005-07-29-a,Indonesia,2005,Polio,155,
+DON-2005-07-29-b,Angola,2005,Marburg fever,368,323
+DON-2005-07-29-c,Niger,2005,Cholera,49,5
+DON-2005-07-29-d,Indonesia,2005,Influenza A,3,
+DON-2005-08-03,China,2005,Streptococcus suis,206,38
+DON-2005-08-05,Vietnam,2005,Influenza A,63,20
+DON-2005-08-18,Russia,2005,Influenza A,0,0
+DON-2005-08-18,Kazakhstan,2005,Influenza A,0,0
+DON-2005-08-18,Mongolia,2005,Influenza A,0,0
+DON-2005-08-18,China,2005,Influenza A,0,0
+DON-2005-08-24,Angola,2005,Marburg fever,374,329
+DON-2005-08-25-a,Angola,2005,Polio,7,
+DON-2005-08-25-b,Indonesia,2005,Polio,225,
+DON-2005-08-26,Burkina Faso,2005,Cholera,295,8
+DON-2005-08-26,Guinea,2005,Cholera,571,32
+DON-2005-08-26,Guinea-Bissau,2005,Cholera,9047,172
+DON-2005-08-26,Liberia,2005,Cholera,703,29
+DON-2005-08-26,Mali,2005,Cholera,158,20
+DON-2005-08-26,Mauritania,2005,Cholera,717,
+DON-2005-08-26,Niger,2005,Cholera,125,15
+DON-2005-08-26,Senegal,2005,Cholera,19863,231
+DON-2005-08-31,Guinea,2005,Yellow fever,7,4
+DON-2005-09-06,Ethiopia,2005,Polio,15,
+DON-2005-09-13-a,Somalia,2005,Polio,1,
+DON-2005-09-13-b,India,2005,Japanese encephalitis,1145,296
+DON-2005-09-16,Indonesia,2005,Influenza A,4,4
+DON-2005-09-19,Vietnam,2005,Influenza A,64,21
+DON-2005-09-22,Burkina Faso,2005,Yellow fever,,0
+DON-2005-09-22,Cote d'Ivoire,2005,Yellow fever,,1
+DON-2005-09-23,Benin,2005,Cholera,210,4
+DON-2005-09-23,Burkina Faso,2005,Cholera,615,9
+DON-2005-09-23,Guinea,2005,Cholera,1956,72
+DON-2005-09-23,Guinea-Bissau,2005,Cholera,14303,252
+DON-2005-09-23,Mali,2005,Cholera,158,20
+DON-2005-09-23,Mauritania,2005,Cholera,2640,55
+DON-2005-09-23,Niger,2005,Cholera,431,44
+DON-2005-09-23,Senegal,2005,Cholera,23325,303
+DON-2005-09-29,Indonesia,2005,Influenza A,,3
+DON-2005-09-30,Indonesia,2005,Polio,251,
+DON-2005-10-10,Indonesia,2005,Influenza A,,3
+DON-2005-10-13,Turkey,2005,Influenza A,0,0
+DON-2005-10-13,Romania,2005,Influenza A,0,0
+DON-2005-10-20-a,Senegal,2005,Yellow fever,,2
+DON-2005-10-20-b,Thailand,2005,Influenza A,,13
+DON-2005-10-24,Thailand,2005,Influenza A,,13
+DON-2005-10-24,Indonesia,2005,Influenza A,7,4
+DON-2005-11-01,Thailand,2005,Influenza A,,13
+DON-2005-11-02,Guinea,2005,Yellow fever,9,
+DON-2005-11-03,Mali,2005,Yellow fever,,2
+DON-2005-11-07-a,Indonesia,2005,Influenza A,,5
+DON-2005-11-07-b,Angola,2005,Marburg fever,63,
+DON-2005-11-09,Vietnam,2005,Influenza A,65,22
+DON-2005-11-10,Mali,2005,Yellow fever,21,14
+DON-2005-11-14,Thailand,2005,Influenza A,21,13
+DON-2005-11-16,Mali,2005,Yellow fever,,14
+DON-2005-11-17,China,2005,Influenza A,,1
+DON-2005-11-17,Indonesia,2005,Influenza A,,7
+DON-2005-11-21,Sudan,2005,Yellow fever,404,118
+DON-2005-11-24,China,2005,Influenza A,,2
+DON-2005-11-25,Vietnam,2005,Influenza A,66,22
+DON-2005-11-28-a,Sudan,2005,Yellow fever,530,131
+DON-2005-11-28-b,Mali,2005,Yellow fever,,23
+DON-2005-11-29,Indonesia,2005,Influenza A,,7
+DON-2005-11-29,China,2005,Influenza A,,2
+DON-2005-12-06,Indonesia,2005,Influenza A,,8
+DON-2005-12-07-a,Cote d'Ivoire,2005,Yellow fever,,
+DON-2005-12-07-b,China,2005,Influenza A,,2
+DON-2005-12-09-a,China,2005,Influenza A,,
+DON-2005-12-09-a,Thailand,2005,Influenza A,22,14
+DON-2005-12-09-b,Sudan,2005,Yellow fever,565,143
+DON-2005-12-14,Indonesia,2005,Influenza A,,9
+DON-2005-12-16,China,2005,Influenza A,,2
+DON-2005-12-19,Guinea,2005,Yellow fever,114,26
+DON-2005-12-23,Indonesia,2005,Influenza A,,11
+DON-2005-12-30,China,2005,Influenza A,,3
+DON-2006-01-05,Turkey,2006,Influenza A,,2
+DON-2006-01-07,Turkey,2006,Influenza A,,2
+DON-2006-01-09,Turkey,2006,Influenza A,,2
+DON-2006-01-10-a,China,2006,Influenza A,,5
+DON-2006-01-10-b,Turkey,2006,Influenza A,,
+DON-2006-01-12,Turkey,2006,Influenza A,,
+DON-2006-01-14,Indonesia,2006,Influenza A,,12
+DON-2006-01-16,Turkey,2006,Influenza A,,4
+DON-2006-01-18,Turkey,2006,Influenza A,,4
+DON-2006-01-19,China,2006,Influenza A,,6
+DON-2006-01-23,Indonesia,2006,Influenza A,,14
+DON-2006-01-25-a,Uganda,2006,Meningococcal disease,,
+DON-2006-01-25-b,China,2006,Influenza A,,7
+DON-2006-01-30-a,Turkey,2006,Influenza A,21,4
+DON-2006-01-30-b,Iraq,2006,Influenza A,3,2
+DON-2006-02-02,Iraq,2006,Influenza A,5,2
+DON-2006-02-03,Sudan,2006,Meningococcal disease,,15
+DON-2006-02-06,Indonesia,2006,Influenza A,,16
+DON-2006-02-07,Iraq,2006,Influenza A,10,3
+DON-2006-02-08,Nigeria,2006,Influenza A,,
+DON-2006-02-09,China,2006,Influenza A,,7
+DON-2006-02-10,Uganda,2006,Meningococcal disease,,23
+DON-2006-02-13-a,Indonesia,2006,Influenza A,,18
+DON-2006-02-13-b,China,2006,Influenza A,,8
+DON-2006-02-17-a,Iraq,2006,Influenza A,,2
+DON-2006-02-17-b,La Reunion,2006,Chikungunya,1722,
+DON-2006-02-20,Indonesia,2006,Influenza A,,19
+DON-2006-02-21-a,India,2006,Influenza A,,
+DON-2006-02-21-b,Global,2006,Influenza A,,
+DON-2006-02-22,Nigeria,2006,Influenza A,4,1
+DON-2006-02-23,India,2006,Influenza A,,
+DON-2006-02-24,Sudan,2006,Cholera,3793,77
+DON-2006-02-27-a,Indonesia,2006,Influenza A,,20
+DON-2006-02-27-b,China,2006,Influenza A,,8
+DON-2006-02-28-a,Niger,2006,Influenza A,,
+DON-2006-02-28-b,Germany,2006,Influenza A,0,0
+DON-2006-03-01-a,La Reunion,2006,Chikungunya,2406,
+DON-2006-03-01-a,Mayotte,2006,Chikungunya,924,
+DON-2006-03-01-a,Mauritius,2006,Chikungunya,2553,
+DON-2006-03-01-a,Seychelles,2006,Chikungunya,4650,
+DON-2006-03-01-b,Iraq,2006,Influenza A,,2
+DON-2006-03-03-a,Niger,2006,Meningococcal disease,614,44
+DON-2006-03-03-b,Kenya,2006,Meningococcal disease,74,15
+DON-2006-03-06-a,Sudan,2006,Cholera,5634,127
+DON-2006-03-06-b,China,2006,Influenza A,,9
+DON-2006-03-08,China,2006,Influenza A,,10
+DON-2006-03-09-a,Nigeria,2006,Influenza A,,
+DON-2006-03-09-b,Germany,2006,Influenza A,0,0
+DON-2006-03-10-a,Indonesia,2006,Influenza A,,21
+DON-2006-03-10-b,Azerbaijan,2006,Influenza A,10,2
+DON-2006-03-13,Indonesia,2006,Influenza A,,22
+DON-2006-03-14,Azerbaijan,2006,Influenza A,,3
+DON-2006-03-16,Bangladesh,2006,Polio,,
+DON-2006-03-17,La R-union Island,2006,Chikungunya,3115,
+DON-2006-03-17,Mayotte,2006,Chikungunya,,
+DON-2006-03-17,Mauritius,2006,Chikungunya,,
+DON-2006-03-17,Seychelles,2006,Chikungunya,,
+DON-2006-03-17,India,2006,Chikungunya,12575,
+DON-2006-03-17,Madagascar,2006,Dengue fever,602,
+DON-2006-03-17,Maldives,2006,Dengue fever,,
+DON-2006-03-17,La R-union Island,2006,Dengue fever,,
+DON-2006-03-20,Egypt,2006,Influenza A,,1
+DON-2006-03-21-a,African Meningitis Belt,2006,Meningococcal disease,580,
+DON-2006-03-21-b,Azerbaijan,2006,Influenza A,,5
+DON-2006-03-22-a,Sudan,2006,Cholera,8923,238
+DON-2006-03-22-b,Thailand,2006,Botulism,152,0
+DON-2006-03-24-a,Cambodia,2006,Influenza A,,5
+DON-2006-03-24-b,Somalia,2006,Polio,2,
+DON-2006-03-24-c,China,2006,Influenza A,,11
+DON-2006-03-29,Egypt,2006,Influenza A,,2
+DON-2006-04-03-a,Egypt,2006,Influenza A,,
+DON-2006-04-03-b,Indonesia,2006,Influenza A,,23
+DON-2006-04-06-a,Cambodia,2006,Influenza A,,6
+DON-2006-04-06-b,Egypt,2006,Influenza A,,3
+DON-2006-04-11,Azerbaijan,2006,Influenza A,,5
+DON-2006-04-12,Indonesia,2006,Influenza A,,23
+DON-2006-04-13,Egypt,2006,Influenza A,,3
+DON-2006-04-19-a,China,2006,Influenza A,,11
+DON-2006-04-19-b,Indonesia,2006,Influenza A,,24
+DON-2006-04-21-a,China,2006,Influenza A,,12
+DON-2006-04-21-b,Egypt,2006,Influenza A,,4
+DON-2006-04-27,China,2006,Influenza A,,12
+DON-2006-05-04,Egypt,2006,Influenza A,,4
+DON-2006-05-05,Egypt,2006,Influenza A,,5
+DON-2006-05-08,Indonesia,2006,Influenza A,,25
+DON-2006-05-10,Angola,2006,Cholera,30612,1156
+DON-2006-05-12,Djibouti,2006,Influenza A,,0
+DON-2006-05-18-a,Angola,2006,Cholera,35775,1298
+DON-2006-05-18-b,Sudan,2006,Cholera,13852,516
+DON-2006-05-18-c,Indonesia,2006,Influenza A,,31
+DON-2006-05-18-d,Egypt,2006,Influenza A,,6
+DON-2006-05-19,Indonesia,2006,Influenza A,,32
+DON-2006-05-22,Indonesia,2006,Influenza A,,1
+DON-2006-05-23,Indonesia,2006,Influenza A,,1
+DON-2006-05-25,Angola,2006,Cholera,38897,1437
+DON-2006-05-29,Indonesia,2006,Influenza A,,36
+DON-2006-05-31,Indonesia,2006,Influenza A,8,7
+DON-2006-06-06-a,Indonesia,2006,Influenza A,,0
+DON-2006-06-06-b,Angola,2006,Cholera,41475,1576
+DON-2006-06-06-c,Indonesia,2006,Influenza A,,37
+DON-2006-06-07,Namibia,2006,Polio,34,
+DON-2006-06-09,Angola,2006,Cholera,43076,1642
+DON-2006-06-14,Democratic Republic of the Congo,2006,Plague,>100,19
+DON-2006-06-15,Indonesia,2006,Influenza A,,38
+DON-2006-06-16,China,2006,Influenza A,,12
+DON-2006-06-20,Indonesia,2006,Influenza A,,39
+DON-2006-06-21-a,Angola,2006,Cholera,46758,1893
+DON-2006-06-21-b,Sudan,2006,Cholera,18194,553
+DON-2006-07-04,Indonesia,2006,Influenza A,,40
+DON-2006-07-14,Indonesia,2006,Influenza A,,41
+DON-2006-07-25,Germany,2006,Lassa fever,,0
+DON-2006-08-07,Thailand,2006,Influenza A,,
+DON-2006-08-08-a,China,2006,Influenza A,,13
+DON-2006-08-08-b,Indonesia,2006,Influenza A,,43
+DON-2006-08-08-c,Turkey,2006,Crimean-Congo haemorrhagic fever,,20
+DON-2006-08-09,Indonesia,2006,Influenza A,,44
+DON-2006-08-14-a,China,2006,Influenza A,,14
+DON-2006-08-14-b,Indonesia,2006,Influenza A,,44
+DON-2006-08-17,Indonesia,2006,Influenza A,,45
+DON-2006-08-21,Indonesia,2006,Influenza A,,46
+DON-2006-08-23,Indonesia,2006,Influenza A,,46
+DON-2006-09-08,Ethiopia,2006,Polio,37,
+DON-2006-09-08,Somalia,2006,Polio,,
+DON-2006-09-14,Indonesia,2006,Influenza A,,49
+DON-2006-09-19,Iraq,2006,Influenza A,2,
+DON-2006-09-25,Indonesia,2006,Influenza A,,51
+DON-2006-09-27-a,Thailand,2006,Influenza A,,17
+DON-2006-09-27-b,Indonesia,2006,Influenza A,,51
+DON-2006-09-28,Indonesia,2006,Influenza A,,52
+DON-2006-10-03,Indonesia,2006,Influenza A,,52
+DON-2006-10-04,Ethiopia,2006,Syndromic: diarrhoeal,22101,219
+DON-2006-10-11-a,Egypt,2006,Influenza A,,6
+DON-2006-10-11-b,United States,2006,Botulism,2,0
+DON-2006-10-11-b,Canada,2006,Botulism,2,0
+DON-2006-10-13,Democratic Republic of the Congo,2006,Plague,,42
+DON-2006-10-16,Indonesia,2006,Influenza A,,55
+DON-2006-10-17,India,2006,Chikungunya,,
+DON-2006-10-19-a,Kenya,2006,Polio,,
+DON-2006-10-19-b,Cote d'Ivoire,2006,Yellow fever,,0
+DON-2006-10-31,Egypt,2006,Influenza A,,7
+DON-2006-11-07,Democratic Republic of the Congo,2006,Plague,,50
+DON-2006-11-13,Indonesia,2006,Influenza A,,56
+DON-2006-11-21,Sudan,2006,Meningococcal disease,,16
+DON-2006-11-29,Indonesia,2006,Influenza A,,57
+DON-2006-12-19,Togo,2006,Yellow fever,,
+DON-2006-12-26,Kenya,2006,Rift Valley fever,12,11
+DON-2006-12-27-a,Kenya,2006,Rift Valley fever,32,19
+DON-2006-12-27-b,Egypt,2006,Influenza A,,3
+DON-2007-01-09,Indonesia,2007,Influenza A,,57
+DON-2007-01-10,China,2007,Influenza A,,14
+DON-2007-01-11-a,Togo,2007,Yellow fever,,0
+DON-2007-01-11-b,Indonesia,2007,Influenza A,,58
+DON-2007-01-12,Indonesia,2007,Influenza A,,59
+DON-2007-01-15-a,Indonesia,2007,Influenza A,,61
+DON-2007-01-15-b,Kenya,2007,Rift Valley fever,,82
+DON-2007-01-18,Egypt,2007,Influenza A,,
+DON-2007-01-22-a,Indonesia,2007,Influenza A,,62
+DON-2007-01-22-b,Egypt,2007,Influenza A,,11
+DON-2007-01-24,Uganda,2007,Meningococcal disease,,16
+DON-2007-01-29-a,Indonesia,2007,Influenza A,,63
+DON-2007-01-29-b,Togo,2007,Yellow fever,,
+DON-2007-01-31-a,Kenya,2007,Rift Valley fever,,121
+DON-2007-01-31-a,Somalia,2007,Rift Valley fever,,48
+DON-2007-01-31-b,Nigera,2007,Influenza A,,2
+DON-2007-02-02,Democratic Republic of the Congo,2007,Meningococcal disease,,6
+DON-2007-02-03,Nigeria,2007,Influenza A,,1
+DON-2007-02-06,Egypt,2007,Influenza A,,12
+DON-2007-02-07-a,Burkina Faso,2007,Meningococcal disease,,96
+DON-2007-02-07-b,Chad,2007,Polio,,
+DON-2007-02-09,Jamaica,2007,Malaria,,0
+DON-2007-02-12,Togo,2007,Yellow fever,,
+DON-2007-02-15-a,Egypt,2007,Influenza A,,12
+DON-2007-02-15-b,Sudan,2007,Meningococcal disease,,96
+DON-2007-02-16,Egypt,2007,Influenza A,,13
+DON-2007-02-19,Egypt,2007,Influenza A,,13
+DON-2007-02-27,Lao People's Democratic Republic,2007,Influenza A,,0
+DON-2007-03-01-a,Egypt,2007,Influenza A,,13
+DON-2007-03-01-b,China,2007,Influenza A,,14
+DON-2007-03-08,Lao People's Democratic Republic,2007,Influenza A,,1
+DON-2007-03-12,Egypt,2007,Influenza A,,13
+DON-2007-03-15-a,Egypt,2007,Influenza A,,13
+DON-2007-03-15-b,Sudan,2007,Meningococcal disease,,430
+DON-2007-03-16,Lao People's Democratic Republic,2007,Influenza A,,2
+DON-2007-03-19-a,Egypt,2007,Influenza A,,13
+DON-2007-03-19-b,Burkina Faso,2007,Meningococcal disease,,583
+DON-2007-03-20,Egypt,2007,Influenza A,,13
+DON-2007-03-23,United Republic of Tanzania,2007,Rift Valley fever,,12
+DON-2007-03-27,Egypt,2007,Influenza A,,13
+DON-2007-03-28,Egypt,2007,Influenza A,,13
+DON-2007-03-29,China,2007,Influenza A,,15
+DON-2007-04-02,Egypt,2007,Influenza A,,13
+DON-2007-04-10-a,Egypt,2007,Influenza A,,13
+DON-2007-04-10-b,Cambodia,2007,Influenza A,,7
+DON-2007-04-11,Egypt,2007,Influenza A,,14
+DON-2007-04-17,Burkina Faso,2007,Meningococcal disease,,1490
+DON-2007-05-09,Kenya,2007,Rift Valley fever,684,155
+DON-2007-05-09,Somalia,2007,Rift Valley fever,114,51
+DON-2007-05-09,United Republic of Tanzania,2007,Rift Valley fever,264,109
+DON-2007-05-16,Indonesia,2007,Influenza A,,13
+DON-2007-05-24,Indonesia,2007,Influenza A,,77
+DON-2007-05-29,United Kingdom,2007,Influenza A,,
+DON-2007-05-30-a,China,2007,Influenza A,,15
+DON-2007-05-30-b,United States of America,2007,Tuberculosis,1,
+DON-2007-05-31,Indonesia,2007,Influenza A,,78
+DON-2007-06-04-a,United Kingdom,2007,Influenza A,,
+DON-2007-06-04-b,China,2007,Influenza A,,16
+DON-2007-06-06,Indonesia,2007,Influenza A,,79
+DON-2007-06-11,Egypt,2007,Influenza A,,15
+DON-2007-06-12,Egypt,2007,Influenza A,,15
+DON-2007-06-15,Indonesia,2007,Influenza A,,80
+DON-2007-06-25-a,Egypt,2007,Influenza A,,15
+DON-2007-06-25-b,Indonesia,2007,Influenza A,,80
+DON-2007-06-29,Vietnam,2007,Influenza A,,0
+DON-2007-07-11,Indonesia,2007,Influenza A,,81
+DON-2007-07-25,Egypt,2007,Influenza A,,15
+DON-2007-07-30,Angola,2007,Polio,8,
+DON-2007-07-30,Democratic Republic of the Congo,2007,Polio,26,
+DON-2007-08-03,Uganda,2007,Marburg fever,,
+DON-2007-08-09,Angola,2007,Polio,10,
+DON-2007-08-14-a,Uganda,2007,Marburg fever,,
+DON-2007-08-14-b,Indonesia,2007,Influenza A,,82
+DON-2007-08-16,Indonesia,2007,Influenza A,,83
+DON-2007-08-21,Democratic Republic of the Congo,2007,Polio,27,
+DON-2007-08-23,Indonesia,2007,Influenza A,,84
+DON-2007-08-31-a,Vietnam,2007,Influenza A,,2
+DON-2007-08-31-b,Democratic Republic of the Congo,2007,Unspecified,,
+DON-2007-09-10-a,Indonesia,2007,Influenza A,,85
+DON-2007-09-10-b,Iraq,2007,Cholera,6916,10
+DON-2007-09-11,Democratic Republic of the Congo,2007,Ebola virus,372,166
+DON-2007-09-25,Iraq,2007,Cholera,>30000,
+DON-2007-09-27,Democratic Republic of the Congo,2007,Ebola virus,,
+DON-2007-10-02,Indonesia,2007,Influenza A,,86
+DON-2007-10-03-a,Iraq,2007,Cholera,>30000,14
+DON-2007-10-03-b,Democratic Republic of the Congo,2007,Ebola virus,76,
+DON-2007-10-08,Indonesia,2007,Influenza A,,87
+DON-2007-10-12,Indonesia,2007,Influenza A,,87
+DON-2007-10-17,Indonesia,2007,Influenza A,,88
+DON-2007-10-25,Indonesia,2007,Influenza A,,89
+DON-2007-10-31,Indonesia,2007,Influenza A,,89
+DON-2007-11-05-a,Sudan,2007,Rift Valley fever,125,60
+DON-2007-11-05-b,Indonesia,2007,Influenza A,,90
+DON-2007-11-07,Sudan,2007,Rift Valley fever,228,84
+DON-2007-11-12,Indonesia,2007,Influenza A,,91
+DON-2007-11-14,Sudan,2007,Rift Valley fever,329,96
+DON-2007-11-16,Angola,2007,Unspecified,370,
+DON-2007-11-21,Angola,2007,Unspecified,390,
+DON-2007-11-22,Sudan,2007,Rift Valley fever,451,164
+DON-2007-11-30-a,Angola,2007,Toxicity: bromide poisoning,,
+DON-2007-11-30-b,Uganda,2007,Ebola virus,,16
+DON-2007-12-04,China,2007,Influenza A,,17
+DON-2007-12-07,Uganda,2007,Ebola virus,,22
+DON-2007-12-09,China,2007,Influenza A,,17
+DON-2007-12-12,Indonesia,2007,Influenza A,,92
+DON-2007-12-13,Indonesia,2007,Influenza A,,92
+DON-2007-12-14,Myanmar,2007,Influenza A,,0
+DON-2007-12-15,Pakistan,2007,Influenza A,,2
+DON-2007-12-18,Indonesia,2007,Influenza A,,93
+DON-2007-12-21,Sudan,2007,Rift Valley fever,632,218
+DON-2007-12-26-a,Indonesia,2007,Influenza A,,94
+DON-2007-12-26-b,Egypt,2007,Influenza A,,16
+DON-2007-12-27,Pakistan,2007,Influenza A,,1
+DON-2007-12-28-a,Vietnam,2007,Influenza A,,47
+DON-2007-12-28-b,Egypt,2007,Influenza A,,16
+DON-2008-01-02,Egypt,2008,Influenza A,,18
+DON-2008-01-03,Egypt,2008,Influenza A,,19
+DON-2008-01-11,Indonesia,2008,Influenza A,,94
+DON-2008-01-15,Indonesia,2008,Influenza A,,95
+DON-2008-01-18,Indonesia,2008,Influenza A,,96
+DON-2008-01-21,Indonesia,2008,Influenza A,,97
+DON-2008-01-22,Sudan,2008,Rift Valley fever,698,222
+DON-2008-01-23-a,Indonesia,2008,Influenza A,,97
+DON-2008-01-23-b,Vietnam,2008,Influenza A,,48
+DON-2008-01-24,Indonesia,2008,Influenza A,,98
+DON-2008-01-29,Indonesia,2008,Influenza A,,100
+DON-2008-01-30,Indonesia,2008,Influenza A,,101
+DON-2008-02-01,Indonesia,2008,Influenza A,,102
+DON-2008-02-05,Indonesia,2008,Influenza A,,103
+DON-2008-02-07,Brazil,2008,Yellow fever,48,13
+DON-2008-02-12,Indonesia,2008,Influenza A,,103
+DON-2008-02-15,Vietnam,2008,Influenza A,,49
+DON-2008-02-20-a,Uganda,2008,Ebola virus,,
+DON-2008-02-20-b,China,2008,Influenza A,,18
+DON-2008-02-20-c,Paraguay,2008,Yellow fever,,
+DON-2008-02-21-a,Vietnam,2008,Influenza A,,50
+DON-2008-02-21-b,Indonesia,2008,Influenza A,,105
+DON-2008-02-22-a,China,2008,Influenza A,,19
+DON-2008-02-22-b,African Meningitis Belt,2008,Meningococcal disease,,
+DON-2008-02-26-a,China,2008,Influenza A,,20
+DON-2008-02-26-b,Vietnam,2008,Influenza A,,51
+DON-2008-02-28-a,Egypt,2008,Influenza A,,19
+DON-2008-02-28-b,Paraguay,2008,Yellow fever,,3
+DON-2008-03-04,Egypt,2008,Influenza A,,20
+DON-2008-03-05,Egypt,2008,Influenza A,,20
+DON-2008-03-07,Paraguay,2008,Yellow fever,,6
+DON-2008-03-11,Egypt,2008,Influenza A,,20
+DON-2008-03-18,Vietnam,2008,Influenza A,,52
+DON-2008-04-02,Indonesia,2008,Influenza A,,107
+DON-2008-04-03,Pakistan,2008,Influenza A,,2
+DON-2008-04-08,Egypt,2008,Influenza A,,21
+DON-2008-04-10,Brazil,2008,Dengue fever,120570,48
+DON-2008-04-15,Egypt,2008,Influenza A,,22
+DON-2008-04-17,Egypt,2008,Influenza A,,22
+DON-2008-04-18-a,Libera,2008,Yellow fever,,1
+DON-2008-04-18-b,Madagascar,2008,Rift Valley fever,,17
+DON-2008-04-22,Vietnam,2008,Cholera,2490,
+DON-2008-04-25,Libera,2008,Yellow fever,,1
+DON-2008-04-30,Indonesia,2008,Influenza A,,108
+DON-2008-05-01,China,2008,Enterovirus,1884,20
+DON-2008-05-07,China,2008,Enterovirus,4496,22
+DON-2008-05-20,Central African Republic,2008,Yellow fever,,
+DON-2008-05-21,China,2008,Enterovirus,,
+DON-2008-05-28,Bangladesh,2008,Influenza A,,0
+DON-2008-06-18,Nigeria,2008,Polio,,
+DON-2008-06-18,Benin,2008,Polio,,
+DON-2008-06-18,Niger,2008,Polio,,
+DON-2008-06-18,Chad,2008,Polio,,
+DON-2008-06-19,Indonesia,2008,Influenza A,,110
+DON-2008-06-23,Senegal,2008,Toxicity: lead poisoning,,
+DON-2008-07-10,Netherlands,2008,Marburg fever,,0
+DON-2008-08-08,Cote d'Ivoire,2008,Yellow fever,,
+DON-2008-09-10-a,Indonesia,2008,Influenza A,,112
+DON-2008-09-10-b,Iraq,2008,Cholera,,10
+DON-2008-09-18,China,2008,Toxicity: miscellaneous,6240,3
+DON-2008-09-22,China,2008,Toxicity: miscellaneous,40000,3
+DON-2008-09-24,Guinea-Bissau,2008,Cholera,7166,133
+DON-2008-09-29-a,Guinea,2008,Yellow fever,,1
+DON-2008-09-29-b,China,2008,Toxicity: miscellaneous,54000,3
+DON-2008-09-29-c,Iraq,2008,Cholera,,5
+DON-2008-10-10,Zambia,2008,Unspecified,1,1
+DON-2008-10-10,South Africa,2008,Unspecified,2,2
+DON-2008-10-13,South Africa,2008,Lujo mammarenavirus,,2
+DON-2008-10-13,Zambia,2008,Lujo mammarenavirus,,1
+DON-2008-10-30,Central African Republic,2008,Yellow fever,,0
+DON-2008-11-03,Burkina Faso,2008,Yellow fever,,1
+DON-2008-12-02,Zimbabwe,2008,Cholera,11735,484
+DON-2008-12-09,Indonesia,2008,Influenza A,,113
+DON-2008-12-12,Cambodia,2008,Influenza A,,7
+DON-2008-12-16,Egypt,2008,Influenza A,,23
+DON-2008-12-26-a,Zimbabwe,2008,Cholera,26497,1518
+DON-2008-12-26-a,South Africa,2008,Cholera,1279,12
+DON-2008-12-26-b,Democratic Republic of the Congo,2008,Ebola virus,,9
+DON-2009-01-02,Democratic Republic of the Congo,2009,Ebola virus,,12
+DON-2009-01-06-a,Nigeria,2009,Polio,,
+DON-2009-01-06-a,West Africa,2009,Polio,,
+DON-2009-01-06-b,Sierra Leone,2009,Yellow fever,,0
+DON-2009-01-07-a,Vietnam,2009,Influenza A,,52
+DON-2009-01-07-b,China,2009,Influenza A,,21
+DON-2009-01-11,Vietnam,2009,Influenza A,,52
+DON-2009-01-14-a,Guinea,2009,Yellow fever,,3
+DON-2009-01-14-b,Egypt,2009,Influenza A,,23
+DON-2009-01-19,China,2009,Influenza A,,22
+DON-2009-01-22,Indonesia,2009,Influenza A,,115
+DON-2009-01-24,China,2009,Influenza A,,23
+DON-2009-01-26,Egypt,2009,Influenza A,,23
+DON-2009-01-27,China,2009,Influenza A,,25
+DON-2009-01-30,Zimbabwe,2009,Cholera,60000,3100
+DON-2009-02-02,China,2009,Influenza A,,25
+DON-2009-02-03,Philippines,2009,Ebola virus,,
+DON-2009-02-05,Egypt,2009,Influenza A,,23
+DON-2009-02-09,Egypt,2009,Influenza A,,23
+DON-2009-02-11,Vietnam,2009,Influenza A,,52
+DON-2009-02-17,Democratic Republic of the Congo,2009,Ebola virus,32,15
+DON-2009-02-18,Vietnam,2009,Influenza A,,52
+DON-2009-02-19,Nigeria,2009,Meningococcal disease,,108
+DON-2009-02-20,Zimbabwe,2009,Cholera,,3731
+DON-2009-02-24,Vietnam,2009,Influenza A,,53
+DON-2009-02-27,Vietnam,2009,Influenza A,,54
+DON-2009-03-02-a,Egypt,2009,Influenza A,,23
+DON-2009-03-02-b,Sudan,2009,Polio,,
+DON-2009-03-02-b,Kenya,2009,Polio,,
+DON-2009-03-02-b,Uganda,2009,Polio,,
+DON-2009-03-04,Nigeria,2009,Meningococcal disease,,333
+DON-2009-03-10,Egypt,2009,Influenza A,,23
+DON-2009-03-11,Egypt,2009,Influenza A,,23
+DON-2009-03-23-a,Zimbabwe,2009,Cholera,91164,4037
+DON-2009-03-23-b,Egypt,2009,Influenza A,,23
+DON-2009-03-25,Nigeria,2009,Meningococcal disease,,960
+DON-2009-03-25,Niger,2009,Meningococcal disease,,169
+DON-2009-03-30,Egypt,2009,Influenza A,,23
+DON-2009-03-31,Philippines,2009,Ebola virus,,0
+DON-2009-04-08-a,Vietnam,2009,Influenza A,,55
+DON-2009-04-08-b,Egypt,2009,Influenza A,,23
+DON-2009-04-17,Egypt,2009,Influenza A,,23
+DON-2009-04-21,Egypt,2009,Influenza A,,23
+DON-2009-04-23-a,Chad,2009,Meningococcal disease,,105
+DON-2009-04-23-b,Egypt,2009,Influenza A,,23
+DON-2009-04-24,United States of America,2009,Influenza A,,0
+DON-2009-04-24,Mexico,2009,Influenza A,882,62
+DON-2009-04-26,United States of America,2009,Influenza A,,0
+DON-2009-04-26,Mexico,2009,Influenza A,,
+DON-2009-04-27,United States of America,2009,Influenza A,,0
+DON-2009-04-27,Mexico,2009,Influenza A,,7
+DON-2009-04-27,Canada,2009,Influenza A,6,0
+DON-2009-04-27,Spain,2009,Influenza A,,0
+DON-2009-04-28,United States of America,2009,Influenza A,,0
+DON-2009-04-28,Mexico,2009,Influenza A,,7
+DON-2009-04-28,Canada,2009,Influenza A,,0
+DON-2009-04-28,New Zealand,2009,Influenza A,,0
+DON-2009-04-28,United Kingdom,2009,Influenza A,,0
+DON-2009-04-28,Israel,2009,Influenza A,,0
+DON-2009-04-28,Spain,2009,Influenza A,,0
+DON-2009-04-30-a,Republic of the Congo,2009,Yellow fever,1,
+DON-2009-04-30-b,Global,2009,Influenza A,,8
+DON-2009-05-01,Global,2009,Influenza A,,10
+DON-2009-05-02-a,Global,2009,Influenza A,,17
+DON-2009-05-02-b,Global,2009,Influenza A,,17
+DON-2009-05-03-a,Global,2009,Influenza A,,20
+DON-2009-05-03-b,Global,2009,Influenza A,,20
+DON-2009-05-04-a,Global,2009,Influenza A,,26
+DON-2009-05-04-b,Global,2009,Influenza A,,26
+DON-2009-05-05-a,Global,2009,Influenza A,,26
+DON-2009-05-05-b,Global,2009,Influenza A,,30
+DON-2009-05-06-a,Global,2009,Influenza A,,30
+DON-2009-05-06-b,Liberia,2009,Yellow fever,,
+DON-2009-05-06-c,Egypt,2009,Influenza A,,23
+DON-2009-05-06-d,Vietnam,2009,Influenza A,,56
+DON-2009-05-06-e,Global,2009,Influenza A,,31
+DON-2009-05-07-a,Global,2009,Influenza A,,44
+DON-2009-05-07-b,Global,2009,Influenza A,,44
+DON-2009-05-08-a,Global,2009,Influenza A,,44
+DON-2009-05-08-b,Global,2009,Influenza A,,46
+DON-2009-05-09,Global,2009,Influenza A,,48
+DON-2009-05-10,Global,2009,Influenza A,,49
+DON-2009-05-11,Global,2009,Influenza A,,53
+DON-2009-05-12,Global,2009,Influenza A,,61
+DON-2009-05-13,Global,2009,Influenza A,,61
+DON-2009-05-14,Global,2009,Influenza A,,65
+DON-2009-05-15-a,Global,2009,Influenza A,,65
+DON-2009-05-15-b,Egypt,2009,Influenza A,,26
+DON-2009-05-16,Global,2009,Influenza A,,72
+DON-2009-05-17,Global,2009,Influenza A,,72
+DON-2009-05-18,Global,2009,Influenza A,,74
+DON-2009-05-19,Global,2009,Influenza A,,79
+DON-2009-05-20,Global,2009,Influenza A,,80
+DON-2009-05-21,Global,2009,Influenza A,,85
+DON-2009-05-22-a,Global,2009,Influenza A,,86
+DON-2009-05-22-b,Egypt,2009,Influenza A,,27
+DON-2009-05-23,Global,2009,Influenza A,,86
+DON-2009-05-25,Global,2009,Influenza A,,91
+DON-2009-05-26,Global,2009,Influenza A,,92
+DON-2009-05-27-a,Global,2009,Influenza A,,92
+DON-2009-05-27-b,Global,2009,Influenza A,,95
+DON-2009-05-28,Egypt,2009,Influenza A,,27
+DON-2009-05-29,Global,2009,Influenza A,,99
+DON-2009-06-01-a,Egypt,2009,Influenza A,,27
+DON-2009-06-01-b,Global,2009,Influenza A,,115
+DON-2009-06-02,Egypt,2009,Influenza A,,27
+DON-2009-06-03,Global,2009,Influenza A,,117
+DON-2009-06-05,Global,2009,Influenza A,,125
+DON-2009-06-08,Global,2009,Influenza A,,139
+DON-2009-06-09,Zimbabwe,2009,Cholera,,4276
+DON-2009-06-10,Global,2009,Influenza A,,141
+DON-2009-06-11,Global,2009,Influenza A,,144
+DON-2009-06-12,Global,2009,Influenza A,,145
+DON-2009-06-15,Global,2009,Influenza A,,163
+DON-2009-06-17,Global,2009,Influenza A,,167
+DON-2009-06-19,Global,2009,Influenza A,,180
+DON-2009-06-22,Global,2009,Influenza A,,231
+DON-2009-06-24,Global,2009,Influenza A,,238
+DON-2009-06-26,Global,2009,Influenza A,,263
+DON-2009-06-29,Global,2009,Influenza A,,311
+DON-2009-07-01-a,Egypt,2009,Influenza A,,27
+DON-2009-07-01-b,Global,2009,Influenza A,,332
+DON-2009-07-03,Global,2009,Influenza A,,382
+DON-2009-07-06,Global,2009,Influenza A,,429
+DON-2009-07-17,Nigeria,2009,Polio,258,
+DON-2009-07-17,Nigeria,2009,Polio,103,
+DON-2009-07-27,Global,2009,Influenza A,,816
+DON-2009-08-04,Global,2009,Influenza A,,1154
+DON-2009-08-11-a,China,2009,Plague,,3
+DON-2009-08-11-b,Egypt,2009,Influenza A,,27
+DON-2009-08-12,Global,2009,Influenza A,,1462
+DON-2009-08-21,Global,2009,Influenza A,,1799
+DON-2009-08-31,Egypt,2009,Influenza A,,27
+DON-2009-09-04,Global,2009,Influenza A,,2837
+DON-2009-09-11,Global,2009,Influenza A,,3205
+DON-2009-09-18,Global,2009,Influenza A,,3486
+DON-2009-09-20,Global,2009,Influenza A,,3917
+DON-2009-09-24,Egypt,2009,Influenza A,,27
+DON-2009-10-01,Cameroon,2009,Yellow fever,,
+DON-2009-10-02,Global,2009,Influenza A,,4108
+DON-2009-10-09,Global,2009,Influenza A,,4525
+DON-2009-10-16,Global,2009,Influenza A,,4735
+DON-2009-10-23,Global,2009,Influenza A,,4999
+DON-2009-10-30-a,Global,2009,Influenza A,,5712
+DON-2009-10-30-b,Cape Verde,2009,Dengue fever,,
+DON-2009-11-01,Ukraine,2009,Influenza A,2300,
+DON-2009-11-03,Ukraine,2009,Influenza A,250000,70
+DON-2009-11-06,Global,2009,Influenza A,,6071
+DON-2009-11-13,Global,2009,Influenza A,,6260
+DON-2009-11-17,Ukraine,2009,Influenza A,,
+DON-2009-11-18,Cape Verde,2009,Dengue fever,,
+DON-2009-11-20-a,Egypt,2009,Influenza A,,27
+DON-2009-11-20-b,Global,2009,Influenza A,,6670
+DON-2009-11-27-a,Egypt,2009,Influenza A,,27
+DON-2009-11-27-b,Global,2009,Influenza A,,7826
+DON-2009-12-01,Central African Republic,2009,Yellow fever,,3
+DON-2009-12-04,Global,2009,Influenza A,,8768
+DON-2009-12-11-a,Vietnam,2009,Influenza A,,57
+DON-2009-12-11-b,Global,2009,Influenza A,,9596
+DON-2009-12-18,Global,2009,Influenza A,,10582
+DON-2009-12-19,Cambodia,2009,Influenza A,,7
+DON-2009-12-21,Egypt,2009,Influenza A,,27
+DON-2009-12-23,Global,2009,Influenza A,,11516
+DON-2009-12-30,Global,2009,Influenza A,,12220
+DON-2010-01-08-a,Global,2010,Influenza A,,12799
+DON-2010-01-08-b,Cote d'Ivoire,2010,Yellow fever,6,
+DON-2010-01-12,Guinea,2010,Yellow fever,,
+DON-2010-01-22,Global,2010,Influenza A,,14142
+DON-2010-01-28,Egypt,2010,Influenza A,,27
+DON-2010-01-29,Global,2010,Influenza A,,14711
+DON-2010-02-05,Global,2010,Influenza A,,15174
+DON-2010-02-08,Egypt,2010,Influenza A,,27
+DON-2010-02-10,Egypt,2010,Influenza A,,27
+DON-2010-02-12-a,Global,2010,Influenza A,,15292
+DON-2010-02-12-b,Indonesia,2010,Influenza A,,135
+DON-2010-02-17,Egypt,2010,Influenza A,,30
+DON-2010-02-19,Global,2010,Influenza A,,15921
+DON-2010-02-24,Cameroon,2010,Yellow fever,,3
+DON-2010-02-26,Global,2010,Influenza A,,16226
+DON-2010-03-04-a,Egypt,2010,Influenza A,,30
+DON-2010-03-04-b,Vietnam,2010,Influenza A,,58
+DON-2010-03-05,Global,2010,Influenza A,,16455
+DON-2010-03-12,Egypt,2010,Influenza A,,32
+DON-2010-03-16,Vietnam,2010,Influenza A,,58
+DON-2010-03-19,Global,2010,Influenza A,,16813
+DON-2010-03-26,Global,2010,Influenza A,,16931
+DON-2010-03-29,Vietnam,2010,Influenza A,,59
+DON-2010-03-30-a,Egypt,2010,Influenza A,,33
+DON-2010-03-30-b,South Africa,2010,Rift Valley fever,,
+DON-2010-04-01,Chad,2010,Meningococcal disease,,151
+DON-2010-04-09-a,Egypt,2010,Influenza A,,34
+DON-2010-04-09-b,Global,2010,Influenza A,,17700
+DON-2010-04-16,Global,2010,Influenza A,,17798
+DON-2010-04-21,Vietnam,2010,Influenza A,,59
+DON-2010-04-23-a,Tajikistan,2010,Polio,,
+DON-2010-04-23-b,Global,2010,Influenza A,,17853
+DON-2010-04-29,Tajikistan,2010,Polio,171,
+DON-2010-04-30,Global,2010,Influenza A,,17919
+DON-2010-05-04-a,Cambodia,2010,Influenza A,,8
+DON-2010-05-04-b,South Africa,2010,Rift Valley fever,172,15
+DON-2010-05-06,Indonesia,2010,Influenza A,,136
+DON-2010-05-07,Global,2010,Influenza A,,18001
+DON-2010-05-12,South Africa,2010,Rift Valley fever,,18
+DON-2010-05-14,Global,2010,Influenza A,,18036
+DON-2010-05-21,Global,2010,Influenza A,,18097
+DON-2010-05-27,Cameroon,2010,Yellow fever,,0
+DON-2010-05-28,Global,2010,Influenza A,,18114
+DON-2010-06-04,Global,2010,Influenza A,,18138
+DON-2010-06-08,China,2010,Influenza A,,26
+DON-2010-06-11,Global,2010,Influenza A,,18156
+DON-2010-06-18,Global,2010,Influenza A,,18172
+DON-2010-06-25,Global,2010,Influenza A,,18209
+DON-2010-06-29,Republic of the Congo,2010,Syndromic: haemorrhagic,,3
+DON-2010-07-02-a,Global,2010,Influenza A,,18239
+DON-2010-07-02-b,Republic of the Congo,2010,Syndromic: haemorrhagic,,3
+DON-2010-07-05,Indonesia,2010,Influenza A,,137
+DON-2010-07-07,Nigeria,2010,Toxicity: lead poisoning,,
+DON-2010-07-09,Global,2010,Influenza A,,18311
+DON-2010-07-16,Global,2010,Influenza A,,18337
+DON-2010-07-19-a,Angola,2010,Polio,15,
+DON-2010-07-19-b,Democratic Republic of the Congo,2010,Yellow fever,2,
+DON-2010-07-22,Indonesia,2010,Influenza A,,138
+DON-2010-07-23-a,Tajikistan,2010,Polio,430,19
+DON-2010-07-23-b,Global,2010,Influenza A,,18366
+DON-2010-07-29,Egypt,2010,Influenza A,,35
+DON-2010-07-30,Global,2010,Influenza A,,18398
+DON-2010-08-03,Indonesia,2010,Influenza A,,139
+DON-2010-08-06,Global,2010,Influenza A,,18449
+DON-2010-08-10,Peru,2010,Plague,,
+DON-2010-08-12,Egypt,2010,Influenza A,,35
+DON-2010-08-13,Global,2010,Influenza A,,
+DON-2010-08-20,Global,2010,Influenza A,,
+DON-2010-08-27,Global,2010,Influenza A,,
+DON-2010-08-31,Egypt,2010,Influenza A,,36
+DON-2010-09-08,Angola,2010,Polio,,
+DON-2010-09-08,Democratic Republic of the Congo,2010,Polio,,
+DON-2010-09-10,Global,2010,Influenza A,,
+DON-2010-10-05,Senegal,2010,Yellow fever,,
+DON-2010-10-08,Cameroon,2010,Cholera,7869,515
+DON-2010-10-08,Chad,2010,Cholera,2508,111
+DON-2010-10-08,Niger,2010,Cholera,976,62
+DON-2010-10-08,Nigeria,2010,Cholera,29115,1191
+DON-2010-10-18,Indonesia,2010,Influenza A,,141
+DON-2010-10-25-a,Pakistan,2010,Cholera,,
+DON-2010-10-25-b,Pakistan,2010,Crimean-Congo haemorrhagic fever,26,3
+DON-2010-10-25-b,Pakistan,2010,Dengue fever,,15
+DON-2010-10-26,Haiti,2010,Cholera,,259
+DON-2010-10-28,Haiti,2010,Cholera,4722,303
+DON-2010-11-04-a,Haiti,2010,Cholera,6742,442
+DON-2010-11-04-b,Republic of the Congo,2010,Polio,120,58
+DON-2010-11-09,Republic of the Congo,2010,Polio,184,85
+DON-2010-11-13,Kazakhstan,2010,Polio,1,
+DON-2010-11-13,Tajikistan,2010,Polio,458,
+DON-2010-11-13,Turkmenistan,2010,Polio,3,
+DON-2010-11-13,Russian Federation,2010,Polio,14,
+DON-2010-11-13,Uzbekistan,2010,Polio,1,
+DON-2010-11-17,Haiti,2010,Cholera,17418,1065
+DON-2010-11-19,China,2010,Influenza A,,
+DON-2010-11-24,Haiti,2010,Cholera,60240,1415
+DON-2010-12-08,Egypt,2010,Influenza A,,37
+DON-2010-12-09,Indonesia,2010,Influenza A,,141
+DON-2010-12-29,Egypt,2010,Influenza A,,38
+DON-2011-01-05,Egypt,2011,Influenza A,,40
+DON-2011-01-13,Egypt,2011,Influenza A,,40
+DON-2011-01-19,Uganda,2011,Yellow fever,226,53
+DON-2011-01-20,Egypt,2011,Influenza A,,40
+DON-2011-01-25,Cote d'Ivoire,2011,Yellow fever,,25
+DON-2011-02-01-a,Cote d'Ivoire,2011,Yellow fever,79,35
+DON-2011-02-01-b,Egypt,2011,Influenza A,,40
+DON-2011-02-09,Cambodia,2011,Influenza A,,9
+DON-2011-02-25,Cambodia,2011,Influenza A,,11
+DON-2011-02-28,Egypt,2011,Influenza A,,41
+DON-2011-03-02,Indonesia,2011,Influenza A,,142
+DON-2011-03-07,Egypt,2011,Influenza A,,41
+DON-2011-03-08,Chad,2011,Meningococcal disease,,57
+DON-2011-03-10,Egypt,2011,Influenza A,43,
+DON-2011-03-11,Sierra Leone,2011,Yellow fever,,
+DON-2011-03-14,Indonesia,2011,Influenza A,,144
+DON-2011-03-15,Egypt,2011,Influenza A,,44
+DON-2011-03-16,Bangladesh,2011,Influenza A,,0
+DON-2011-03-25,Indonesia,2011,Influenza A,,144
+DON-2011-03-29,Egypt,2011,Influenza A,,45
+DON-2011-04-01,Indonesia,2011,Influenza A,,145
+DON-2011-04-06,Egypt,2011,Influenza A,,45
+DON-2011-04-11-a,Egypt,2011,Influenza A,,46
+DON-2011-04-11-b,Bangladesh,2011,Influenza A,,0
+DON-2011-04-11-c,Cambodia,2011,Influenza A,,12
+DON-2011-04-21-a,Europe,2011,Measles,6500,
+DON-2011-04-21-a,Belgium,2011,Measles,100,
+DON-2011-04-21-a,Bulgaria,2011,Measles,131,
+DON-2011-04-21-a,France,2011,Measles,4937,
+DON-2011-04-21-a,Serbia,2011,Measles,300,
+DON-2011-04-21-a,Spain,2011,Measles,600,
+DON-2011-04-21-a,Turkey,2011,Measles,80,
+DON-2011-04-21-a,Former Yugoslav Republic of Macedonia,2011,Measles,636,
+DON-2011-04-21-b,Cote d'Ivoire,2011,Polio,,
+DON-2011-04-21-c,Cambodia,2011,Influenza A,,13
+DON-2011-04-21-d,Egypt,2011,Influenza A,47,
+DON-2011-05-13,Indonesia,2011,Influenza A,146,
+DON-2011-05-18,Uganda,2011,Ebola virus,,1
+DON-2011-05-27,Germany,2011,Hemolytic uremic syndrome,276,3
+DON-2011-06-01,Egypt,2011,Influenza A,,48
+DON-2011-06-02,Germany,2011,Hemolytic uremic syndrome,470,9
+DON-2011-06-02,Germany,2011,E. coli,1064,6
+DON-2011-06-02,Austria,2011,Hemolytic uremic syndrome,0,
+DON-2011-06-02,Austria,2011,E. coli,2,
+DON-2011-06-02,Denmark,2011,Hemolytic uremic syndrome,7,
+DON-2011-06-02,Denmark,2011,E. coli,7,
+DON-2011-06-02,France,2011,Hemolytic uremic syndrome,0,
+DON-2011-06-02,France,2011,E. coli,6,
+DON-2011-06-02,Netherlands,2011,Hemolytic uremic syndrome,4,
+DON-2011-06-02,Netherlands,2011,E. coli,4,
+DON-2011-06-02,Norway,2011,Hemolytic uremic syndrome,0,
+DON-2011-06-02,Norway,2011,E. coli,1,
+DON-2011-06-02,Spain,2011,Hemolytic uremic syndrome,1,
+DON-2011-06-02,Spain,2011,E. coli,0,
+DON-2011-06-02,Sweden,2011,Hemolytic uremic syndrome,15,
+DON-2011-06-02,Sweden,2011,E. coli,28,
+DON-2011-06-02,Switzerland,2011,Hemolytic uremic syndrome,0,
+DON-2011-06-02,Switzerland,2011,E. coli,2,
+DON-2011-06-02,United Kingdom,2011,Hemolytic uremic syndrome,2,
+DON-2011-06-02,United Kingdom,2011,E. coli,1,
+DON-2011-06-03,Indonesia,2011,Influenza A,,146
+DON-2011-06-10-a,Cambodia,2011,Influenza A,,14
+DON-2011-06-10-b,Chad,2011,Polio,,
+DON-2011-06-10-b,Chad,2011,Polio,,
+DON-2011-06-16,Egypt,2011,Influenza A,,51
+DON-2011-06-22,Egypt,2011,Influenza A,,52
+DON-2011-07-07,Pakistan,2011,Polio,1,
+DON-2011-07-22,Democratic Republic of the Congo,2011,Cholera,3896,265
+DON-2011-07-22,Republic of the Congo,2011,Cholera,,6
+DON-2011-08-02,Cambodia,2011,Influenza A,,15
+DON-2011-08-09,Egypt,2011,Influenza A,,52
+DON-2011-08-15,Angola,2011,Unspecified,,
+DON-2011-08-16,Europe,2011,West Nile virus,,
+DON-2011-08-19,Cambodia,2011,Influenza A,,16
+DON-2011-09-01,China,2011,Polio,,
+DON-2011-09-20,Pakistan,2011,Polio,84,
+DON-2011-10-07,Europe,2011,Measles,,11
+DON-2011-10-07,Democratic Republic of the Congo,2011,Measles,103000,1100
+DON-2011-10-07,Nigeria,2011,Measles,17428,
+DON-2011-10-07,Zambia,2011,Measles,5397,
+DON-2011-10-07,Ethiopia,2011,Measles,2902,
+DON-2011-10-07,Canada,2011,Measles,742,
+DON-2011-10-07,United States of America,2011,Measles,213,
+DON-2011-10-07,Ecuador,2011,Measles,41,
+DON-2011-10-07,Brazil,2011,Measles,18,
+DON-2011-10-07,Colombia,2011,Measles,7,
+DON-2011-10-07,Mexico,2011,Measles,3,
+DON-2011-10-07,Chile,2011,Measles,6,
+DON-2011-10-10,Indonesia,2011,Influenza A,,147
+DON-2011-10-26,Indonesia,2011,Influenza A,,149
+DON-2011-11-02,Egypt,2011,Influenza A,,52
+DON-2011-11-11,Nigeria,2011,Toxicity: lead poisoning,,
+DON-2011-11-15,Indonesia,2011,Influenza A,,150
+DON-2011-11-24,United States of America,2011,Influenza A,,0
+DON-2011-11-29,Egypt,2011,Influenza A,,52
+DON-2011-12-01,Senegal,2011,Yellow fever,,0
+DON-2011-12-15,Egypt,2011,Influenza A,,53
+DON-2011-12-21,Egypt,2011,Influenza A,,54
+DON-2012-01-05-a,Egypt,2012,Influenza A,,55
+DON-2012-01-05-b,China,2012,Influenza A,,27
+DON-2012-01-11,Indonesia,2012,Influenza A,,151
+DON-2012-01-16,Cambodia,2012,Influenza A,19,16
+DON-2012-01-17,European Union,2012,Toxicity: miscellaneous,,
+DON-2012-01-18,Cambodia,2012,Influenza A,19,17
+DON-2012-01-19-a,Indonesia,2012,Influenza A,,152
+DON-2012-01-19-b,Egypt,2012,Influenza A,,55
+DON-2012-01-20,Vietnam,2012,Influenza A,120,60
+DON-2012-01-24,China,2012,Influenza A,,1
+DON-2012-02-03-a,Cameroon,2012,Yellow fever,23,7
+DON-2012-02-03-b,Ghana,2012,Yellow fever,,2
+DON-2012-02-08,Vietnam,2012,Influenza A,121,61
+DON-2012-02-21,Indonesia,2012,Influenza A,,153
+DON-2012-02-22,Egypt,2012,Influenza A,,55
+DON-2012-02-24,Egypt,2012,Influenza A,,55
+DON-2012-02-28,Egypt,2012,Influenza A,,57
+DON-2012-03-01,Indonesia,2012,Influenza A,,154
+DON-2012-03-02,Bangladesh,2012,Influenza A,,
+DON-2012-03-05,Vietnam,2012,Influenza A,,61
+DON-2012-03-07,Bangladesh,2012,Influenza A,,
+DON-2012-03-12-a,Vietnam,2012,Influenza A,,61
+DON-2012-03-12-b,Indonesia,2012,Influenza A,187,155
+DON-2012-03-19,Egypt,2012,Influenza A,,58
+DON-2012-03-23,Benin,2012,Meningococcal disease,,38
+DON-2012-03-23,Burkina Faso,2012,Meningococcal disease,,212
+DON-2012-03-23,Chad,2012,Meningococcal disease,,67
+DON-2012-03-23,Cote d'Ivoire,2012,Meningococcal disease,,39
+DON-2012-03-23,Ghana,2012,Meningococcal disease,,37
+DON-2012-03-26,Indonesia,2012,Influenza A,188,156
+DON-2012-04-02,Egypt,2012,Influenza A,,59
+DON-2012-04-04,Nigeria,2012,Lassa fever,,70
+DON-2012-04-05,Cambodia,2012,Influenza A,20,18
+DON-2012-04-12,Egypt,2012,Influenza A,,60
+DON-2012-05-02,Indonesia,2012,Influenza A,189,157
+DON-2012-05-24,African Meningitis Belt,2012,Meningococcal disease,11647,960
+DON-2012-05-29,Cambodia,2012,Influenza A,21,19
+DON-2012-06-05,China,2012,Influenza A,,0
+DON-2012-06-07,Egypt,2012,Influenza A,,60
+DON-2012-07-04,Cambodia,2012,"Hand, foot, and mouth disease",62,61
+DON-2012-07-06-a,Indonesia,2012,Influenza A,190,158
+DON-2012-07-06-b,Cambodia,2012,"Hand, foot, and mouth disease",74,56
+DON-2012-07-09,Cambodia,2012,"Hand, foot, and mouth disease",59,52
+DON-2012-07-13,Cambodia,2012,"Hand, foot, and mouth disease",78,54
+DON-2012-07-23,Democratic Republic of the Congo,2012,Cholera,368,
+DON-2012-07-29,Uganda,2012,Ebola virus,20,14
+DON-2012-08-03,Uganda,2012,Ebola virus,,16
+DON-2012-08-10-a,Uganda,2012,Ebola virus,23,16
+DON-2012-08-10-b,Indonesia,2012,Influenza A,191,159
+DON-2012-08-14,Uganda,2012,Ebola virus,24,16
+DON-2012-08-17-a,Uganda,2012,Ebola virus,24,16
+DON-2012-08-17-b,Democratic Republic of the Congo,2012,Ebola virus,,6
+DON-2012-08-21,Democratic Republic of the Congo,2012,Ebola virus,15,10
+DON-2012-08-22,Sierra Leone,2012,Cholera,11653,216
+DON-2012-08-30-a,Democratic Republic of the Congo,2012,Ebola virus,24,11
+DON-2012-08-30-b,Sierra Leone,2012,Cholera,13934,232
+DON-2012-09-03,Uganda,2012,Ebola virus,24,17
+DON-2012-09-04,United States of America,2012,Hantavirus,6,2
+DON-2012-09-05,Democratic Republic of the Congo,2012,Ebola virus,28,14
+DON-2012-09-08,Sierra Leone,2012,Cholera,16360,255
+DON-2012-09-12,United States of America,2012,Hantavirus,8,3
+DON-2012-09-14,Democratic Republic of the Congo,2012,Ebola virus,41,18
+DON-2012-09-18-a,Democratic Republic of the Congo,2012,Ebola virus,46,19
+DON-2012-09-18-b,Sierra Leone,2012,Cholera,18508,271
+DON-2012-09-23,United Kingdom,2012,MERS-CoV,,
+DON-2012-09-25,,2012,MERS-CoV,0,0
+DON-2012-09-27,Democratic Republic of the Congo,2012,Ebola virus,51,20
+DON-2012-09-28,,2012,MERS-CoV,,
+DON-2012-09-29,,2012,MERS-CoV,,
+DON-2012-10-04,Uganda,2012,Ebola virus,24,17
+DON-2012-10-08-a,Sierra Leone,2012,Cholera,20736,280
+DON-2012-10-08-b,Democratic Republic of the Congo,2012,Ebola virus,49,24
+DON-2012-10-10,Saudi Arabia,2012,MERS-CoV,,
+DON-2012-10-10,Qatar,2012,MERS-CoV,,
+DON-2012-10-10,United Kingdom,2012,MERS-CoV,,
+DON-2012-10-17,Portugal,2012,Dengue fever,,
+DON-2012-10-21,Uganda,2012,Marburg fever,,
+DON-2012-10-22,Uganda,2012,Marburg fever,9,5
+DON-2012-10-26,Democratic Republic of the Congo,2012,Ebola virus,52,25
+DON-2012-10-31,Uganda,2012,Marburg fever,18,9
+DON-2012-11-01,Mauritania,2012,Rift Valley fever,34,17
+DON-2012-11-13,Sudan,2012,Yellow fever,,97
+DON-2012-11-17,Uganda,2012,Ebola virus,4,3
+DON-2012-11-22,Sudan,2012,Yellow fever,,116
+DON-2012-11-23-a,Saudi Arabia,2012,MERS-CoV,3,1
+DON-2012-11-23-a,Qatar,2012,MERS-CoV,1,0
+DON-2012-11-23-b,Uganda,2012,Ebola virus,10,5
+DON-2012-11-23-c,Uganda,2012,Marburg fever,20,9
+DON-2012-11-30-a,Jordan,2012,MERS-CoV,,2
+DON-2012-11-30-a,Saudi Arabia,2012,MERS-CoV,,3
+DON-2012-11-30-b,Uganda,2012,Ebola virus,7,4
+DON-2012-12-06,Sudan,2012,Yellow fever,,165
+DON-2012-12-12,Republic of Congo,2012,Yellow fever,,
+DON-2013-02-01,Cambodia,2013,Influenza A,5,4
+DON-2013-02-11-a,Egypt,2013,Polio,0,
+DON-2013-02-11-b,The United Kingdom,2013,MERS-CoV,10,
+DON-2013-02-12,Niger,2013,Polio,,
+DON-2013-02-13,The United Kingdom,2013,MERS-CoV,11,5
+DON-2013-02-14,Chad,2013,Yellow fever,,9
+DON-2013-02-16,The United Kingdom,2013,MERS-CoV,12,5
+DON-2013-02-21,Saudi Arabia,2013,MERS-CoV,13,7
+DON-2013-03-06,Saudi Arabia,2013,MERS-CoV,14,8
+DON-2013-03-12,Saudi Arabia,2013,MERS-CoV,15,9
+DON-2013-03-23,Saudi Arabia,2013,MERS-CoV,16,9
+DON-2013-03-26,Germany,2013,MERS-CoV,17,11
+DON-2013-04-01,China,2013,Influenza A,3,2
+DON-2013-04-03,China,2013,Influenza A,7,2
+DON-2013-04-04,China,2013,Influenza A,11,5
+DON-2013-04-05,China,2013,Influenza A,16,6
+DON-2013-04-06,China,2013,Influenza A,18,6
+DON-2013-04-07,China,2013,Influenza A,21,6
+DON-2013-04-09,China,2013,Influenza A,24,7
+DON-2013-04-10,China,2013,Influenza A,28,9
+DON-2013-04-11,China,2013,Influenza A,38,10
+DON-2013-04-12,China,2013,Influenza A,43,11
+DON-2013-04-13,China,2013,Influenza A,,11
+DON-2013-04-14,China,2013,Influenza A,,11
+DON-2013-04-15,China,2013,Influenza A,,13
+DON-2013-04-16,China,2013,Influenza A,,14
+DON-2013-04-17,China,2013,Influenza A,,17
+DON-2013-04-18,China,2013,Influenza A,,17
+DON-2013-04-19,China,2013,Influenza A,,17
+DON-2013-04-20,China,2013,Influenza A,,18
+DON-2013-04-21,China,2013,Influenza A,,20
+DON-2013-04-22,China,2013,Influenza A,,21
+DON-2013-04-23,China,2013,Influenza A,,22
+DON-2013-04-25,China,2013,Influenza A,,22
+DON-2013-04-29,China,2013,Influenza A,,24
+DON-2013-05-02-a,China,2013,Influenza A,,26
+DON-2013-05-02-b,Saudi Arabia,2013,MERS-CoV,24,16
+DON-2013-05-03,Saudi Arabia,2013,MERS-CoV,27,16
+DON-2013-05-06,Saudi Arabia,2013,MERS-CoV,30,18
+DON-2013-05-07,China,2013,Influenza A,,31
+DON-2013-05-08-a,China,2013,Influenza A,,32
+DON-2013-05-08-b,France,2013,MERS-CoV,31,18
+DON-2013-05-09,Saudi Arabia,2013,MERS-CoV,33,18
+DON-2013-05-11,Somalia,2013,Polio,,
+DON-2013-05-12,France,2013,MERS-CoV,34,18
+DON-2013-05-14,Saudi Arabia,2013,MERS-CoV,38,20
+DON-2013-05-15,Saudi Arabia,2013,MERS-CoV,40,20
+DON-2013-05-17,China,2013,Influenza A,,36
+DON-2013-05-18,Saudi Arabia,2013,MERS-CoV,41,20
+DON-2013-05-22-a,Kenya,2013,Polio,,
+DON-2013-05-22-a,Somalia,2013,Polio,,
+DON-2013-05-22-b,Tunisia,2013,MERS-CoV,,1
+DON-2013-05-22-b,Saudi Arabia,2013,MERS-CoV,22,10
+DON-2013-05-23,Saudi Arabia,2013,MERS-CoV,,22
+DON-2013-05-29-a,China,2013,Influenza A,,37
+DON-2013-05-29-b,Saudi Arabia,2013,MERS-CoV,,27
+DON-2013-05-31-a,Ethiopia,2013,Yellow fever,,
+DON-2013-05-31-b,Saudi Arabia,2013,MERS-CoV,,30
+DON-2013-06-01,Italy,2013,MERS-CoV,,30
+DON-2013-06-02,Italy,2013,MERS-CoV,,30
+DON-2013-06-03-a,Israel,2013,Polio,0,0
+DON-2013-06-03-b,Saudi Arabia,2013,MERS-CoV,,30
+DON-2013-06-06,African Meningitis Belt,2013,Meningococcal disease,,857
+DON-2013-06-06,Guinea,2013,Meningococcal disease,,38
+DON-2013-06-06,South Sudan,2013,Meningococcal disease,,13
+DON-2013-06-07,Saudi Arabia,2013,MERS-CoV,,31
+DON-2013-06-14-a,Saudi Arabia,2013,MERS-CoV,,33
+DON-2013-06-14-b,Democratic Republic of the Congo,2013,Yellow fever,,19
+DON-2013-06-15,Saudi Arabia,2013,MERS-CoV,,34
+DON-2013-06-17,Saudi Arabia,2013,MERS-CoV,,38
+DON-2013-06-22,Saudi Arabia,2013,MERS-CoV,,38
+DON-2013-06-23,Saudi Arabia,2013,MERS-CoV,,39
+DON-2013-06-26,Saudi Arabia,2013,MERS-CoV,,40
+DON-2013-07-04,China,2013,Influenza A,,43
+DON-2013-07-05,Saudi Arabia,2013,MERS-CoV,,42
+DON-2013-07-07,Saudi Arabia,2013,MERS-CoV,,44
+DON-2013-07-11,Saudi Arabia,2013,MERS-CoV,,45
+DON-2013-07-13,United Arab Emirates,2013,MERS-CoV,,45
+DON-2013-07-15,Israel,2013,Polio,0,0
+DON-2013-07-18,Saudi Arabia,2013,MERS-CoV,,45
+DON-2013-07-18,United Arab Emirates,2013,MERS-CoV,,0
+DON-2013-07-19,Saudi Arabia,2013,MERS-CoV,,45
+DON-2013-07-20,China,2013,Influenza A,,43
+DON-2013-07-21,Saudi Arabia,2013,MERS-CoV,,45
+DON-2013-07-29,Saudi Arabia,2013,MERS-CoV,,46
+DON-2013-08-01,Saudi Arabia,2013,MERS-CoV,,46
+DON-2013-08-11,China,2013,Influenza A,,44
+DON-2013-08-15,Israel,2013,Polio,0,0
+DON-2013-08-28,Saudi Arabia,2013,MERS-CoV,,49
+DON-2013-08-29,Qatar,2013,MERS-CoV,,49
+DON-2013-08-30,Saudi Arabia,2013,MERS-CoV,,50
+DON-2013-09-06,Tunisia,2013,MERS-CoV,,1
+DON-2013-09-06,Qatar,2013,MERS-CoV,,1
+DON-2013-09-07,Saudi Arabia,2013,MERS-CoV,,54
+DON-2013-09-19,Saudi Arabia,2013,MERS-CoV,,58
+DON-2013-09-20-a,Italy,2013,MERS-CoV,,
+DON-2013-09-20-b,Israel,2013,Polio,0,0
+DON-2013-09-20-b,Palestine (Gaza Strip & West Bank),2013,Polio,0,0
+DON-2013-10-01,South Sudan,2013,Polio,,
+DON-2013-10-01,Somalia,2013,Polio,174,
+DON-2013-10-01,Kenya,2013,Polio,14,
+DON-2013-10-01,Ethiopia,2013,Polio,3,
+DON-2013-10-04,Saudi Arabia,2013,MERS-CoV,,58
+DON-2013-10-08,Cameroon,2013,Yellow fever,,
+DON-2013-10-14,Saudi Arabia,2013,MERS-CoV,,60
+DON-2013-10-16,China,2013,Influenza A,,45
+DON-2013-10-18,Qatar,2013,MERS-CoV,,60
+DON-2013-10-19-a,Mexico,2013,Cholera,,1
+DON-2013-10-19-b,Syrian Arab Republic,2013,Polio,,
+DON-2013-10-24-a,Saudi Arabia,2013,MERS-CoV,,62
+DON-2013-10-24-b,China,2013,Influenza A,,45
+DON-2013-10-28,Mexico,2013,Cholera,,1
+DON-2013-10-29-a,Syrian Arab Republic,2013,Polio,,
+DON-2013-10-29-b,Qatar,2013,MERS-CoV,,62
+DON-2013-10-31,Oman,2013,MERS-CoV,,
+DON-2013-10-31,Saudi Arabia,2013,MERS-CoV,,63
+DON-2013-11-04,Saudi Arabia,2013,MERS-CoV,,64
+DON-2013-11-06,China,2013,Influenza A,,45
+DON-2013-11-07,Spain,2013,MERS-CoV,,64
+DON-2013-11-10,Qatar,2013,MERS-CoV,,64
+DON-2013-11-11-a,Saudi Arabia,2013,MERS-CoV,,64
+DON-2013-11-11-b,Syrian Arab Republic,2013,Polio,,
+DON-2013-11-15,United Arab Emirates,2013,MERS-CoV,,66
+DON-2013-11-15,Qatar,2013,MERS-CoV,,
+DON-2013-11-18,Kuwait,2013,MERS-CoV,,66
+DON-2013-11-21,Cameroon,2013,Polio,,
+DON-2013-11-25,Mexico,2013,Cholera,,1
+DON-2013-11-26-a,Saudi Arabia,2013,MERS-CoV,,68
+DON-2013-11-26-b,Syrian Arab Republic,2013,Polio,17,
+DON-2013-11-29,Qatar,2013,MERS-CoV,,68
+DON-2013-12-03,Sudan,2013,Yellow fever,,14
+DON-2013-12-10-a,China,2013,Influenza A,,0
+DON-2013-12-10-b,Saint Martin,2013,Chikungunya,,
+DON-2013-12-17-a,Saudi Arabia,2013,MERS-CoV,,71
+DON-2013-12-17-b,China,2013,Influenza A,,0
+DON-2013-12-22,United Arab Emirates,2013,MERS-CoV,,71
+DON-2013-12-27,Saudi Arabia,2013,MERS-CoV,,72
+DON-2013-12-31,Saudi Arabia,2013,MERS-CoV,,74
+DON-2013-12-31,United Arab Emirates,2013,MERS-CoV,,
+DON-2014-01-03,United Arab Emirates,2014,MERS-CoV,,74
+DON-2014-01-06,China,2014,Influenza A,,
+DON-2014-01-07,Taiwan,2014,Influenza A,,
+DON-2014-01-09-a,Oman,2014,MERS-CoV,,75
+DON-2014-01-09-b,Canada,2014,Influenza A,1,1
+DON-2014-01-09-c,China,2014,Influenza A,,
+DON-2014-01-10,China,2014,Influenza A,2,0
+DON-2014-01-13,China,2014,Influenza A,,1
+DON-2014-01-14,China,2014,Influenza A,,1
+DON-2014-01-15,China,2014,Influenza A,,1
+DON-2014-01-16,China,2014,Influenza A,,
+DON-2014-01-17,China,2014,Influenza A,,
+DON-2014-01-20-a,China,2014,Influenza A,,1
+DON-2014-01-20-b,China,2014,Influenza A,,0
+DON-2014-01-22,China,2014,Influenza A,,2
+DON-2014-01-23,China,2014,Influenza A,,
+DON-2014-01-25,China,2014,Influenza A,,
+DON-2014-01-27-a,China,2014,Influenza A,,
+DON-2014-01-27-b,Saudi Arabia,2014,MERS-CoV,,77
+DON-2014-01-27-b,Jordan,2014,MERS-CoV,,77
+DON-2014-01-29,China,2014,Influenza A,,1
+DON-2014-01-30,China,2014,Influenza A,,0
+DON-2014-01-31,China,2014,Influenza A,,1
+DON-2014-02-01,China,2014,Influenza A,,1
+DON-2014-02-03,China,2014,Influenza A,,1
+DON-2014-02-04-a,China,2014,Influenza A,,1
+DON-2014-02-04-b,Saudi Arabia,2014,MERS-CoV,,79
+DON-2014-02-05-a,China,2014,Influenza A,,1
+DON-2014-02-05-b,China,2014,Influenza A,,2
+DON-2014-02-07-a,China,2014,Influenza A,,0
+DON-2014-02-07-b,United Arab Emirates,2014,MERS-CoV,,79
+DON-2014-02-10,China,2014,Influenza A,,1
+DON-2014-02-11,China,2014,Influenza A,,1
+DON-2014-02-14,China,2014,Influenza A,,1
+DON-2014-02-17-a,China,2014,Influenza A,,0
+DON-2014-02-17-b,Malaysia,2014,Influenza A,1,
+DON-2014-02-18,China,2014,Influenza A,,1
+DON-2014-02-24,China,2014,Influenza A,,1
+DON-2014-02-27-a,China,2014,Influenza A,,0
+DON-2014-02-27-b,China,2014,Influenza A,,0
+DON-2014-02-28,Saudi Arabia,2014,MERS-CoV,,80
+DON-2014-03-03,China,2014,Influenza A,,0
+DON-2014-03-05,China,2014,Influenza A,,1
+DON-2014-03-07,China,2014,Influenza A,,0
+DON-2014-03-10,China,2014,Influenza A,,1
+DON-2014-03-11-a,Saudi Arabia,2014,MERS-CoV,,81
+DON-2014-03-11-b,China,2014,Influenza A,,0
+DON-2014-03-11-c,China,2014,Influenza A,,0
+DON-2014-03-12,United Arab Emirates,2014,MERS-CoV,,82
+DON-2014-03-12,Saudi Arabia,2014,MERS-CoV,,
+DON-2014-03-17-a,Saudi Arabia,2014,MERS-CoV,,82
+DON-2014-03-17-b,China,2014,Influenza A,,0
+DON-2014-03-17-c,Cameroon,2014,Polio,7,
+DON-2014-03-18,Saudi Arabia,2014,MERS-CoV,,83
+DON-2014-03-20-a,China,2014,Influenza A,,0
+DON-2014-03-20-b,China,2014,Influenza A,,0
+DON-2014-03-20-c,United Arab Emirates,2014,MERS-CoV,,84
+DON-2014-03-20-c,Kuwait,2014,MERS-CoV,,
+DON-2014-03-21,Syrian Arab Republic,2014,Polio,37,
+DON-2014-03-23,Guinea,2014,Ebola virus,49,29
+DON-2014-03-24,Guinea,2014,Ebola virus,86,59
+DON-2014-03-25-a,United Arab Emirates,2014,MERS-CoV,,84
+DON-2014-03-25-b,Guinea,2014,Ebola virus,86,60
+DON-2014-03-26-a,United Arab Emirates,2014,MERS-CoV,,85
+DON-2014-03-26-b,Guinea,2014,Ebola virus,86,62
+DON-2014-03-27-a,China,2014,Influenza A,,0
+DON-2014-03-27-b,Guinea,2014,Ebola virus,103,66
+DON-2014-03-27-b,Liberia,2014,Ebola virus,8,6
+DON-2014-03-27-b,Sierra Leone,2014,Ebola virus,6,5
+DON-2014-03-27-c,Saudi Arabia,2014,MERS-CoV,,86
+DON-2014-03-28,China,2014,Influenza A,,0
+DON-2014-03-30-a,Guinea,2014,Ebola virus,112,70
+DON-2014-03-30-a,Liberia,2014,Ebola virus,3,3
+DON-2014-03-30-a,Sierra Leone,2014,Ebola virus,2,2
+DON-2014-03-30-b,Liberia,2014,Ebola virus,7,2
+DON-2014-04-01,Guinea,2014,Ebola virus,122,80
+DON-2014-04-01,Liberia,2014,Ebola virus,8,2
+DON-2014-04-01,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-02,Guinea,2014,Ebola virus,127,83
+DON-2014-04-02,Liberia,2014,Ebola virus,8,5
+DON-2014-04-02,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-03,China,2014,Influenza A,,0
+DON-2014-04-04,China,2014,Influenza A,,0
+DON-2014-04-05,Guinea,2014,Ebola virus,143,86
+DON-2014-04-05,Liberia,2014,Ebola virus,,7
+DON-2014-04-05,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-05,Mali,2014,Ebola virus,,
+DON-2014-04-07,Guinea,2014,Ebola virus,151,95
+DON-2014-04-07,Liberia,2014,Ebola virus,21,10
+DON-2014-04-07,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-07,Mali,2014,Ebola virus,,
+DON-2014-04-08-a,China,2014,Influenza A,,0
+DON-2014-04-08-b,China,2014,Influenza A,,0
+DON-2014-04-10-a,Guinea,2014,Ebola virus,158,101
+DON-2014-04-10-a,Liberia,2014,Ebola virus,,12
+DON-2014-04-10-a,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-10-a,Mali,2014,Ebola virus,,
+DON-2014-04-10-b,China,2014,Influenza A,,0
+DON-2014-04-10-c,Saudi Arabia,2014,MERS-CoV,,88
+DON-2014-04-10-c,United Arab Emirates,2014,MERS-CoV,,
+DON-2014-04-11-a,China,2014,Influenza A,,0
+DON-2014-04-11-b,Saudi Arabia,2014,MERS-CoV,,92
+DON-2014-04-11-b,United Arab Emirates,2014,MERS-CoV,,
+DON-2014-04-14-a,Guinea,2014,Ebola virus,168,108
+DON-2014-04-14-a,Liberia,2014,Ebola virus,26,13
+DON-2014-04-14-a,Mali,2014,Ebola virus,,
+DON-2014-04-14-b,China,2014,Influenza A,,0
+DON-2014-04-14-c,Saudi Arabia,2014,MERS-CoV,,92
+DON-2014-04-14-c,United Arab Emirates,2014,MERS-CoV,,
+DON-2014-04-15,China,2014,Influenza A,,0
+DON-2014-04-16-a,China,2014,Influenza A,,0
+DON-2014-04-16-b,United Arab Emirates,2014,MERS-CoV,,92
+DON-2014-04-17-a,Guinea,2014,Ebola virus,197,122
+DON-2014-04-17-a,Liberia,2014,Ebola virus,27,13
+DON-2014-04-17-a,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-17-a,Mali,2014,Ebola virus,0,
+DON-2014-04-17-b,Malaysia,2014,MERS-CoV,,93
+DON-2014-04-17-b,United Arab Emirates,2014,MERS-CoV,,
+DON-2014-04-17-c,Equitorial Guinea,2014,Polio,,
+DON-2014-04-17-c,Cameroon,2014,Polio,,
+DON-2014-04-19,Guinea,2014,Ebola virus,203,129
+DON-2014-04-19,Liberia,2014,Ebola virus,,
+DON-2014-04-20,Greece,2014,MERS-CoV,,93
+DON-2014-04-22,Guinea,2014,Ebola virus,208,136
+DON-2014-04-22,Liberia,2014,Ebola virus,34,6
+DON-2014-04-22,Sierra Leone,2014,Ebola virus,19,
+DON-2014-04-23,United Arab Emirates,2014,MERS-CoV,,93
+DON-2014-04-24-a,China,2014,Influenza A,,0
+DON-2014-04-24-b,Jordan,2014,MERS-CoV,,93
+DON-2014-04-24-c,Democratic Republic of the Congo,2014,Yellow fever,139,6
+DON-2014-04-25,Guinea,2014,Ebola virus,218,141
+DON-2014-04-25,Liberia,2014,Ebola virus,35,
+DON-2014-04-25,Sierra Leone,2014,Ebola virus,,
+DON-2014-04-26,United Arab Emirates,2014,MERS-CoV,,93
+DON-2014-04-28,Guinea,2014,Ebola virus,224,143
+DON-2014-05-01-a,China,2014,Influenza A,,0
+DON-2014-05-01-b,Egypt,2014,MERS-CoV,1,0
+DON-2014-05-02,Guinea,2014,Ebola virus,226,149
+DON-2014-05-02,Liberia,2014,Ebola virus,13,11
+DON-2014-05-05-a,United States of America,2014,MERS-CoV,,0
+DON-2014-05-05-b,Jordan,2014,MERS-CoV,,0
+DON-2014-05-06,Guinea,2014,Ebola virus,231,155
+DON-2014-05-06,Liberia,2014,Ebola virus,,
+DON-2014-05-06,Sierra Leone,2014,Ebola virus,,
+DON-2014-05-07-a,Jordan,2014,MERS-CoV,,
+DON-2014-05-07-b,Yemen,2014,MERS-CoV,,1
+DON-2014-05-08,Guinea,2014,Ebola virus,235,157
+DON-2014-05-08,Liberia,2014,Ebola virus,,
+DON-2014-05-08,Sierra Leone,2014,Ebola virus,,
+DON-2014-05-09,Guinea,2014,Ebola virus,236,158
+DON-2014-05-09,Liberia,2014,Ebola virus,,
+DON-2014-05-09,Sierra Leone,2014,Ebola virus,,
+DON-2014-05-12,Guinea,2014,Ebola virus,233,157
+DON-2014-05-12,Liberia,2014,Ebola virus,12,11
+DON-2014-05-12,Sierra Leone,2014,Ebola virus,,
+DON-2014-05-14,United States of America,2014,MERS-CoV,,171
+DON-2014-05-15-a,Guinea,2014,Ebola virus,248,171
+DON-2014-05-15-a,Liberia,2014,Ebola virus,,
+DON-2014-05-15-a,Sierra Leone,2014,Ebola virus,,
+DON-2014-05-15-b,China,2014,Influenza A,,0
+DON-2014-05-15-c,Jordan,2014,MERS-CoV,,173
+DON-2014-05-15-c,Lebanon,2014,MERS-CoV,,
+DON-2014-05-15-c,Netherlands,2014,MERS-CoV,,
+DON-2014-05-15-c,United Arab Emirates,2014,MERS-CoV,,
+DON-2014-05-15-c,United States of America,2014,MERS-CoV,,
+DON-2014-05-16,Netherlands,2014,MERS-CoV,,181
+DON-2014-05-22-a,China,2014,Influenza A,,0
+DON-2014-05-22-b,United States of America,2014,MERS-CoV,,193
+DON-2014-05-23,United Arab Emirates,2014,MERS-CoV,,193
+DON-2014-05-24,Guinea,2014,Ebola virus,258,174
+DON-2014-05-24,Liberia,2014,Ebola virus,,
+DON-2014-05-24,Sierra Leone,2014,Ebola virus,,
+DON-2014-05-28-a,Guinea,2014,Ebola virus,291,193
+DON-2014-05-28-a,Liberia,2014,Ebola virus,,12
+DON-2014-05-28-a,Sierra Leone,2014,Ebola virus,50,6
+DON-2014-05-28-b,China,2014,Influenza A,,0
+DON-2014-05-28-c,Jordan,2014,MERS-CoV,,193
+DON-2014-05-30-a,South Sudan,2014,Cholera,586,22
+DON-2014-05-30-b,Guinea,2014,Ebola virus,301,200
+DON-2014-05-30-b,Liberia,2014,Ebola virus,,13
+DON-2014-05-30-b,Sierra Leone,2014,Ebola virus,50,6
+DON-2014-06-04-a,Guinea,2014,Ebola virus,328,208
+DON-2014-06-04-a,Liberia,2014,Ebola virus,,
+DON-2014-06-04-a,Sierra  Leone,2014,Ebola virus,79,6
+DON-2014-06-04-b,Jordan,2014,MERS-CoV,,204
+DON-2014-06-06,Guinea,2014,Ebola virus,344,215
+DON-2014-06-06,Liberia,2014,Ebola virus,,
+DON-2014-06-06,Sierra Leone,2014,Ebola virus,81,6
+DON-2014-06-10-a,Guinea,2014,Ebola virus,351,226
+DON-2014-06-10-a,Liberia,2014,Ebola virus,,
+DON-2014-06-10-a,Sierra Leone,2014,Ebola virus,89,7
+DON-2014-06-10-b,China,2014,Influenza A,,1
+DON-2014-06-11,Iran,2014,MERS-CoV,,204
+DON-2014-06-13,Saudi Arabia,2014,MERS-CoV,,114
+DON-2014-06-13,United Arab Emirates,2014,MERS-CoV,,210
+DON-2014-06-13,Iran,2014,MERS-CoV,,
+DON-2014-06-14,Algeria,2014,MERS-CoV,,1
+DON-2014-06-16,Saudi Arabia,2014,MERS-CoV,,249
+DON-2014-06-18-a,China,2014,Influenza A,,1
+DON-2014-06-18-b,Guinea,2014,Ebola virus,398,264
+DON-2014-06-18-b,Liberia,2014,Ebola virus,33,24
+DON-2014-06-18-b,Sierra Leone,2014,Ebola virus,97,49
+DON-2014-06-22,Guinea,2014,Ebola virus,390,267
+DON-2014-06-22,Liberia,2014,Ebola virus,41,25
+DON-2014-06-22,Sierra Leone,2014,Ebola virus,136,55
+DON-2014-06-23,Brazil,2014,Polio,0,0
+DON-2014-06-24-a,China,2014,Influenza A,,0
+DON-2014-06-24-b,Guinea,2014,Ebola virus,390,270
+DON-2014-06-24-b,Libera,2014,Ebola virus,51,34
+DON-2014-06-24-b,Sierra Leone,2014,Ebola virus,158,34*
+DON-2014-06-25-a,Saudi Arabia,2014,MERS-CoV,,250
+DON-2014-06-25-b,Equitorial Guinea,2014,Polio,,
+DON-2014-06-26-a,Saudi Arabia,2014,MERS-CoV,,286
+DON-2014-06-26-b,Saudi Arabia,2014,MERS-CoV,,252
+DON-2014-06-27,Taiwan,2014,Influenza A,,0
+DON-2014-07-01,Guinea,2014,Ebola virus,413,303
+DON-2014-07-01,Liberia,2014,Ebola virus,107,65
+DON-2014-07-01,Sierra Leone,2014,Ebola virus,239,99
+DON-2014-07-02,Iran,2014,MERS-CoV,,286
+DON-2014-07-02,Saudi Arabia,2014,MERS-CoV,,
+DON-2014-07-03,Guinea,2014,Ebola virus,412,305
+DON-2014-07-03,Liberia,2014,Ebola virus,115,75
+DON-2014-07-03,Sierra Leone,2014,Ebola virus,252,101
+DON-2014-07-04,Saudi Arabia,2014,MERS-CoV,,287
+DON-2014-07-08,Guinea,2014,Ebola virus,408,307
+DON-2014-07-08,Liberia,2014,Ebola virus,131,84
+DON-2014-07-08,Sierra Leone,2014,Ebola virus,305,127
+DON-2014-07-10,Guinea,2014,Ebola virus,409,309
+DON-2014-07-10,Liberia,2014,Ebola virus,142,88
+DON-2014-07-10,Sierra Leone,2014,Ebola virus,337,142
+DON-2014-07-14-a,Saudi Arabia,2014,MERS-CoV,,288
+DON-2014-07-14-b,United Arab Emirates,2014,MERS-CoV,,288
+DON-2014-07-15,Guinea,2014,Ebola virus,406,304
+DON-2014-07-15,Liberia,2014,Ebola virus,172,105
+DON-2014-07-15,Sierra Leone,2014,Ebola virus,386,194
+DON-2014-07-17-a,Guinea,2014,Ebola virus,411,310
+DON-2014-07-17-a,Liberia,2014,Ebola virus,174,106
+DON-2014-07-17-a,Sierra Leone,2014,Ebola virus,397,197
+DON-2014-07-17-b,Equitorial Guinea,2014,Polio,5,
+DON-2014-07-19,Guinea,2014,Ebola virus,410,310
+DON-2014-07-19,Liberia,2014,Ebola virus,196,116
+DON-2014-07-19,Sierra Leone,2014,Ebola virus,442,206
+DON-2014-07-23,Iran,2014,MERS-CoV,,291
+DON-2014-07-24,Guinea,2014,Ebola virus,415,314
+DON-2014-07-24,Liberia,2014,Ebola virus,224,127
+DON-2014-07-24,Sierra Leone,2014,Ebola virus,454,219
+DON-2014-07-27,Guinea,2014,Ebola virus,427,319
+DON-2014-07-27,Liberia,2014,Ebola virus,249,129
+DON-2014-07-27,Sierra Leone,2014,Ebola virus,525,224
+DON-2014-07-27,Nigeria,2014,Ebola virus,1,1
+DON-2014-07-31,Guinea,2014,Ebola virus,460,339
+DON-2014-07-31,Liberia,2014,Ebola virus,329,156
+DON-2014-07-31,Sierra Leone,2014,Ebola virus,533,233
+DON-2014-07-31,Nigeria,2014,Ebola virus,1,1
+DON-2014-08-04,Guinea,2014,Ebola virus,485,384
+DON-2014-08-04,Liberia,2014,Ebola virus,468,255
+DON-2014-08-04,Sierra Leone,2014,Ebola virus,646,273
+DON-2014-08-04,Nigeria,2014,Ebola virus,4,1
+DON-2014-08-06,Guinea,2014,Ebola virus,495,363
+DON-2014-08-06,Liberia,2014,Ebola virus,515,282
+DON-2014-08-06,Sierra Leone,2014,Ebola virus,691,286
+DON-2014-08-06,Nigeria,2014,Ebola virus,9,1
+DON-2014-08-08,Guinea,2014,Ebola virus,495,367
+DON-2014-08-08,Liberia,2014,Ebola virus,554,294
+DON-2014-08-08,Sierra Leone,2014,Ebola virus,717,298
+DON-2014-08-08,Nigeria,2014,Ebola virus,13,2
+DON-2014-08-11,Guinea,2014,Ebola virus,506,373
+DON-2014-08-11,Liberia,2014,Ebola virus,599,323
+DON-2014-08-11,Sierra Leone,2014,Ebola virus,730,315
+DON-2014-08-11,Nigeria,2014,Ebola virus,13,2
+DON-2014-08-13,Guinea,2014,Ebola virus,510,377
+DON-2014-08-13,Liberia,2014,Ebola virus,670,355
+DON-2014-08-13,Sierra Leone,2014,Ebola virus,783,334
+DON-2014-08-13,Nigeria,2014,Ebola virus,12,3
+DON-2014-08-15,Guinea,2014,Ebola virus,519,380
+DON-2014-08-15,Liberia,2014,Ebola virus,786,413
+DON-2014-08-15,Sierra Leone,2014,Ebola virus,810,348
+DON-2014-08-15,Nigeria,2014,Ebola virus,12,4
+DON-2014-08-19,Guinea,2014,Ebola virus,543,394
+DON-2014-08-19,Liberia,2014,Ebola virus,846,41
+DON-2014-08-19,Sierra Leone,2014,Ebola virus,848,365
+DON-2014-08-19,Nigeria,2014,Ebola virus,15,4
+DON-2014-08-20,Guinea,2014,Ebola virus,579,396
+DON-2014-08-20,Liberia,2014,Ebola virus,972,576
+DON-2014-08-20,Sierra Leone,2014,Ebola virus,907,374
+DON-2014-08-20,Nigeria,2014,Ebola virus,15,4
+DON-2014-08-22,Guinea,2014,Ebola virus,607,406
+DON-2014-08-22,Liberia,2014,Ebola virus,1082,624
+DON-2014-08-22,Sierra Leone,2014,Ebola virus,910,392
+DON-2014-08-22,Nigeria,2014,Ebola virus,16,5
+DON-2014-08-27,Democratic Republic of the Congo,2014,Ebola virus,24,13
+DON-2014-08-28,Guinea,2014,Ebola virus,648,430
+DON-2014-08-28,Liberia,2014,Ebola virus,1378,694
+DON-2014-08-28,Sierra Leone,2014,Ebola virus,1026,422
+DON-2014-08-28,Nigeria,2014,Ebola virus,17,6
+DON-2014-08-28,Democratic Republic of the Congo,2014,Ebola virus,,
+DON-2014-08-30,Senegal,2014,Ebola virus,1,
+DON-2014-09-04-a,China,2014,Influenza A,,1
+DON-2014-09-04-b,Guinea,2014,Ebola virus,771,494
+DON-2014-09-04-b,Liberia,2014,Ebola virus,1698,871
+DON-2014-09-04-b,Sierra Leone,2014,Ebola virus,1216,476
+DON-2014-09-04-b,Nigeria,2014,Ebola virus,21,7
+DON-2014-09-04-b,Senegal,2014,Ebola virus,1,0
+DON-2014-09-06,Cameroon,2014,Polio,,
+DON-2014-09-10,Democratic Republic of the Congo,2014,Ebola virus,62,35
+DON-2014-09-10,,2014,Ebola virus,,
+DON-2014-09-17,United States of America,2014,Enterovirus,,
+DON-2014-10-01,United States of America,2014,Ebola virus,1,
+DON-2014-10-02-a,Austria,2014,MERS-CoV,,301
+DON-2014-10-02-b,Saudi Arabia,2014,MERS-CoV,,301
+DON-2014-10-09,Spain,2014,Ebola virus,1,
+DON-2014-10-10,Uganda,2014,Marburg fever,,1
+DON-2014-10-16,Saudi Arabia,2014,MERS-CoV,,317
+DON-2014-10-23,France,2014,Chikungunya,,0
+DON-2014-10-24,Turkey,2014,MERS-CoV,,319
+DON-2014-10-29,China,2014,Influenza A,,1
+DON-2014-10-31-a,Mali,2014,Ebola virus,1,1
+DON-2014-10-31-b,Qatar,2014,MERS-CoV,,319
+DON-2014-11-03,Saudi Arabia,2014,MERS-CoV,,325
+DON-2014-11-07,Saudi Arabia,2014,MERS-CoV,,331
+DON-2014-11-13-a,Portugal,2014,Legionellosis,302,5
+DON-2014-11-13-b,Uganda,2014,Marburg fever,,
+DON-2014-11-14,South Sudan,2014,Polio,,
+DON-2014-11-14,Madagascar,2014,Polio,,
+DON-2014-11-18,China,2014,Influenza A,,1
+DON-2014-11-21-a,Saudi Arabia,2014,MERS-CoV,,331
+DON-2014-11-21-b,Madagascar,2014,Plague,119,40
+DON-2014-12-02,Saudi Arabia,2014,MERS-CoV,,338
+DON-2014-12-15,Brazil,2014,West Nile virus,,0
+DON-2014-12-17,Saudi Arabia,2014,MERS-CoV,,343
+DON-2014-12-24,China,2014,Influenza A,,5
+DON-2014-12-26,Saudi Arabia,2014,MERS-CoV,,347
+DON-2014-12-28,China,2014,Influenza A,,0
+DON-2014-12-30-a,China,2014,Influenza A,,0
+DON-2014-12-30-b,United Kingdom,2014,Ebola virus,1,0
+DON-2015-01-05-a,Jordan,2015,MERS-CoV,,348
+DON-2015-01-05-b,Saudi Arabia,2015,MERS-CoV,,348
+DON-2015-01-15,Saudi Arabia,2015,MERS-CoV,,349
+DON-2015-01-16,Oman,2015,MERS-CoV,,350
+DON-2015-01-19,China,2015,Influenza A,,3
+DON-2015-01-20,Saudi Arabia,2015,MERS-CoV,,351
+DON-2015-01-23,Oman,2015,MERS-CoV,,351
+DON-2015-01-27,China,2015,Influenza A,,0
+DON-2015-02-01,Canada,2015,Influenza A,,0
+DON-2015-02-03,Saudi Arabia,2015,MERS-CoV,,357
+DON-2015-02-08,China,2015,Influenza A,,
+DON-2015-02-11-a,United Arab Emirates,2015,MERS-CoV,,359
+DON-2015-02-11-b,Qatar,2015,MERS-CoV,,358
+DON-2015-02-11-c,Saudi Arabia,2015,MERS-CoV,,358
+DON-2015-02-12,China,2015,Influenza A,,1
+DON-2015-02-13-a,United States,2015,Measles,121,
+DON-2015-02-13-a,Canada,2015,Measles,,
+DON-2015-02-13-a,Mexico,2015,Measles,2,
+DON-2015-02-13-a,Brazil,2015,Measles,,
+DON-2015-02-13-b,Philippines,2015,MERS-CoV,,0
+DON-2015-02-16,Saudi Arabia,2015,MERS-CoV,,360
+DON-2015-02-23,Saudi Arabia,2015,MERS-CoV,,376
+DON-2015-02-26-a,China,2015,Influenza A,,0
+DON-2015-02-26-b,Saudi Arabia,2015,MERS-CoV,,381
+DON-2015-03-06-a,European Region,2015,Measles,23000,
+DON-2015-03-06-b,Saudi Arabia,2015,MERS-CoV,,383
+DON-2015-03-09,Germany,2015,MERS-CoV,,383
+DON-2015-03-11-a,China,2015,Influenza A,,17
+DON-2015-03-11-b,Qatar,2015,MERS-CoV,,394
+DON-2015-03-11-c,Saudi Arabia,2015,MERS-CoV,,394
+DON-2015-03-13,Nigeria,2015,Meningococcal disease,,50
+DON-2015-03-17,Uganda,2015,Typhoid,,
+DON-2015-03-20,Saudi Arabia,2015,MERS-CoV,,404
+DON-2015-03-26,Saudi Arabia,2015,MERS-CoV,,412
+DON-2015-04-09,Saudi Arabia,2015,MERS-CoV,,416
+DON-2015-04-15,China,2015,Influenza A,,4
+DON-2015-04-16,Saudi Arabia,2015,MERS-CoV,,421
+DON-2015-04-29-a,Saudi Arabia,2015,MERS-CoV,,422
+DON-2015-04-29-b,Niger,2015,Meningococcal disease,,147
+DON-2015-05-08-a,Iran,2015,MERS-CoV,,422
+DON-2015-05-08-b,Saudi Arabia,2015,MERS-CoV,,422
+DON-2015-05-13,Italy,2015,Ebola virus,1,
+DON-2015-05-13,,2015,Ebola virus,,
+DON-2015-05-14,China,2015,Influenza A,,2
+DON-2015-05-15,Niger,2015,Meningococcal disease,,423
+DON-2015-05-17,Saudi Arabia,2015,MERS-CoV,,423
+DON-2015-05-18,United Arab Emirates,2015,MERS-CoV,,423
+DON-2015-05-24-a,United Arab Emirates,2015,MERS-CoV,,427
+DON-2015-05-24-b,Republic of Korea,2015,MERS-CoV,,0
+DON-2015-05-24-c,Qatar,2015,MERS-CoV,,427
+DON-2015-05-24-d,Saudi Arabia,2015,MERS-CoV,,427
+DON-2015-05-25,Saudi Arabia,2015,MERS-CoV,,431
+DON-2015-05-28,United States,2015,Lassa fever,,1
+DON-2015-05-30-a,China,2015,MERS-CoV,,0
+DON-2015-05-30-b,Republic of Korea,2015,MERS-CoV,,431
+DON-2015-05-31-a,Republic of Korea,2015,MERS-CoV,,431
+DON-2015-05-31-b,Qatar,2015,MERS-CoV,,427
+DON-2015-06-01-a,Republic of Korea,2015,MERS-CoV,,431
+DON-2015-06-01-b,Saudi Arabia,2015,MERS-CoV,,434
+DON-2015-06-04-a,Republic of Korea,2015,MERS-CoV,,2
+DON-2015-06-04-b,Oman,2015,MERS-CoV,,434
+DON-2015-06-04-c,Saudi Arabia,2015,MERS-CoV,,440
+DON-2015-06-05,Republic of Korea,2015,MERS-CoV,,3
+DON-2015-06-06-a,Republic of Korea,2015,MERS-CoV,41,4
+DON-2015-06-06-b,Saudi Arabia,2015,MERS-CoV,,448
+DON-2015-06-08,Republic of Korea,2015,MERS-CoV,,4
+DON-2015-06-09-a,United Arab Emirates,2015,MERS-CoV,,449
+DON-2015-06-09-b,Republic of Korea,2015,MERS-CoV,,5
+DON-2015-06-11,Saudi Arabia,2015,MERS-CoV,,449
+DON-2015-06-12-a,Chile,2015,Measles,,
+DON-2015-06-12-b,Republic of Korea,2015,MERS-CoV,,11
+DON-2015-06-15,China,2015,Influenza A,,3
+DON-2015-06-16-a,United Arab Emirates,2015,MERS-CoV,,458
+DON-2015-06-16-b,Republic of Korea,2015,MERS-CoV,,19
+DON-2015-06-16-c,Saudi Arabia,2015,MERS-CoV,,458
+DON-2015-06-19,Republic of Korea,2015,MERS-CoV,,24
+DON-2015-06-20,Thailand,2015,MERS-CoV,,0
+DON-2015-06-23-a,Republic of Korea,2015,MERS-CoV,,27
+DON-2015-06-23-b,Saudi Arabia,2015,MERS-CoV,,476
+DON-2015-06-26-a,United Arab Emirates,2015,MERS-CoV,,480
+DON-2015-06-26-b,Republic of Korea,2015,MERS-CoV,,31
+DON-2015-06-30,Republic of Korea,2015,MERS-CoV,,33
+DON-2015-07-03-a,Republic of Korea,2015,MERS-CoV,,33
+DON-2015-07-03-b,Saudi Arabia,2015,MERS-CoV,,487
+DON-2015-07-07,Republic of Korea,2015,MERS-CoV,,33
+DON-2015-07-08,Philippines,2015,MERS-CoV,,487
+DON-2015-07-10-a,Republic of Korea,2015,MERS-CoV,,35
+DON-2015-07-10-b,Philippines,2015,MERS-CoV,,
+DON-2015-07-10-c,Thailand,2015,MERS-CoV,,
+DON-2015-07-14-a,China,2015,Influenza A,,0
+DON-2015-07-14-b,Republic of Korea,2015,MERS-CoV,,36
+DON-2015-07-17,Republic of Korea,2015,MERS-CoV,,36
+DON-2015-07-18,China,2015,Influenza A,,3
+DON-2015-07-21,Republic of Korea,2015,MERS-CoV,,36
+DON-2015-07-23,Niger,2015,Meningococcal disease,,573
+DON-2015-07-24-a,Saudi Arabia,2015,MERS-CoV,,490
+DON-2015-07-24-b,Madagascar,2015,Polio,,
+DON-2015-07-29,Saudi Arabia,2015,MERS-CoV,,493
+DON-2015-08-06,Saudi Arabia,2015,MERS-CoV,,495
+DON-2015-08-10,Spain,2015,Chikungunya,,0
+DON-2015-08-12,Saudi Arabia,2015,MERS-CoV,,500
+DON-2015-08-18,Saudi Arabia,2015,MERS-CoV,,502
+DON-2015-08-21,Saudi Arabia,2015,MERS-CoV,,507
+DON-2015-08-26,Saudi Arabia,2015,MERS-CoV,,514
+DON-2015-08-27,Saudi Arabia,2015,MERS-CoV,,515
+DON-2015-09-01-a,Jordan,2015,MERS-CoV,,562
+DON-2015-09-01-b,Ukraine,2015,Polio,,
+DON-2015-09-02,Saudi Arabia,2015,MERS-CoV,,527
+DON-2015-09-06-a,Jordan,2015,MERS-CoV,,528
+DON-2015-09-06-b,Madagascar,2015,Plague,14,10
+DON-2015-09-08,Saudi Arabia,2015,MERS-CoV,,539
+DON-2015-09-09,Saudi Arabia,2015,MERS-CoV,,544
+DON-2015-09-11,United Republic of Tanzania,2015,Cholera,971,13
+DON-2015-09-14,Senegal,2015,Chikungunya,,
+DON-2015-09-17-a,Spain,2015,Chikungunya,,
+DON-2015-09-17-b,Saudi Arabia,2015,MERS-CoV,,551
+DON-2015-09-17-c,Portugal,2015,West Nile virus,,0
+DON-2015-09-18,Jordan,2015,MERS-CoV,,554
+DON-2015-09-23,Kuwait,2015,MERS-CoV,,555
+DON-2015-09-27,Saudi Arabia,2015,MERS-CoV,,566
+DON-2015-09-28,Iraq,2015,Cholera,,
+DON-2015-09-30,Saudi Arabia,2015,MERS-CoV,,567
+DON-2015-10-01,Jordan,2015,MERS-CoV,,568
+DON-2015-10-12-a,Iraq,2015,Cholera,,
+DON-2015-10-12-b,Jordan,2015,MERS-CoV,,568
+DON-2015-10-12-c,Saudi Arabia,2015,MERS-CoV,,571
+DON-2015-10-12-d,Lao People's Democratic Republic,2015,Polio,,1
+DON-2015-10-19,China,2015,Influenza A,,
+DON-2015-10-21-a,United Republic of Tanzania,2015,Cholera,,
+DON-2015-10-21-b,Brazil,2015,Zika virus disease,,
+DON-2015-10-21-b,Colombia,2015,Zika virus disease,,
+DON-2015-10-21-d,Saudi Arabia,2015,MERS-CoV,,574
+DON-2015-10-25,Republic of Korea,2015,MERS-CoV,,36
+DON-2015-10-29,Saudi Arabia,2015,MERS-CoV,,575
+DON-2015-11-11,Suriname,2015,Zika virus disease,2,
+DON-2015-11-12,Egypt,2015,Dengue fever,253,
+DON-2015-11-13-a,China,2015,Influenza A,,
+DON-2015-11-13-b,Saudi Arabia,2015,MERS-CoV,,579
+DON-2015-11-13-c,Suriname,2015,Zika virus disease,,
+DON-2015-11-16,Republic of Korea,2015,Syndromic: respiratory,84,0
+DON-2015-11-20,Brazil,2015,Zika virus disease,399,
+DON-2015-11-26-a,United Republic of Tanzania,2015,Cholera,9871,150
+DON-2015-11-26-b,Iraq,2015,Cholera,,2
+DON-2015-11-27-a,Brazil,2015,Zika virus disease,739,1
+DON-2015-11-27-b,El Salvador,2015,Zika virus disease,,
+DON-2015-11-27-c,Guatemala,2015,Zika virus disease,,
+DON-2015-12-03-a,Mexico,2015,Zika virus disease,3,
+DON-2015-12-03-b,Paraguay,2015,Zika virus disease,,
+DON-2015-12-03-c,Venezuela,2015,Zika virus disease,,
+DON-2015-12-04,Saudi Arabia,2015,MERS-CoV,,584
+DON-2015-12-05,Panama,2015,Zika virus disease,,
+DON-2015-12-15-a,Democratic Republic of the Congo,2015,Cholera,19705,
+DON-2015-12-15-b,Brazil,2015,Zika virus disease,,19
+DON-2015-12-15-c,Lao People's Democratic Republic,2015,Polio,,
+DON-2015-12-17,China,2015,Influenza A,,0
+DON-2015-12-21-a,Myanmar,2015,Polio,,
+DON-2015-12-21-b,Cape Verde,2015,Zika virus disease,,
+DON-2015-12-21-c,Honduras,2015,Zika virus disease,,
+DON-2015-12-22,Panama,2015,Zika virus disease,,
+DON-2016-01-04-a,China,2016,Influenza A,,0
+DON-2016-01-04-b,Saudi Arabia,2016,MERS-CoV,,586
+DON-2016-01-07,Oman,2016,MERS-CoV,,586
+DON-2016-01-08-a,Brazil,2016,Zika virus disease,,38
+DON-2016-01-08-b,French Guiana,2016,Zika virus disease,,
+DON-2016-01-08-b,Martinique,2016,Zika virus disease,,
+DON-2016-01-08-c,Puerto Rico,2016,Zika virus disease,,
+DON-2016-01-11,China,2016,Influenza A,,1
+DON-2016-01-19,China,2016,Influenza A,,3
+DON-2016-01-20-a,Bolivia,2016,Zika virus disease,,
+DON-2016-01-20-b,Guyana,2016,Zika virus disease,,
+DON-2016-01-20-b,Barbados,2016,Zika virus disease,,
+DON-2016-01-20-b,Ecuador,2016,Zika virus disease,6,
+DON-2016-01-21-a,El Salvador,2016,Guillain-Barre syndrome,46,2
+DON-2016-01-21-b,Haiti,2016,Zika virus disease,,
+DON-2016-01-21-b,Germany,2016,Zika virus disease,,
+DON-2016-01-26-a,China,2016,Influenza A,,0
+DON-2016-01-26-b,United Arab Emirates,2016,MERS-CoV,,587
+DON-2016-01-26-c,Saudi Arabia,2016,MERS-CoV,,586
+DON-2016-01-27-a,Nigeria,2016,Lassa fever,,82
+DON-2016-01-27-b,Dominican Republic,2016,Zika virus disease,,
+DON-2016-01-29-a,Thailand,2016,MERS-CoV,,
+DON-2016-01-29-b,Lao People's Democratic Republic,2016,Polio,,
+DON-2016-01-29-c,US Virgin Islands,2016,Zika virus disease,,
+DON-2016-02-02,Saudi Arabia,2016,MERS-CoV,,587
+DON-2016-02-08-a,Brazil,2016,Guillain-Barre syndrome,1708,
+DON-2016-02-08-b,Martinique,2016,Zika virus disease,,0
+DON-2016-02-08-c,Costa Rica,2016,Zika virus disease,,0
+DON-2016-02-08-c,Curacao,2016,Zika virus disease,,0
+DON-2016-02-08-c,Jamaica,2016,Zika virus disease,,0
+DON-2016-02-08-c,Nicaragua,2016,Zika virus disease,,0
+DON-2016-02-08-d,Maldives,2016,Zika virus disease,,0
+DON-2016-02-10,China,2016,Influenza A,,5
+DON-2016-02-12-a,Colombia,2016,Guillain-Barre syndrome,,
+DON-2016-02-12-a,Venezuela,2016,Guillain-Barre syndrome,,
+DON-2016-02-12-b,United States of America,2016,Zika virus disease,1,
+DON-2016-02-12-c,Angola,2016,Yellow fever,,37
+DON-2016-02-12-d,United States of America,2016,Zika virus disease,,
+DON-2016-02-19,Benin,2016,Lassa fever,71,2
+DON-2016-02-22,Bonaire,2016,Zika virus disease,,
+DON-2016-02-22,Aruba,2016,Zika virus disease,11,
+DON-2016-02-25-a,China,2016,Influenza A,,0
+DON-2016-02-25-b,Uruguay,2016,Dengue fever,,0
+DON-2016-02-25-c,Lao People's Democratic Republic,2016,Polio,,
+DON-2016-02-29-a,Saudi Arabia,2016,MERS-CoV,,590
+DON-2016-02-29-b,Trinidad and Tobago,2016,Zika virus disease,,
+DON-2016-03-01,Saint Vincent and the Grenadines,2016,Zika virus disease,,
+DON-2016-03-04,Sint Maarten,2016,Zika virus disease,,
+DON-2016-03-07-a,French Polynesia,2016,Guillain-Barre syndrome,42,0
+DON-2016-03-07-b,Argentina,2016,Zika virus disease,,
+DON-2016-03-07-b,France,2016,Zika virus disease,,
+DON-2016-03-10-a,Uruguay,2016,Dengue fever,,
+DON-2016-03-10-b,Qatar,2016,MERS-CoV,,591
+DON-2016-03-10-c,Saudi Arabia,2016,MERS-CoV,,590
+DON-2016-03-14-a,Argentina,2016,Chikungunya,,
+DON-2016-03-14-b,Saudi Arabia,2016,MERS-CoV,,597
+DON-2016-03-16,Saudi Arabia,2016,MERS-CoV,,600
+DON-2016-03-18,Saudi Arabia,2016,MERS-CoV,,603
+DON-2016-03-21-a,United States of America,2016,Guillain-Barre syndrome,2,1
+DON-2016-03-21-b,Saudi Arabia,2016,MERS-CoV,,605
+DON-2016-03-22,Angola,2016,Yellow fever,1132,168
+DON-2016-03-23-a,China,2016,Influenza A,,0
+DON-2016-03-23-b,China,2016,Influenza A,,11
+DON-2016-03-23-c,Germany,2016,Lassa fever,,1
+DON-2016-03-23-d,Togo,2016,Lassa fever,,1
+DON-2016-03-23-e,Saudi Arabia,2016,MERS-CoV,,609
+DON-2016-03-29-a,China,2016,Influenza A,,0
+DON-2016-03-29-b,Panama,2016,Guillain-Barre syndrome,,0
+DON-2016-03-29-c,Panama,2016,Zika virus disease,,1
+DON-2016-03-29-d,China,2016,Yellow fever,,0
+DON-2016-03-29-e,Dominica,2016,Zika virus disease,,
+DON-2016-03-29-e,Cuba,2016,Zika virus disease,,
+DON-2016-04-01,Martinique,2016,Zika virus disease,,
+DON-2016-04-06-a,China,2016,Yellow fever,,
+DON-2016-04-06-b,Kenya,2016,Yellow fever,2,
+DON-2016-04-08,Sweden,2016,Lassa fever,,0
+DON-2016-04-09,Martinique,2016,Zika virus disease,,
+DON-2016-04-11,Democratic Republic of the Congo,2016,Yellow fever,,21
+DON-2016-04-12,Vietnam,2016,Zika virus disease,,
+DON-2016-04-13,Angola,2016,Yellow fever,,238
+DON-2016-04-14,Saudi Arabia,2016,MERS-CoV,,618
+DON-2016-04-15,Chile,2016,Zika virus disease,,
+DON-2016-04-20,Saint Lucia,2016,Zika virus disease,,
+DON-2016-04-21-a,United States of America,2016,Elizabethkingia anophelis,57,18
+DON-2016-04-21-b,Peru,2016,Zika virus disease,,
+DON-2016-04-22-a,Saudi Arabia,2016,MERS-CoV,,623
+DON-2016-04-22-b,China,2016,Yellow fever,,
+DON-2016-04-22-c,Papua New Guinea,2016,Zika virus disease,,
+DON-2016-04-25,Bahrain,2016,MERS-CoV,,1
+DON-2016-04-26-a,China,2016,Influenza A,,0
+DON-2016-04-26-b,Saudi Arabia,2016,MERS-CoV,,624
+DON-2016-04-27,Germany,2016,Lassa fever,,
+DON-2016-04-28,United States of America,2016,Salmonella enterica,124,0
+DON-2016-05-02-a,Democratic Republic of the Congo,2016,Yellow fever,,45
+DON-2016-05-02-b,Uganda,2016,Yellow fever,,2
+DON-2016-05-03,China,2016,Influenza A,,5
+DON-2016-05-06,China,2016,Influenza A,2,0
+DON-2016-05-10,China,2016,Influenza A,1,0
+DON-2016-05-16-a,Qatar,2016,MERS-CoV,,624
+DON-2016-05-16-b,Saudi Arabia,2016,MERS-CoV,,628
+DON-2016-05-17,China,2016,Influenza A,,4
+DON-2016-05-18,Liberia,2016,Lassa fever,38,15
+DON-2016-05-19,South Sudan,2016,Syndromic: haemorrhagic,,10
+DON-2016-05-27,Nigeria,2016,Lassa fever,273,149
+DON-2016-06-02,Democratic Republic of the Congo,2016,Yellow fever,,63
+DON-2016-06-03,Peru,2016,Oropouche fever,57,
+DON-2016-06-08,China,2016,Influenza A,,0
+DON-2016-06-13,Benin,2016,Lassa fever,54,28
+DON-2016-06-14-a,United States of America,2016,Chikungunya,1,
+DON-2016-06-14-b,Angola,2016,Yellow fever,,345
+DON-2016-06-19,Saudi Arabia,2016,MERS-CoV,,629
+DON-2016-06-21-a,Saudi Arabia,2016,MERS-CoV,,629
+DON-2016-06-21-b,United Arab Emirates,2016,MERS-CoV,,629
+DON-2016-06-22,Saudi Arabia,2016,MERS-CoV,,630
+DON-2016-06-29,Qatar,2016,MERS-CoV,,630
+DON-2016-07-01,China,2016,Influenza A,,1
+DON-2016-07-06,Saudi Arabia,2016,MERS-CoV,,634
+DON-2016-07-20,United Kingdom,2016,E. coli,158,2
+DON-2016-07-22,China,2016,Influenza A,,4
+DON-2016-07-25,Saudi Arabia,2016,MERS-CoV,,640
+DON-2016-08-09,Kenya,2016,Chikungunya,1792,
+DON-2016-08-17,China,2016,Influenza A,,
+DON-2016-08-26,Thailand,2016,MERS-CoV,,0
+DON-2016-09-16,Saudi Arabia,2016,MERS-CoV,,843
+DON-2016-09-20,Austria,2016,MERS-CoV,,0
+DON-2016-09-21,Saudi Arabia,2016,MERS-CoV,,643
+DON-2016-09-29,Niger,2016,Rift Valley fever,,23
+DON-2016-10-06,Nigeria,2016,Polio,,
+DON-2016-10-06,,2016,Polio,,
+DON-2016-10-13,Central African Republic,2016,Monkeypox,26,
+DON-2016-10-31,Saudi Arabia,2016,MERS-CoV,,645
+DON-2016-11-11,Saudi Arabia,2016,MERS-CoV,,649
+DON-2016-11-17,China,2016,Influenza A,,0
+DON-2016-11-18,Burkina Faso,2016,Dengue fever,,15
+DON-2016-11-24,Niger,2016,Rift Valley fever,,32
+DON-2016-11-28,Saudi Arabia,2016,MERS-CoV,,651
+DON-2016-12-05,Saudi Arabia,2016,MERS-CoV,,652
+DON-2016-12-07,China,2016,Influenza A,,0
+DON-2016-12-08,Oman,2016,MERS-CoV,,652
+DON-2016-12-19-a,China,2016,Influenza A,,0
+DON-2016-12-19-b,Saudi Arabia,2016,MERS-CoV,,654
+DON-2016-12-19-c,China,2016,Influenza A,,0
+DON-2016-12-19-d,Saudi Arabia,2016,MERS-CoV,,659
+DON-2016-12-23,China,2016,Influenza A,,0
+DON-2016-12-27,Pakistan,2016,Polio,0,0
+DON-2017-01-03,China,2017,Influenza A,,
+DON-2017-01-09,Madagascar,2017,Plague,62,26
+DON-2017-01-13,Brazil,2017,Yellow fever,,30
+DON-2017-01-17-a,China,2017,Influenza A,,35
+DON-2017-01-17-b,Saudi Arabia,2017,MERS-CoV,,666
+DON-2017-01-18,China,2017,Influenza A,,
+DON-2017-01-24,Chad,2017,Hepatitis E,693,11
+DON-2017-01-26,Saudi Arabia,2017,MERS-CoV,,670
+DON-2017-01-27,Brazil,2017,Yellow fever,407,87
+DON-2017-02-10,Saudi Arabia,2017,MERS-CoV,,677
+DON-2017-02-20-a,China,2017,Influenza A,,36
+DON-2017-02-20-b,United States of America,2017,Hantavirus,11,0
+DON-2017-02-20-b,Canada,2017,Hantavirus,3,
+DON-2017-02-22,China,2017,Influenza A,,
+DON-2017-02-23,Togo,2017,Meningococcal disease,,17
+DON-2017-02-24,Brazil,2017,Yellow fever,1336,215
+DON-2017-02-27,China,2017,Influenza A,,0
+DON-2017-03-03,Brazil,2017,Yellow fever,,
+DON-2017-03-10-a,Benin,2017,Lassa fever,,
+DON-2017-03-10-a,Togo,2017,Lassa fever,,
+DON-2017-03-10-a,Burkina Faso,2017,Lassa fever,,
+DON-2017-03-10-b,Saudi Arabia,2017,MERS-CoV,,684
+DON-2017-03-15,China,2017,Influenza A,,11
+DON-2017-03-16,China,2017,Influenza A,,3
+DON-2017-03-20,Brazil,2017,Yellow fever,,
+DON-2017-03-23,China,2017,Influenza A,,3
+DON-2017-03-24,Nigeria,2017,Meningococcal disease,,211
+DON-2017-03-28,Suriname,2017,Yellow fever,,0
+DON-2017-04-03-a,China,2017,Influenza A,,2
+DON-2017-04-03-b,Saudi Arabia,2017,MERS-CoV,,690
+DON-2017-04-04-a,Qatar,2017,MERS-CoV,,690
+DON-2017-04-04-b,Brazil,2017,Yellow fever,,
+DON-2017-04-05,China,2017,Influenza A,,3
+DON-2017-04-18,China,2017,Influenza A,,1
+DON-2017-04-20,China,2017,Influenza A,,2
+DON-2017-04-24,United Arab Emirates,2017,MERS-CoV,,691
+DON-2017-04-27,Saudi Arabia,2017,MERS-CoV,,693
+DON-2017-04-27,Qatar,2017,MERS-CoV,,20
+DON-2017-05-01,China,2017,Influenza A,,8
+DON-2017-05-05-a,Niger,2017,Hepatitis E,,27
+DON-2017-05-05-b,Liberia,2017,Unspecified,28,12
+DON-2017-05-09,China,2017,Influenza A,,3
+DON-2017-05-13,Democratic Republic of the Congo,2017,Ebola virus,9,3
+DON-2017-05-18,China,2017,Influenza A,,9
+DON-2017-05-23,China,2017,Influenza A,,7
+DON-2017-05-26,India,2017,Zika virus disease,,
+DON-2017-06-06,Saudi Arabia,2017,MERS-CoV,,699
+DON-2017-06-06,United Arab Emirates,2017,MERS-CoV,,0
+DON-2017-06-06,Qatar,2017,MERS-CoV,,0
+DON-2017-06-07,European Region,2017,Hepatitis A,1173,0
+DON-2017-06-07,Chile,2017,Hepatitis A,706,0
+DON-2017-06-07,United States of America,2017,Hepatitis A,,0
+DON-2017-06-08,China,2017,Influenza A,,9
+DON-2017-06-13-a,Saudi Arabia,2017,MERS-CoV,,703
+DON-2017-06-13-b,Democratic Republic of the Congo,2017,Polio,,
+DON-2017-06-13-c,Syrian Arab Republic,2017,Polio,58,
+DON-2017-06-19,Saudi Arabia,2017,MERS-CoV,,704
+DON-2017-06-28-a,China,2017,Influenza A,,1
+DON-2017-06-28-b,Nigeria,2017,Lassa fever,501,104
+DON-2017-06-28-c,Saudi Arabia,2017,MERS-CoV,,710
+DON-2017-07-04,Lebanon,2017,MERS-CoV,,0
+DON-2017-07-06-a,Liberia,2017,Meningococcal disease,31,13
+DON-2017-07-06-b,Saudi Arabia,2017,MERS-CoV,,712
+DON-2017-07-12-a,Nigeria,2017,Cholera,1558,11
+DON-2017-07-12-b,Nigeria,2017,Hepatitis E,146,
+DON-2017-07-19-a,China,2017,Influenza A,,
+DON-2017-07-19-b,Sri Lanka,2017,Dengue fever,80732,215
+DON-2017-07-21,Kenya,2017,Cholera,14,1.2
+DON-2017-08-04,Cote d'Ivoire,2017,Dengue fever,,2
+DON-2017-08-07,China,2017,Influenza A,,1
+DON-2017-08-17,Saudi Arabia,2017,MERS-CoV,,720
+DON-2017-08-25,France,2017,Chikungunya,13,
+DON-2017-08-28,United Arab Emirates,2017,MERS-CoV,,722
+DON-2017-08-30,French Guiana,2017,Yellow fever,1,1
+DON-2017-09-05,China,2017,Influenza A,,
+DON-2017-09-06,Saudi Arabia,2017,MERS-CoV,,722
+DON-2017-09-12,Oman,2017,MERS-CoV,,722
+DON-2017-09-13,China,2017,Influenza A,,2
+DON-2017-09-15,Italy,2017,Chikungunya,,
+DON-2017-09-21,United Arab Emirates,2017,MERS-CoV,,722
+DON-2017-09-29-a,Italy,2017,Chikungunya,183,
+DON-2017-09-29-b,Madagascar,2017,Plague,104,19
+DON-2017-10-02,Madagascar,2017,Plague,131,24
+DON-2017-10-09,Saudi Arabia,2017,MERS-CoV,,730
+DON-2017-10-15,Seychelles,2017,Plague,,
+DON-2017-10-25,Uganda,2017,Marburg fever,5,2
+DON-2017-10-26-a,China,2017,Influenza A,2,
+DON-2017-10-26-b,Seychelles,2017,Plague,,
+DON-2017-11-02,Madagascar,2017,Plague,1801,127
+DON-2017-11-06,Burkina Faso,2017,Dengue fever,9029,18
+DON-2017-11-07-a,Uganda,2017,Marburg fever,3,3
+DON-2017-11-07-a,Kenya,2017,Marburg fever,,
+DON-2017-11-07-b,Saudi Arabia,2017,MERS-CoV,,733
+DON-2017-11-10,Oman,2017,MERS-CoV,,733
+DON-2017-11-15-a,Uganda,2017,Marburg fever,3,3
+DON-2017-11-15-a,Kenya,2017,Marburg fever,,1
+DON-2017-11-15-b,Madagascar,2017,Plague,2119,171
+DON-2017-11-24,Brazil,2017,Yellow fever,,1
+DON-2017-11-27,Madagascar,2017,Plague,2348,202
+DON-2017-12-11-a,Kenya,2017,Cholera,3967,
+DON-2017-12-11-b,Zambia,2017,Cholera,547,15
+DON-2017-12-13,Bangladesh,2017,Diptheria,,
+DON-2017-12-19,Saudi Arabia,2017,MERS-CoV,,740
+DON-2017-12-21,Nigeria,2017,Monkeypox,,
+DON-2017-12-22-a,Yemen,2017,Diptheria,,35
+DON-2017-12-22-b,United Arab Emirates,2017,MERS-CoV,,740
+DON-2017-12-22-c,France,2017,Salmonella enterica,,
+DON-2017-12-22-d,Nigeria,2017,Yellow fever,,45
+DON-2018-01-08,Malaysia,2018,MERS-CoV,,740
+DON-2018-01-12,United Republic of Tanzania,2018,Cholera,33421,542
+DON-2018-01-15,Namibia,2018,Hepatitis E,237,1
+DON-2018-01-22,Brazil,2018,Yellow fever,,20
+DON-2018-01-26,Saudi Arabia,2018,MERS-CoV,,750
+DON-2018-02-19,Mozambique,2018,Cholera,1799,1
+DON-2018-02-22-a,China,2018,Influenza A,1,0
+DON-2018-02-22-b,Liberia,2018,Lassa fever,,15
+DON-2018-02-26,Gambia,2018,Rift Valley fever,,0
+DON-2018-02-27-a,Kenya,2018,Chikungunya,453,
+DON-2018-02-27-b,Brazil,2018,Yellow fever,,154
+DON-2018-03-01,Nigeria,2018,Lassa fever,,22
+DON-2018-03-02,Democratic Republic of the Congo,2018,Cholera,1065,43
+DON-2018-03-09-a,Somalia,2018,Polio,0,
+DON-2018-03-09-b,Brazil,2018,Yellow fever,,237
+DON-2018-03-15,Oman,2018,MERS-CoV,,0
+DON-2018-03-23-a,Nigeria,2018,Lassa fever,,9
+DON-2018-03-23-b,Netherlands,2018,Influenza A,,0
+DON-2018-03-28,South Africa,2018,Listeriosis,,183
+DON-2018-03-29,Somalia,2018,Cholera,1613,9
+DON-2018-04-09,Australia,2018,Listeriosis,20,9
+DON-2018-04-20,Nigeria,2018,Lassa fever,,114
+DON-2018-05-01,Reunion (France),2018,Dengue fever,,
+DON-2018-05-02,South Africa,2018,Listeriosis,,200
+DON-2018-05-10,Democratic Republic of the Congo,2018,Ebola virus,32,18
+DON-2018-05-14,Democratic Republic of the Congo,2018,Ebola virus,39,19
+DON-2018-05-17,Democratic Republic of the Congo,2018,Ebola virus,44,23
+DON-2018-05-19,India,2018,Nipah virus,,13
+DON-2018-05-21,Democratic Republic of the Congo,2018,Ebola virus,,
+DON-2018-05-23,Democratic Republic of the Congo,2018,Ebola virus,58,27
+DON-2018-05-28,United Arab Emirates,2018,MERS-CoV,,0
+DON-2018-05-30,Democratic Republic of the Congo,2018,Ebola virus,54,25
+DON-2018-06-05-a,Democratic Republic of the Congo,2018,Ebola virus,,
+DON-2018-06-05-b,Cameroon,2018,Monkeypox,16,0
+DON-2018-06-06,Democratic Republic of the Congo,2018,Ebola virus,56,25
+DON-2018-06-11-a,Democratic Republic of the Congo,2018,Ebola virus,,
+DON-2018-06-11-b,Brazil,2018,Measles,995,2
+DON-2018-06-13,Democratic Republic of the Congo,2018,Ebola virus,55,28
+DON-2018-06-14,Cameroon,2018,Cholera,3,0
+DON-2018-06-18-a,Saudi Arabia,2018,MERS-CoV,,790
+DON-2018-06-18-b,Kenya,2018,Rift Valley fever,26,6
+DON-2018-06-20-a,Democratic Republic of the Congo,2018,Ebola virus,,
+DON-2018-06-20-b,Japan,2018,Measles,161,
+DON-2018-07-02,Papau New Guinea,2018,Polio,,
+DON-2018-07-06,Democratic Republic of the Congo,2018,Ebola virus,53,29
+DON-2018-07-10,Democratic Republic of the Congo,2018,Polio,,
+DON-2018-07-25,Democratic Republic of the Congo,2018,Ebola virus,54,33
+DON-2018-08-04,Democratic Republic of the Congo,2018,Ebola virus,43,33
+DON-2018-08-07,India,2018,Nipah virus,19,17
+DON-2018-08-08,Nigeria,2018,Polio,,
+DON-2018-08-09,Democratic Republic of the Congo,2018,Ebola virus,44,36
+DON-2018-08-14,Democratic Republic of the Congo,2018,Ebola virus,,
+DON-2018-08-17,Democratic Republic of the Congo,2018,Ebola virus,78,44
+DON-2018-08-24-a,Democratic Republic of the Congo,2018,Ebola virus,,63
+DON-2018-08-24-b,French Guiana,2018,Yellow fever,1,
+DON-2018-08-31-a,Democratic Republic of the Congo,2018,Ebola virus,,77
+DON-2018-08-31-b,United Kingdom of Great Britain and Northern Ireland,2018,MERS-CoV,,0
+DON-2018-09-05,China,2018,Influenza A,,615
+DON-2018-09-07-a,Democratic Republic of the Congo,2018,Ebola virus,,89
+DON-2018-09-07-b,Republic of the Congo,2018,Yellow fever,,
+DON-2018-09-12,Republic of Korea,2018,MERS-CoV,1,0
+DON-2018-09-14-a,Algeria,2018,Cholera,217,2
+DON-2018-09-14-b,Democratic Republic of the Congo,2018,Ebola virus,,92
+DON-2018-09-20-a,Zimbabwe,2018,Cholera,,32
+DON-2018-09-20-b,Democratic Republic of the Congo,2018,Ebola virus,,97
+DON-2018-09-27,Democratic Republic of the Congo,2018,Ebola virus,,101
+DON-2018-10-03,Saudi Arabia,2018,MERS-CoV,,800
+DON-2018-10-04,Democratic Republic of the Congo,2018,Ebola virus,,106
+DON-2018-10-05-a,Niger,2018,Cholera,3692,68
+DON-2018-10-05-b,Zimbabwe,2018,Cholera,8535,50
+DON-2018-10-05-c,Nigeria,2018,Monkeypox,,9
+DON-2018-10-11,Democratic Republic of the Congo,2018,Ebola virus,,122
+DON-2018-10-15,Sudan,2018,Chikungunya,13978,
+DON-2018-10-18,Democratic Republic of the Congo,2018,Ebola virus,,142
+DON-2018-10-25,Democratic Republic of the Congo,2018,Ebola virus,,159
+DON-2018-10-30,Niger,2018,Polio,6,
+DON-2018-11-01-a,Democratic Republic of the Congo,2018,Ebola virus,,
+DON-2018-11-01-b,Saudi Arabia,2018,MERS-CoV,,803
+DON-2018-11-08,Democratic Republic of the Congo,2018,Ebola virus,,189
+DON-2018-11-15,Democratic Republic of the Congo,2018,Ebola virus,,215
+DON-2018-11-20,Saudi Arabia,2018,MERS-CoV,,804
+DON-2018-11-22,Democratic Republic of the Congo,2018,Ebola virus,,219
+DON-2018-11-29,Democratic Republic of the Congo,2018,Ebola virus,,242
+DON-2018-12-06,Democratic Republic of the Congo,2018,Ebola virus,,271
+DON-2018-12-13,Democratic Republic of the Congo,2018,Ebola virus,,296
+DON-2018-12-18,Kingdom of the Netherlands,2018,Yellow fever,1,0
+DON-2018-12-20,Democratic Republic of the Congo,2018,Ebola virus,,326
+DON-2018-12-27,Islamic Republic of Pakistan,2018,Typhoid,8188,
+DON-2018-12-28-a,Democratic Republic of the Congo,2018,Ebola virus,591,357
+DON-2018-12-28-b,Saudi Arabia,2018,MERS-CoV,,806
+DON-2019-01-04-a,Democratic Republic of the Congo,2019,Ebola virus,609,370
+DON-2019-01-04-b,Republic of Panama,2019,Hantavirus,,4
+DON-2019-01-08,Democratic Republic of the Congo,2019,Polio,,
+DON-2019-01-09,Nigeria,2019,Yellow fever,,26
+DON-2019-01-10,Democratic Republic of the Congo,2019,Ebola virus,628,338
+DON-2019-01-16,Saudi Arabia,2019,MERS-CoV,,806
+DON-2019-01-17-a,Democratic Republic of the Congo,2019,Ebola virus,663,407
+DON-2019-01-17-b,Madagascar,2019,Measles,19539,39
+DON-2019-01-23,Argentine Republic,2019,Hantavirus,29,11
+DON-2019-01-23,Chile,2019,Hantavirus,9,2
+DON-2019-01-24,Democratic Republic of the Congo,2019,Ebola virus,713,439
+DON-2019-01-25,Mozambique,2019,Polio,2,
+DON-2019-01-30,United Kingdom,2019,Gonorrhea,,0
+DON-2019-01-31,Democratic Republic of the Congo,2019,Ebola virus,752,465
+DON-2019-02-04,Jamaica,2019,Dengue fever,1325,
+DON-2019-02-07,Democratic Republic of the Congo,2019,Ebola virus,789,488
+DON-2019-02-11-a,Oman,2019,MERS-CoV,,811
+DON-2019-02-11-b,Brazil,2019,Yellow fever,,8
+DON-2019-02-14-a,Democratic Republic of the Congo,2019,Ebola virus,823,517
+DON-2019-02-14-b,Nigeria,2019,Lassa fever,327,72
+DON-2019-02-15,Saudi Arabia,2019,MERS-CoV,,811
+DON-2019-02-20,Papua New Guinea,2019,Polio,,
+DON-2019-02-21,Democratic Republic of the Congo,2019,Ebola virus,848,529
+DON-2019-02-26,The Kingdom of Saudi Arabia,2019,MERS-CoV,,817
+DON-2019-02-27-c,Indonesia,2019,Polio,2,
+DON-2019-02-28,Democratic Republic of the Congo,2019,Ebola virus,879,553
+DON-2019-03-04,Oman,2019,MERS-CoV,,820
+DON-2019-03-05,Mexico,2019,Pseudomonas aeruginosa,,
+DON-2019-03-05,The United States of America,2019,Pseudomonas aeruginosa,20,
+DON-2019-03-07,Democratic Republic of the Congo,2019,Ebola virus,907,569
+DON-2019-03-14,Democratic Republic of the Congo,2019,Ebola virus,927,584
+DON-2019-03-21,Democratic Republic of the Congo,2019,Ebola virus,980,610
+DON-2019-03-28,Democratic Republic of the Congo,2019,Ebola virus,1029,642
+DON-2019-03-29,The Kingdom of Saudi Arabia,2019,MERS-CoV,,823
+DON-2019-04-04,Democratic Republic of the Congo,2019,Ebola virus,1100,690
+DON-2019-04-11,Democratic Republic of the Congo,2019,Ebola virus,1186,751
+DON-2019-04-18-a,Democratic Republic of the Congo,2019,Ebola virus,1290,833
+DON-2019-04-18-b,Brazil,2019,Yellow fever,75,17
+DON-2019-04-24,Saudi Arabia,2019,MERS-CoV,,827
+DON-2019-04-25,Democratic Republic of the Congo,2019,Ebola virus,1367,885
+DON-2019-05-01,Congo,2019,Chikungunya,,
+DON-2019-05-02,Democratic Republic of the Congo,2019,Ebola virus,1495,984
+DON-2019-05-06,European Region,2019,Measles,83540,74
+DON-2019-05-07,Australia,2019,Measles,,
+DON-2019-05-07,China,2019,Measles,,
+DON-2019-05-07,Hong Kong SAR (China),2019,Measles,66,
+DON-2019-05-07,Macao SAR (China),2019,Measles,32,
+DON-2019-05-07,Japan,2019,Measles,378,
+DON-2019-05-07,Malaysia,2019,Measles,1934,
+DON-2019-05-07,New Zealand,2019,Measles,72,
+DON-2019-05-07,The Philippines,2019,Measles,25956,381
+DON-2019-05-07,Republic of Korea,2019,Measles,150,
+DON-2019-05-09-a,Democratic Republic of the Congo,2019,Ebola virus,1600,1069
+DON-2019-05-09-b,Tunisia,2019,Measles,3141,30
+DON-2019-05-09-c,Saudi Arabia,2019,MERS-CoV,,836
+DON-2019-05-13,Mayotte (France),2019,Rift Valley fever,,
+DON-2019-05-16-a,Democratic Republic of the Congo,2019,Ebola virus,1739,1147
+DON-2019-05-16-b,Singapore,2019,Monkeypox,,0
+DON-2019-05-17,Saudi Arabia,2019,MERS-CoV,,839
+DON-2019-05-20,Reunion (France),2019,Dengue fever,,14
+DON-2019-05-23,Democratic Republic of the Congo,2019,Ebola virus,1866,1241
+DON-2019-05-24,Iran,2019,Polio,0,0
+DON-2019-05-30,Democratic Republic of the Congo,2019,Ebola virus,1945,1208
+DON-2019-06-06-a,Democratic Republic of the Congo,2019,Ebola virus,2025,1357
+DON-2019-06-06-b,Cameroon,2019,Polio,0,0
+DON-2019-06-13-a,Democratic Republic of the Congo,2019,Ebola virus,2084,1405
+DON-2019-06-13-b,Uganda,2019,Ebola virus,,2
+DON-2019-06-20,Democratic Republic of the Congo,2019,Ebola virus,2190,1470
+DON-2019-06-27,Democratic Republic of the Congo,2019,Ebola virus,2277,1531
+DON-2019-07-03,Pakistan,2019,Human immunodeficiency virus,,
+DON-2019-07-04,Democratic Republic of the Congo,2019,Ebola virus,2369,1598
+DON-2019-07-16,Saudi Arabia,2019,MERS-CoV,,843
+DON-2019-07-18,Democratic Republic of the Congo,2019,Ebola virus,2522,1698
+DON-2019-07-24,Saudi Arabia,2019,MERS-CoV,,845
+DON-2019-07-25,Democratic Republic of the Congo,2019,Ebola virus,2612,1756
+DON-2019-07-31,Nigeria,2019,Polio,,
+DON-2019-07-31,Niger,2019,Polio,,
+DON-2019-07-31,Cameroon,2019,Polio,0,
+DON-2019-07-31,Democratic Republic of the Congo,2019,Polio,31,
+DON-2019-07-31,Angola,2019,Polio,,
+DON-2019-07-31,Central African Republic,2019,Polio,,
+DON-2019-07-31,Ethiopia,2019,Polio,,
+DON-2019-07-31,Somalia,2019,Polio,3,
+DON-2019-08-01,Democratic Republic of the Congo,2019,Ebola virus,2713,1823
+DON-2019-08-08,Democratic Republic of the Congo,2019,Ebola virus,2781,1866
+DON-2019-08-15,Democratic Republic of the Congo,2019,Ebola virus,2842,1905
+DON-2019-08-22-a,Democratic Republic of the Congo,2019,Ebola virus,2927,1961
+DON-2019-08-22-b,Myanmar,2019,Polio,7,
+DON-2019-08-26,Saudi Arabia,2019,MERS-CoV,849,
+DON-2019-08-29,Democratic Republic of the Congo,2019,Ebola virus,2997,1998
+DON-2019-09-06-a,Democratic Republic of the Congo,2019,Ebola virus,3054,2052
+DON-2019-09-06-b,Ghana,2019,Polio,1,
+DON-2019-09-12,Democratic Republic of the Congo,2019,Ebola virus,3091,2074
+DON-2019-09-16,Spain,2019,Listeriosis,,3
+DON-2019-09-19,Democratic Republic of the Congo,2019,Ebola virus,3145,2013
+DON-2019-09-21,United Republic of Tanzania,2019,Ebola virus,,
+DON-2019-09-24,The Philippines,2019,Polio,,
+DON-2019-09-26-a,Democratic Republic of the Congo,2019,Ebola virus,3175,2122
+DON-2019-09-26-b,Saudi Arabia,2019,MERS-CoV,,850
+DON-2019-09-26-c,Nigeria,2019,Yellow fever,,
+DON-2019-10-03,Democratic Republic of the Congo,2019,Ebola virus,3197,2136
+DON-2019-10-08,Nigeria,2019,Yellow fever,2254,44
+DON-2019-10-10,Democratic Republic of the Congo,2019,Ebola virus,3207,2144
+DON-2019-10-15,Republic of the Sudan,2019,Cholera,278,8
+DON-2019-10-17,Democratic Republic of the Congo,2019,Ebola virus,3227,2154
+DON-2019-10-18,Saudi Arabia,2019,MERS-CoV,,851
+DON-2019-10-22,Lebanon,2019,Measles,1171,0
+DON-2019-10-23,The Philippines,2019,Polio,0,0
+DON-2019-10-24,Democratic Republic of the Congo,2019,Ebola virus,3250,2174
+DON-2019-10-31-a,Democratic Republic of the Congo,2019,Ebola virus,3269,2182
+DON-2019-10-31-b,United Arab Emirates,2019,MERS-CoV,,851
+DON-2019-11-01,France,2019,Zika virus disease,3,
+DON-2019-11-07,Democratic Republic of the Congo,2019,Ebola virus,3285,2191
+DON-2019-11-14-a,Democratic Republic of the Congo,2019,Ebola virus,3291,2193
+DON-2019-11-14-b,Republic of the Sudan,2019,Rift Valley fever,,11
+DON-2019-11-19,Pakistan,2019,Dengue fever,,75
+DON-2019-11-21-a,Democratic Republic of the Congo,2019,Ebola virus,3298,2197
+DON-2019-11-21-b,Bolivarian Republic of Venezuela,2019,Yellow fever,,0
+DON-2019-11-22,Republic of the Sudan,2019,Dengue fever,1197,5
+DON-2019-11-27,Global,2019,Measles,,
+DON-2019-11-28-a,Sierra Leone,2019,Lassa fever,182,6
+DON-2019-11-28-b,Democratic Republic of the Congo,2019,Ebola virus,3304,2199
+DON-2019-11-28-c,Pakistan,2019,Polio,86,
+DON-2019-11-29,Chad,2019,Polio,1,
+DON-2019-11-29,Togo,2019,Polio,1,
+DON-2019-11-29,Cote d'Ivoire,2019,Polio,0,0
+DON-2019-11-29,Zambia,2019,Polio,1,
+DON-2019-12-05-a,Democratic Republic of the Congo,2019,Ebola virus,3313,2207
+DON-2019-12-05-b,The Kingdom of Saudi Arabia,2019,MERS-CoV,,857
+DON-2019-12-12,Democratic Republic of the Congo,2019,Ebola virus,3340,2210
+DON-2019-12-13,Afghanistan,2019,Dengue fever,,1
+DON-2019-12-15,Samoa,2019,Measles,4217,62
+DON-2019-12-15,Tonga,2019,Measles,440,0
+DON-2019-12-15,Fiji,2019,Measles,,0
+DON-2019-12-17,Nigeria,2019,Yellow fever,4189,"5.1, 12.2"
+DON-2019-12-18,The Kingdom of Saudi Arabia,2019,MERS-CoV,,858
+DON-2019-12-19,Democratic Republic of the Congo,2019,Ebola virus,3351,2217
+DON-2019-12-26-a,Qatar,2019,MERS-CoV,,1
+DON-2019-12-26-b,Mali,2019,Yellow fever,,5

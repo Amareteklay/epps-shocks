@@ -25,14 +25,6 @@ dist/
 .streamlit/
 .streamlit/secrets.toml
 
-# Data (keep raw data out of git; commit small samples only)
-data/**/*.csv
-data/**/*.xlsx
-data/**/*.parquet
-data/**/*.feather
-data/**/*.json
-# but allow a small sample folder:
-!data/samples/**
 
 # OS
 Thumbs.db
