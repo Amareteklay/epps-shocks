@@ -1,0 +1,6 @@
+streamlit
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib

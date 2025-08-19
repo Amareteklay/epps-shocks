@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+dist/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/*.log
+.vscode/*.db
+.vscode/*.cache
+
+# Environments & local configs
+.env
+.env.*
+
+# Streamlit cache
+.streamlit/
+.streamlit/secrets.toml
+
+# Data (keep raw data out of git; commit small samples only)
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.parquet
+data/**/*.feather
+data/**/*.json
+# but allow a small sample folder:
+!data/samples/**
+
+# OS
+Thumbs.db
+.DS_Store
