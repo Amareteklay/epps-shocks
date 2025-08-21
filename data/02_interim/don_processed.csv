@@ -1,0 +1,1160 @@
+Country,Year,DiseaseLevel1,CasesTotal,Deaths
+Afghanistan,1998,Cholera,0.0,145.0
+Afghanistan,1998,Crimean-Congo haemorrhagic fever,19.0,12.0
+Afghanistan,1999,Cholera,14402.0,0.0
+Afghanistan,1999,Polio,26.0,0.0
+Afghanistan,1999,Syndromic: respiratory,0.0,0.0
+Afghanistan,1999,Unspecified,6300.0,135.0
+Afghanistan,2000,Cholera,1604.0,19.0
+Afghanistan,2000,Syndromic: haemorrhagic,0.0,31.0
+Afghanistan,2001,Cholera,4499.0,114.0
+Afghanistan,2002,Cholera,6691.0,3.0
+Afghanistan,2002,Leishmaniasis,400000.0,0.0
+Afghanistan,2003,Diptheria,50.0,3.0
+Afghanistan,2003,Pertussis,115.0,17.0
+Afghanistan,2005,Cholera,3245.0,0.0
+Afghanistan,2019,Dengue fever,0.0,1.0
+Africa,1996,Cholera,0.0,0.0
+Africa,1998,Cholera,0.0,0.0
+Africa,1999,Cholera,0.0,0.0
+African Meningitis Belt,2006,Meningococcal disease,580.0,0.0
+African Meningitis Belt,2008,Meningococcal disease,0.0,0.0
+African Meningitis Belt,2012,Meningococcal disease,11647.0,960.0
+African Meningitis Belt,2013,Meningococcal disease,0.0,857.0
+Albania,1996,Polio,66.0,7.0
+Algeria,1996,Typhoid,0.0,0.0
+Algeria,2003,Plague,20.0,2.0
+Algeria,2014,MERS-CoV,0.0,1.0
+Algeria,2018,Cholera,217.0,2.0
+Americas,1996,Dengue fever,0.0,0.0
+Americas,1997,Hantavirus,0.0,0.0
+Angola,1998,Meningococcal disease,1687.0,184.0
+Angola,1999,Meningococcal disease,253.0,147.0
+Angola,1999,Polio,661.0,41.0
+Angola,2001,Meningococcal disease,602.0,71.0
+Angola,2005,Marburg fever,5900.0,5235.0
+Angola,2005,Polio,8.0,0.0
+Angola,2006,Cholera,236593.0,9002.0
+Angola,2007,Polio,18.0,0.0
+Angola,2007,Toxicity: bromide poisoning,0.0,0.0
+Angola,2007,Unspecified,760.0,0.0
+Angola,2010,Polio,15.0,0.0
+Angola,2011,Unspecified,0.0,0.0
+Angola,2016,Yellow fever,1132.0,788.0
+Angola,2019,Polio,0.0,0.0
+Argentina,2016,Chikungunya,0.0,0.0
+Argentina,2016,Zika virus disease,0.0,0.0
+Argentine Republic,2019,Hantavirus,29.0,11.0
+Armenia,1998,Cholera,25.0,0.0
+Aruba,2016,Zika virus disease,11.0,0.0
+Asia,1998,Cholera,0.0,0.0
+Asia,1998,Dengue fever,0.0,0.0
+Asia,2004,Influenza A,0.0,0.0
+Australia,2000,Legionellosis,0.0,2.0
+Australia,2018,Listeriosis,20.0,9.0
+Australia,2019,Measles,0.0,0.0
+Austria,2011,E. coli,2.0,0.0
+Austria,2011,Hemolytic uremic syndrome,0.0,0.0
+Austria,2014,MERS-CoV,0.0,301.0
+Austria,2016,MERS-CoV,0.0,0.0
+Azerbaijan,2006,Influenza A,10.0,15.0
+Bahrain,2016,MERS-CoV,0.0,1.0
+Bangladesh,1998,Syndromic: diarrhoeal,0.0,151.0
+Bangladesh,2001,Syndromic: neurological,28.0,9.0
+Bangladesh,2002,Syndromic: neurological,0.0,0.0
+Bangladesh,2004,Nipah virus,94.0,49.0
+Bangladesh,2006,Polio,0.0,0.0
+Bangladesh,2008,Influenza A,0.0,0.0
+Bangladesh,2011,Influenza A,0.0,0.0
+Bangladesh,2012,Influenza A,0.0,0.0
+Bangladesh,2017,Diptheria,0.0,0.0
+Barbados,2016,Zika virus disease,0.0,0.0
+Belgium,1999,Legionellosis,80.0,4.0
+Belgium,2001,Yellow fever,2.0,1.0
+Belgium,2011,Measles,100.0,0.0
+Belize,1998,Cholera,2.0,1.0
+Benin,1996,Syndromic: neurological,1037.0,136.0
+Benin,1996,Yellow fever,134.0,102.0
+Benin,1997,Syndromic: neurological,273.0,47.0
+Benin,2001,Meningococcal disease,20164.0,904.0
+Benin,2003,Cholera,265.0,3.0
+Benin,2005,Cholera,210.0,4.0
+Benin,2008,Polio,0.0,0.0
+Benin,2012,Meningococcal disease,0.0,38.0
+Benin,2016,Lassa fever,125.0,30.0
+Benin,2017,Lassa fever,0.0,0.0
+Bhutan,1998,Cholera,13.0,0.0
+Bolivarian Republic of Venezuela,2019,Yellow fever,0.0,0.0
+Bolivia,1997,Cholera,723.0,6.0
+Bolivia,1997,Yellow fever,47.0,33.0
+Bolivia,1998,Cholera,165.0,5.0
+Bolivia,1999,Yellow fever,0.0,34.0
+Bolivia,2016,Zika virus disease,0.0,0.0
+Bonaire,2016,Zika virus disease,0.0,0.0
+Bosnia and Herzegovina,1996,Hantavirus,367.0,5.0
+Brazil,1996,Meningococcal disease,1106.0,0.0
+Brazil,1996,Yellow fever,2.0,2.0
+Brazil,1998,Cholera,376.0,0.0
+Brazil,1998,Yellow fever,0.0,22.0
+Brazil,1999,Cholera,235.0,3.0
+Brazil,1999,Yellow fever,4.0,3.0
+Brazil,2000,Yellow fever,6.0,3.0
+Brazil,2001,Yellow fever,9.0,21.0
+Brazil,2002,Dengue fever,422256.0,97.0
+Brazil,2003,Yellow fever,24.0,5.0
+Brazil,2008,Dengue fever,120570.0,48.0
+Brazil,2008,Yellow fever,48.0,13.0
+Brazil,2011,Measles,18.0,0.0
+Brazil,2014,Polio,0.0,0.0
+Brazil,2014,West Nile virus,0.0,0.0
+Brazil,2015,Measles,0.0,0.0
+Brazil,2015,Zika virus disease,1138.0,20.0
+Brazil,2016,Guillain-Barre syndrome,1708.0,0.0
+Brazil,2016,Zika virus disease,0.0,38.0
+Brazil,2017,Yellow fever,1743.0,333.0
+Brazil,2018,Measles,995.0,2.0
+Brazil,2018,Yellow fever,0.0,411.0
+Brazil,2019,Yellow fever,75.0,25.0
+Brunei Darussalam,1999,Cholera,0.0,0.0
+Bulgaria,2011,Measles,131.0,0.0
+Burkina Faso,1996,Syndromic: neurological,30788.0,2702.0
+Burkina Faso,1997,Syndromic: neurological,37665.0,4535.0
+Burkina Faso,1998,Yellow fever,2.0,1.0
+Burkina Faso,2001,Cholera,369.0,9.0
+Burkina Faso,2001,Meningococcal disease,27828.0,4234.0
+Burkina Faso,2002,Meningococcal disease,30140.0,3724.0
+Burkina Faso,2003,Meningococcal disease,15293.0,2334.0
+Burkina Faso,2003,Polio,1.0,0.0
+Burkina Faso,2003,Yellow fever,1.0,0.0
+Burkina Faso,2004,Meningococcal disease,2783.0,527.0
+Burkina Faso,2004,Yellow fever,25.0,1.0
+Burkina Faso,2005,Cholera,910.0,17.0
+Burkina Faso,2005,Yellow fever,0.0,0.0
+Burkina Faso,2007,Meningococcal disease,0.0,2169.0
+Burkina Faso,2008,Yellow fever,0.0,1.0
+Burkina Faso,2012,Meningococcal disease,0.0,212.0
+Burkina Faso,2016,Dengue fever,0.0,15.0
+Burkina Faso,2017,Dengue fever,9029.0,18.0
+Burkina Faso,2017,Lassa fever,0.0,0.0
+Burundi,1996,Cholera,0.0,0.0
+Burundi,1997,Cholera,635.0,31.0
+Burundi,1997,Typhus,24000.0,0.0
+Burundi,1998,Malaria,77.0,3.0
+Burundi,1999,Cholera,587.0,0.0
+Burundi,1999,Malaria,616034.0,0.0
+Burundi,2002,Cholera,1588.0,23.0
+Burundi,2002,Meningococcal disease,1631.0,136.0
+Burundi,2004,Cholera,236.0,6.0
+Cambodia,1998,Cholera,69.0,15.0
+Cambodia,1998,Dengue fever,227.0,3.0
+Cambodia,1999,Cholera,874.0,56.0
+Cambodia,2004,Influenza A,0.0,0.0
+Cambodia,2005,Influenza A,11.0,5.0
+Cambodia,2006,Influenza A,0.0,11.0
+Cambodia,2007,Influenza A,0.0,7.0
+Cambodia,2008,Influenza A,0.0,7.0
+Cambodia,2009,Influenza A,0.0,7.0
+Cambodia,2010,Influenza A,0.0,8.0
+Cambodia,2011,Influenza A,0.0,90.0
+Cambodia,2012,"Hand, foot, and mouth disease",273.0,223.0
+Cambodia,2012,Influenza A,79.0,70.0
+Cambodia,2013,Influenza A,5.0,4.0
+Cameroon,1996,Syndromic: neurological,15.0,3.0
+Cameroon,1998,Cholera,1106.0,113.0
+Cameroon,1998,Dysentery,237.0,60.0
+Cameroon,2001,Cholera,158.0,3.0
+Cameroon,2001,Meningococcal disease,685.0,45.0
+Cameroon,2004,Cholera,3438.0,59.0
+Cameroon,2009,Yellow fever,0.0,0.0
+Cameroon,2010,Cholera,7869.0,515.0
+Cameroon,2010,Yellow fever,0.0,3.0
+Cameroon,2012,Yellow fever,23.0,7.0
+Cameroon,2013,Polio,0.0,0.0
+Cameroon,2013,Yellow fever,0.0,0.0
+Cameroon,2014,Polio,7.0,0.0
+Cameroon,2018,Cholera,3.0,0.0
+Cameroon,2018,Monkeypox,16.0,0.0
+Cameroon,2019,Polio,0.0,0.0
+Canada,2000,E. coli,32.0,5.0
+Canada,2000,Leptospirosis,6.0,0.0
+Canada,2002,West Nile virus,311.0,10.0
+Canada,2003,Human coronavirus OC43,143.0,0.0
+Canada,2003,SARS-CoV,0.0,0.0
+Canada,2004,Influenza A,2.0,0.0
+Canada,2006,Botulism,2.0,0.0
+Canada,2009,Influenza A,6.0,0.0
+Canada,2011,Measles,742.0,0.0
+Canada,2014,Influenza A,1.0,1.0
+Canada,2015,Influenza A,0.0,0.0
+Canada,2015,Measles,0.0,0.0
+Canada,2017,Hantavirus,3.0,0.0
+Cape Verde,1996,Cholera,12344.0,245.0
+Cape Verde,2009,Dengue fever,0.0,0.0
+Cape Verde,2015,Zika virus disease,0.0,0.0
+Central African Republic,1996,Syndromic: neurological,462.0,166.0
+Central African Republic,1997,Cholera,44.0,8.0
+Central African Republic,2000,Meningococcal disease,86.0,14.0
+Central African Republic,2001,Meningococcal disease,3638.0,686.0
+Central African Republic,2003,Dysentery,379.0,23.0
+Central African Republic,2004,Meningococcal disease,43.0,7.0
+Central African Republic,2008,Yellow fever,0.0,0.0
+Central African Republic,2009,Yellow fever,0.0,3.0
+Central African Republic,2016,Monkeypox,26.0,0.0
+Central African Republic,2019,Polio,0.0,0.0
+Central America,1998,Rift Valley fever,0.0,0.0
+Chad,1996,Cholera,1918.0,145.0
+Chad,1996,Syndromic: neurological,1237.0,110.0
+Chad,1997,Syndromic: neurological,38.0,6.0
+Chad,1998,Syndromic: neurological,2835.0,239.0
+Chad,2001,Cholera,9693.0,337.0
+Chad,2001,Meningococcal disease,16795.0,1851.0
+Chad,2003,Polio,0.0,0.0
+Chad,2004,Cholera,6087.0,273.0
+Chad,2004,Hepatitis E,2708.0,174.0
+Chad,2004,Meningococcal disease,19.0,4.0
+Chad,2005,Meningococcal disease,412.0,53.0
+Chad,2007,Polio,0.0,0.0
+Chad,2008,Polio,0.0,0.0
+Chad,2009,Meningococcal disease,0.0,105.0
+Chad,2010,Cholera,2508.0,111.0
+Chad,2010,Meningococcal disease,0.0,151.0
+Chad,2011,Meningococcal disease,0.0,57.0
+Chad,2011,Polio,0.0,0.0
+Chad,2012,Meningococcal disease,0.0,67.0
+Chad,2013,Yellow fever,0.0,9.0
+Chad,2017,Hepatitis E,693.0,11.0
+Chad,2019,Polio,1.0,0.0
+Chile,1998,Cholera,33.0,0.0
+Chile,2011,Measles,6.0,0.0
+Chile,2015,Measles,0.0,0.0
+Chile,2016,Zika virus disease,0.0,0.0
+Chile,2017,Hepatitis A,706.0,0.0
+Chile,2019,Hantavirus,9.0,2.0
+China,1998,Influenza A,0.0,0.0
+China,1999,Influenza A,0.0,0.0
+China,2000,Polio,0.0,0.0
+China,2003,SARS-CoV,2673.0,256.0
+China,2004,Influenza A,0.0,0.0
+China,2004,SARS-CoV,47.0,4.0
+China,2005,Influenza A,0.0,12.0
+China,2005,Streptococcus suis,206.0,38.0
+China,2006,Influenza A,0.0,145.0
+China,2007,Influenza A,0.0,108.0
+China,2008,Enterovirus,6380.0,42.0
+China,2008,Influenza A,0.0,57.0
+China,2008,Toxicity: miscellaneous,100240.0,9.0
+China,2009,Influenza A,0.0,116.0
+China,2009,Plague,0.0,3.0
+China,2010,Influenza A,0.0,26.0
+China,2011,Polio,0.0,0.0
+China,2012,Influenza A,0.0,28.0
+China,2013,Influenza A,209.0,718.0
+China,2014,Influenza A,2.0,31.0
+China,2015,Influenza A,0.0,33.0
+China,2015,MERS-CoV,0.0,0.0
+China,2016,Influenza A,3.0,34.0
+China,2016,Yellow fever,0.0,0.0
+China,2017,Influenza A,2.0,136.0
+China,2018,Influenza A,1.0,615.0
+China,2019,Measles,0.0,0.0
+Colombia,1999,Yellow fever,0.0,2.0
+Colombia,2011,Measles,7.0,0.0
+Colombia,2015,Zika virus disease,0.0,0.0
+Colombia,2016,Guillain-Barre syndrome,0.0,0.0
+Comoros,1998,Cholera,3199.0,40.0
+Comoros,1999,Cholera,103.0,14.0
+Comoros Islands,1998,Cholera,1420.0,36.0
+Congo,2019,Chikungunya,0.0,0.0
+Cook Islands,1997,Dengue fever,123.0,0.0
+Costa Rica,2016,Zika virus disease,0.0,0.0
+Cote d'Ivoir,2002,Cholera,581.0,19.0
+Cote d'Ivoire,1996,Cholera,2027.0,150.0
+Cote d'Ivoire,2001,Cholera,4049.0,222.0
+Cote d'Ivoire,2001,Yellow fever,849.0,102.0
+Cote d'Ivoire,2003,Cholera,70.0,15.0
+Cote d'Ivoire,2005,Yellow fever,0.0,1.0
+Cote d'Ivoire,2006,Yellow fever,0.0,0.0
+Cote d'Ivoire,2008,Yellow fever,0.0,0.0
+Cote d'Ivoire,2010,Yellow fever,6.0,0.0
+Cote d'Ivoire,2011,Polio,0.0,0.0
+Cote d'Ivoire,2011,Yellow fever,79.0,60.0
+Cote d'Ivoire,2012,Meningococcal disease,0.0,39.0
+Cote d'Ivoire,2017,Dengue fever,0.0,2.0
+Cote d'Ivoire,2019,Polio,0.0,0.0
+Cuba,1997,Dengue fever,826.0,3.0
+Cuba,2016,Zika virus disease,0.0,0.0
+Curacao,2016,Zika virus disease,0.0,0.0
+Cyprus,1996,Syndromic: neurological,503.0,0.0
+Democratic People's Republic of Korea,2005,Influenza A,0.0,0.0
+Democratic Republic of the Congo,1997,Monkeypox,681.0,0.0
+Democratic Republic of the Congo,1998,Cholera,10405.0,800.0
+Democratic Republic of the Congo,1998,Malaria,13440.0,778.0
+Democratic Republic of the Congo,1998,Syndromic: neurological,203.0,79.0
+Democratic Republic of the Congo,1999,Cholera,74.0,4.0
+Democratic Republic of the Congo,1999,Marburg fever,266.0,164.0
+Democratic Republic of the Congo,2000,Marburg fever,46.0,15.0
+Democratic Republic of the Congo,2001,Meningococcal disease,661.0,59.0
+Democratic Republic of the Congo,2001,Syndromic: haemorrhagic,0.0,0.0
+Democratic Republic of the Congo,2002,Cholera,14652.0,1017.0
+Democratic Republic of the Congo,2002,Influenza A,5245.0,518.0
+Democratic Republic of the Congo,2002,Meningococcal disease,893.0,104.0
+Democratic Republic of the Congo,2003,Cholera,13452.0,380.0
+Democratic Republic of the Congo,2003,Influenza A,31174.0,296.0
+Democratic Republic of the Congo,2004,Typhoid,13400.0,134.0
+Democratic Republic of the Congo,2005,Plague,171.0,189.0
+Democratic Republic of the Congo,2005,Typhoid,42564.0,214.0
+Democratic Republic of the Congo,2006,Plague,0.0,111.0
+Democratic Republic of the Congo,2007,Ebola virus,448.0,166.0
+Democratic Republic of the Congo,2007,Meningococcal disease,0.0,6.0
+Democratic Republic of the Congo,2007,Polio,53.0,0.0
+Democratic Republic of the Congo,2007,Unspecified,0.0,0.0
+Democratic Republic of the Congo,2008,Ebola virus,0.0,9.0
+Democratic Republic of the Congo,2009,Ebola virus,32.0,27.0
+Democratic Republic of the Congo,2010,Polio,0.0,0.0
+Democratic Republic of the Congo,2010,Yellow fever,2.0,0.0
+Democratic Republic of the Congo,2011,Cholera,3896.0,265.0
+Democratic Republic of the Congo,2011,Measles,103000.0,1100.0
+Democratic Republic of the Congo,2012,Cholera,368.0,0.0
+Democratic Republic of the Congo,2012,Ebola virus,306.0,147.0
+Democratic Republic of the Congo,2013,Yellow fever,0.0,19.0
+Democratic Republic of the Congo,2014,Ebola virus,86.0,48.0
+Democratic Republic of the Congo,2014,Yellow fever,139.0,6.0
+Democratic Republic of the Congo,2015,Cholera,19705.0,0.0
+Democratic Republic of the Congo,2016,Yellow fever,0.0,129.0
+Democratic Republic of the Congo,2017,Ebola virus,9.0,3.0
+Democratic Republic of the Congo,2017,Polio,0.0,0.0
+Democratic Republic of the Congo,2018,Cholera,1065.0,43.0
+Democratic Republic of the Congo,2018,Ebola virus,1201.0,3503.0
+Democratic Republic of the Congo,2018,Polio,0.0,0.0
+Democratic Republic of the Congo,2019,Ebola virus,106271.0,70152.0
+Democratic Republic of the Congo,2019,Polio,31.0,0.0
+Denmark,2001,Meningococcal disease,4.0,0.0
+Denmark,2011,E. coli,7.0,0.0
+Denmark,2011,Hemolytic uremic syndrome,7.0,0.0
+Djibouti,1997,Cholera,1182.0,29.0
+Djibouti,2006,Influenza A,0.0,0.0
+Dominica,2016,Zika virus disease,0.0,0.0
+Dominican Republic,2016,Zika virus disease,0.0,0.0
+Ecuador,1996,Cholera,416.0,4.0
+Ecuador,1998,Cholera,11.0,1.0
+Ecuador,2002,Dengue fever,5991.0,0.0
+Ecuador,2011,Measles,41.0,0.0
+Ecuador,2016,Zika virus disease,6.0,0.0
+Egypt,2006,Influenza A,0.0,44.0
+Egypt,2007,Influenza A,0.0,284.0
+Egypt,2008,Influenza A,0.0,204.0
+Egypt,2009,Influenza A,0.0,645.0
+Egypt,2010,Influenza A,0.0,421.0
+Egypt,2011,Influenza A,90.0,836.0
+Egypt,2012,Influenza A,0.0,514.0
+Egypt,2013,Polio,0.0,0.0
+Egypt,2014,MERS-CoV,1.0,0.0
+Egypt,2015,Dengue fever,253.0,0.0
+El Salvador,1998,Cholera,14.0,3.0
+El Salvador,2002,Dengue fever,6311.0,12.0
+El Salvador,2015,Zika virus disease,0.0,0.0
+El Salvador,2016,Guillain-Barre syndrome,46.0,2.0
+Equitorial Guinea,2014,Polio,5.0,0.0
+Ethiopia,1999,Meningococcal disease,126.0,4.0
+Ethiopia,2000,Anthrax,0.0,0.0
+Ethiopia,2000,Meningococcal disease,1133.0,42.0
+Ethiopia,2001,Meningococcal disease,25113.0,1595.0
+Ethiopia,2002,Meningococcal disease,3661.0,203.0
+Ethiopia,2005,Polio,15.0,0.0
+Ethiopia,2006,Polio,37.0,0.0
+Ethiopia,2006,Syndromic: diarrhoeal,22101.0,219.0
+Ethiopia,2011,Measles,2902.0,0.0
+Ethiopia,2013,Polio,3.0,0.0
+Ethiopia,2013,Yellow fever,0.0,0.0
+Ethiopia,2019,Polio,0.0,0.0
+Europe,2011,Measles,6500.0,11.0
+Europe,2011,West Nile virus,0.0,0.0
+European Region,2015,Measles,23000.0,0.0
+European Region,2017,Hepatitis A,1173.0,0.0
+European Region,2019,Measles,83540.0,74.0
+European Union,2012,Toxicity: miscellaneous,0.0,0.0
+Federated States of Micronesia,2000,Cholera,3643.0,24.0
+Fiji,1999,Cholera,2.0,0.0
+Fiji,2019,Measles,0.0,0.0
+Former Yugoslav Republic of Macedonia,2011,Measles,636.0,0.0
+France,1998,Legionellosis,19.0,3.0
+France,1999,Transmissible spongiform encephalopathy,0.0,0.0
+France,2000,Leptospirosis,4.0,0.0
+France,2000,Listeriosis,26.0,7.0
+France,2000,Meningococcal disease,20.0,7.0
+France,2001,Meningococcal disease,12.0,0.0
+France,2003,Legionellosis,59.0,5.0
+France,2004,Rabies,1.0,0.0
+France,2011,E. coli,6.0,0.0
+France,2011,Hemolytic uremic syndrome,0.0,0.0
+France,2011,Measles,4937.0,0.0
+France,2013,MERS-CoV,65.0,36.0
+France,2014,Chikungunya,0.0,0.0
+France,2016,Zika virus disease,0.0,0.0
+France,2017,Chikungunya,13.0,0.0
+France,2017,Salmonella enterica,0.0,0.0
+France,2019,Zika virus disease,3.0,0.0
+French Guiana,2016,Zika virus disease,0.0,0.0
+French Guiana,2017,Yellow fever,1.0,1.0
+French Guiana,2018,Yellow fever,1.0,0.0
+French Polynesia,2016,Guillain-Barre syndrome,42.0,0.0
+Gabon,1996,Ebola virus,333.0,183.0
+Gabon,1997,Ebola virus,404.0,303.0
+Gabon,2001,Ebola virus,91.0,149.0
+Gabon,2002,Ebola virus,0.0,377.0
+Gabon,2002,Syndromic: haemorrhagic,0.0,4.0
+Gambia,1997,Syndromic: neurological,1007.0,136.0
+Gambia,2001,Meningococcal disease,137.0,21.0
+Gambia,2018,Rift Valley fever,0.0,0.0
+Gaza,1997,Syndromic: neurological,180.0,0.0
+Germany,1999,Yellow fever,0.0,0.0
+Germany,2000,Lassa fever,2.0,1.0
+Germany,2006,Influenza A,0.0,0.0
+Germany,2006,Lassa fever,0.0,0.0
+Germany,2011,E. coli,1064.0,6.0
+Germany,2011,Hemolytic uremic syndrome,746.0,12.0
+Germany,2013,MERS-CoV,17.0,11.0
+Germany,2015,MERS-CoV,0.0,383.0
+Germany,2016,Lassa fever,0.0,1.0
+Germany,2016,Zika virus disease,0.0,0.0
+Ghana,1996,Malaria,0.0,0.0
+Ghana,1996,Syndromic: neurological,36.0,0.0
+Ghana,1996,Yellow fever,27.0,5.0
+Ghana,1997,Anthrax,185.0,26.0
+Ghana,1997,Lassa fever,0.0,0.0
+Ghana,1997,Syndromic: neurological,27331.0,2802.0
+Ghana,1999,Cholera,269.0,9.0
+Ghana,2003,Polio,1.0,0.0
+Ghana,2012,Meningococcal disease,0.0,37.0
+Ghana,2012,Yellow fever,0.0,2.0
+Ghana,2019,Polio,1.0,0.0
+Global,1996,Cholera,0.0,0.0
+Global,1998,Dengue fever,289477.0,842.0
+Global,1998,Influenza A,0.0,0.0
+Global,2003,SARS-CoV,76185.0,20099.0
+Global,2004,Influenza A,0.0,0.0
+Global,2006,Influenza A,0.0,0.0
+Global,2009,Influenza A,0.0,127830.0
+Global,2010,Influenza A,0.0,480757.0
+Global,2019,Measles,0.0,0.0
+Greece,2002,Enterovirus,90.0,6.0
+Greece,2014,MERS-CoV,0.0,93.0
+Guadeloupe,1997,Measles,0.0,0.0
+Guatemala,1998,Cholera,261.0,51.0
+Guatemala,1998,Dengue fever,283.0,0.0
+Guatemala,1998,Leptospirosis,19.0,0.0
+Guatemala,1998,Malaria,70.0,0.0
+Guatemala,2015,Zika virus disease,0.0,0.0
+Guinea,1999,Dysentery,7.0,0.0
+Guinea,2000,Yellow fever,0.0,190.0
+Guinea,2001,Cholera,155.0,12.0
+Guinea,2001,Yellow fever,29.0,2.0
+Guinea,2003,Yellow fever,43.0,24.0
+Guinea,2005,Cholera,2527.0,104.0
+Guinea,2005,Yellow fever,130.0,30.0
+Guinea,2008,Yellow fever,0.0,1.0
+Guinea,2009,Yellow fever,0.0,3.0
+Guinea,2010,Yellow fever,0.0,0.0
+Guinea,2013,Meningococcal disease,0.0,38.0
+Guinea,2014,Ebola virus,17230.0,12018.0
+Guinea-Bissau,1996,Cholera,143.0,7.0
+Guinea-Bissau,1999,Meningococcal disease,2327.0,329.0
+Guinea-Bissau,2005,Cholera,23350.0,424.0
+Guinea-Bissau,2008,Cholera,7166.0,133.0
+Guyana,2016,Zika virus disease,0.0,0.0
+Haiti,2003,Typhoid,200.0,40.0
+Haiti,2010,Cholera,89122.0,3484.0
+Haiti,2016,Zika virus disease,0.0,0.0
+Honduras,1998,Cholera,249.0,12.0
+Honduras,1998,Dengue fever,3358.0,8.0
+Honduras,1998,Leptospirosis,26.0,7.0
+Honduras,1998,Malaria,3475.0,7.0
+Honduras,1998,Plague,0.0,5000.0
+Honduras,1998,Rift Valley fever,0.0,7000.0
+Honduras,1999,Cholera,32.0,0.0
+Honduras,2002,Dengue fever,2405.0,8.0
+Honduras,2015,Zika virus disease,0.0,0.0
+Hong Kong,1998,Influenza A,0.0,321.0
+Hong Kong,1999,Influenza A,5.0,0.0
+Hong Kong,2001,Influenza A,0.0,0.0
+Hong Kong,2002,Influenza A,0.0,0.0
+Hong Kong,2003,Influenza A,12.0,6.0
+Hong Kong,2003,SARS-CoV,23.0,1.0
+Hong Kong SAR (China),2019,Measles,66.0,0.0
+Hungary,2000,Meningococcal disease,30.0,4.0
+India,1996,Buffalopox,0.0,0.0
+India,1996,Dengue fever,47502.0,1903.0
+India,1996,Syndromic: gastrointestinal,105.0,0.0
+India,1997,Leptospirosis,413.0,48.0
+India,1999,Japanese encephalitis,965.0,200.0
+India,2001,Cholera,34111.0,33.0
+India,2002,Plague,16.0,4.0
+India,2003,Dengue fever,0.0,4.0
+India,2005,Japanese encephalitis,1145.0,296.0
+India,2005,Meningococcal disease,1401.0,142.0
+India,2006,Chikungunya,12575.0,0.0
+India,2006,Influenza A,0.0,0.0
+India,2017,Zika virus disease,0.0,0.0
+India,2018,Nipah virus,19.0,30.0
+Indonesia,1996,Dengue fever,5000.0,117.0
+Indonesia,2000,Meningococcal disease,14.0,6.0
+Indonesia,2004,Dengue fever,165277.0,2415.0
+Indonesia,2004,Influenza A,0.0,0.0
+Indonesia,2005,Influenza A,17.0,64.0
+Indonesia,2005,Polio,1434.0,0.0
+Indonesia,2006,Influenza A,8.0,1231.0
+Indonesia,2007,Influenza A,0.0,2260.0
+Indonesia,2008,Influenza A,0.0,1741.0
+Indonesia,2009,Influenza A,0.0,115.0
+Indonesia,2010,Influenza A,0.0,967.0
+Indonesia,2011,Influenza A,146.0,1167.0
+Indonesia,2012,Influenza A,945.0,1395.0
+Indonesia,2019,Polio,2.0,0.0
+Iran,1996,Cholera,0.0,0.0
+Iran,2000,Meningococcal disease,2.0,0.0
+Iran,2014,MERS-CoV,0.0,781.0
+Iran,2015,MERS-CoV,0.0,422.0
+Iran,2019,Polio,0.0,0.0
+Iraq,1996,Cholera,519.0,3.0
+Iraq,1998,Cholera,20.0,1.0
+Iraq,1999,Polio,0.0,0.0
+Iraq,2003,Cholera,17.0,0.0
+Iraq,2006,Influenza A,20.0,11.0
+Iraq,2007,Cholera,6916.0,24.0
+Iraq,2008,Cholera,0.0,15.0
+Iraq,2015,Cholera,0.0,2.0
+Ireland,2000,Measles,1376.0,2.0
+Islamic Republic of Pakistan,2018,Typhoid,8188.0,0.0
+Israel,2000,West Nile virus,151.0,12.0
+Israel,2009,Influenza A,0.0,0.0
+Israel,2013,Polio,0.0,0.0
+Italy,2013,MERS-CoV,0.0,60.0
+Italy,2015,Ebola virus,1.0,0.0
+Italy,2017,Chikungunya,183.0,0.0
+Jamaica,2007,Malaria,0.0,0.0
+Jamaica,2016,Zika virus disease,0.0,0.0
+Jamaica,2019,Dengue fever,1325.0,0.0
+Japan,1996,E. coli,15930.0,11.0
+Japan,2000,Staphylococcus,13809.0,0.0
+Japan,2003,SARS-CoV,0.0,0.0
+Japan,2004,Influenza A,0.0,0.0
+Japan,2018,Measles,161.0,0.0
+Japan,2019,Measles,378.0,0.0
+Jordan,2012,MERS-CoV,0.0,2.0
+Jordan,2014,MERS-CoV,0.0,740.0
+Jordan,2015,MERS-CoV,0.0,3128.0
+Kazakhstan,2005,Influenza A,0.0,0.0
+Kazakhstan,2010,Polio,1.0,0.0
+Kenya,1997,Cholera,3055.0,169.0
+Kenya,1998,Rift Valley fever,0.0,0.0
+Kenya,1999,Cholera,1025.0,25.0
+Kenya,1999,Malaria,0.0,0.0
+Kenya,2004,Leptospirosis,0.0,8.0
+Kenya,2006,Meningococcal disease,74.0,15.0
+Kenya,2006,Polio,0.0,0.0
+Kenya,2006,Rift Valley fever,44.0,30.0
+Kenya,2007,Rift Valley fever,684.0,358.0
+Kenya,2009,Polio,0.0,0.0
+Kenya,2013,Polio,14.0,0.0
+Kenya,2016,Chikungunya,1792.0,0.0
+Kenya,2016,Yellow fever,2.0,0.0
+Kenya,2017,Cholera,3981.0,1.2
+Kenya,2017,Marburg fever,0.0,1.0
+Kenya,2018,Chikungunya,453.0,0.0
+Kenya,2018,Rift Valley fever,26.0,6.0
+Kingdom of the Netherlands,2018,Yellow fever,1.0,0.0
+Kosovo,1999,Hantavirus,0.0,0.0
+Kosovo,2000,Tularemia,0.0,0.0
+Kosovo,2001,Crimean-Congo haemorrhagic fever,176.0,10.0
+Kosovo,2002,Tularemia,1493.0,0.0
+Kuwait,2013,MERS-CoV,0.0,66.0
+Kuwait,2014,MERS-CoV,0.0,0.0
+Kuwait,2015,MERS-CoV,0.0,555.0
+Kyrgyzstan,1998,Typhoid,458.0,0.0
+La R-union Island,2006,Chikungunya,3115.0,0.0
+La R-union Island,2006,Dengue fever,0.0,0.0
+La Reunion,2006,Chikungunya,4128.0,0.0
+Lao People's Democratic Republic,2007,Influenza A,0.0,3.0
+Lao People's Democratic Republic,2015,Polio,0.0,1.0
+Lao People's Democratic Republic,2016,Polio,0.0,0.0
+Laos,1996,Diptheria,72.0,4.0
+Laos,2004,Influenza A,0.0,0.0
+Lebanon,2014,MERS-CoV,0.0,0.0
+Lebanon,2017,MERS-CoV,0.0,0.0
+Lebanon,2019,Measles,1171.0,0.0
+Lesotho,2000,Dysentery,1862.0,28.0
+Libera,2008,Yellow fever,0.0,2.0
+Libera,2014,Ebola virus,51.0,34.0
+Liberia,1996,Cholera,0.0,0.0
+Liberia,1996,Ebola virus,0.0,0.0
+Liberia,1996,Yellow fever,0.0,0.0
+Liberia,1997,Yellow fever,2.0,0.0
+Liberia,1998,Cholera,560.0,12.0
+Liberia,2000,Yellow fever,29.0,3.0
+Liberia,2001,Yellow fever,3.0,3.0
+Liberia,2002,Cholera,661.0,0.0
+Liberia,2003,Cholera,31963.0,32.0
+Liberia,2003,Dysentery,1857.0,0.0
+Liberia,2004,Yellow fever,72.0,16.0
+Liberia,2005,Cholera,703.0,29.0
+Liberia,2009,Yellow fever,0.0,0.0
+Liberia,2014,Ebola virus,11683.0,5954.0
+Liberia,2016,Lassa fever,38.0,15.0
+Liberia,2017,Meningococcal disease,31.0,13.0
+Liberia,2017,Unspecified,28.0,12.0
+Liberia,2018,Lassa fever,0.0,15.0
+Macao SAR (China),2019,Measles,32.0,0.0
+Madagascar,1999,Cholera,4285.0,218.0
+Madagascar,2000,Cholera,34601.0,2029.0
+Madagascar,2002,Influenza A,42354.0,1645.0
+Madagascar,2002,Syndromic: respiratory,1930.0,153.0
+Madagascar,2006,Dengue fever,602.0,0.0
+Madagascar,2008,Rift Valley fever,0.0,17.0
+Madagascar,2014,Plague,119.0,40.0
+Madagascar,2014,Polio,0.0,0.0
+Madagascar,2015,Plague,14.0,10.0
+Madagascar,2015,Polio,0.0,0.0
+Madagascar,2017,Plague,6565.0,569.0
+Madagascar,2019,Measles,19539.0,39.0
+Malawi,1997,Plague,43.0,0.0
+Malawi,1999,Plague,0.0,0.0
+Malawi,2002,Cholera,23551.0,674.0
+Malawi,2002,Plague,71.0,0.0
+Malaysia,1996,Cholera,0.0,0.0
+Malaysia,1996,Dengue fever,7263.0,13.0
+Malaysia,1997,Dengue fever,11328.0,28.0
+Malaysia,1997,Syndromic: cardiovascular,0.0,123.0
+Malaysia,1998,Dengue fever,19544.0,50.0
+Malaysia,1999,Nipah virus,133.0,0.0
+Malaysia,1999,Syndromic: neurological,157.0,58.0
+Malaysia,2014,Influenza A,1.0,0.0
+Malaysia,2014,MERS-CoV,0.0,93.0
+Malaysia,2018,MERS-CoV,0.0,740.0
+Malaysia,2019,Measles,1934.0,0.0
+Maldives,2006,Dengue fever,0.0,0.0
+Maldives,2016,Zika virus disease,0.0,0.0
+Mali,1996,Meningococcal disease,2347.0,319.0
+Mali,1996,Syndromic: neurological,2978.0,543.0
+Mali,1997,Syndromic: neurological,7848.0,773.0
+Mali,2003,Cholera,3058.0,239.0
+Mali,2004,Cholera,280.0,33.0
+Mali,2005,Cholera,316.0,40.0
+Mali,2005,Yellow fever,21.0,54.0
+Mali,2014,Ebola virus,1.0,1.0
+Mali,2019,Yellow fever,0.0,5.0
+Martinique,2016,Zika virus disease,0.0,0.0
+Mauritania,1998,Rift Valley fever,0.0,8.0
+Mauritania,2003,Crimean-Congo haemorrhagic fever,65.0,12.0
+Mauritania,2005,Cholera,3357.0,55.0
+Mauritania,2012,Rift Valley fever,34.0,17.0
+Mauritius,2006,Chikungunya,2553.0,0.0
+Mayotte,2006,Chikungunya,924.0,0.0
+Mayotte (France),2019,Rift Valley fever,0.0,0.0
+Mexico,1996,Venezuelan equine encephalitis,0.0,0.0
+Mexico,2009,Influenza A,882.0,76.0
+Mexico,2011,Measles,3.0,0.0
+Mexico,2013,Cholera,0.0,3.0
+Mexico,2015,Measles,2.0,0.0
+Mexico,2015,Zika virus disease,3.0,0.0
+Mexico,2019,Pseudomonas aeruginosa,0.0,0.0
+Mongolia,1996,Cholera,158.0,14.0
+Mongolia,2005,Influenza A,0.0,0.0
+Morocco,2000,Meningococcal disease,3.0,0.0
+Mozambique,1996,Syndromic: neurological,175.0,13.0
+Mozambique,1997,Cholera,7690.0,263.0
+Mozambique,1997,Plague,450.0,0.0
+Mozambique,1998,Cholera,43462.0,1205.0
+Mozambique,1998,Syndromic: gastrointestinal,600.0,100.0
+Mozambique,2002,Cholera,2028.0,17.0
+Mozambique,2003,Cholera,19084.0,154.0
+Mozambique,2004,Cholera,28327.0,165.0
+Mozambique,2018,Cholera,1799.0,1.0
+Mozambique,2019,Polio,2.0,0.0
+Myanmar,2007,Influenza A,0.0,0.0
+Myanmar,2015,Polio,0.0,0.0
+Myanmar,2019,Polio,7.0,0.0
+Namibia,1999,Plague,39.0,8.0
+Namibia,2006,Polio,34.0,0.0
+Namibia,2018,Hepatitis E,237.0,1.0
+Nepal,1996,Japanese encephalitis,697.0,118.0
+Nepal,1997,Syndromic: neurological,1611.0,84.0
+Netherlands,1999,Legionellosis,200.0,13.0
+Netherlands,2000,Lassa fever,0.0,1.0
+Netherlands,2000,Meningococcal disease,0.0,1.0
+Netherlands,2000,Yellow fever,1.0,0.0
+Netherlands,2003,Influenza A,0.0,1.0
+Netherlands,2008,Marburg fever,0.0,0.0
+Netherlands,2011,E. coli,4.0,0.0
+Netherlands,2011,Hemolytic uremic syndrome,4.0,0.0
+Netherlands,2014,MERS-CoV,0.0,181.0
+Netherlands,2018,Influenza A,0.0,0.0
+New Zealand,2009,Influenza A,0.0,0.0
+New Zealand,2019,Measles,72.0,0.0
+Nicaragua,1998,Cholera,670.0,0.0
+Nicaragua,1998,Dengue fever,1244.0,0.0
+Nicaragua,1998,Leptospirosis,1051.0,14.0
+Nicaragua,1998,Malaria,2723.0,0.0
+Nicaragua,1998,Plague,0.0,1368.0
+Nicaragua,1998,Rift Valley fever,0.0,2362.0
+Nicaragua,1999,Cholera,359.0,7.0
+Nicaragua,2016,Zika virus disease,0.0,0.0
+Niger,1996,Syndromic: neurological,16855.0,1763.0
+Niger,1997,Syndromic: neurological,1813.0,208.0
+Niger,1999,Cholera,169.0,10.0
+Niger,2001,Cholera,13.0,3.0
+Niger,2001,Meningococcal disease,5809.0,458.0
+Niger,2002,Cholera,104.0,8.0
+Niger,2002,Meningococcal disease,3518.0,308.0
+Niger,2003,Meningococcal disease,2056.0,195.0
+Niger,2004,Cholera,137.0,5.0
+Niger,2005,Cholera,605.0,64.0
+Niger,2006,Influenza A,0.0,0.0
+Niger,2006,Meningococcal disease,614.0,44.0
+Niger,2008,Polio,0.0,0.0
+Niger,2009,Meningococcal disease,0.0,169.0
+Niger,2010,Cholera,976.0,62.0
+Niger,2013,Polio,0.0,0.0
+Niger,2015,Meningococcal disease,0.0,1143.0
+Niger,2016,Rift Valley fever,0.0,55.0
+Niger,2017,Hepatitis E,0.0,27.0
+Niger,2018,Cholera,3692.0,68.0
+Niger,2018,Polio,6.0,0.0
+Niger,2019,Polio,0.0,0.0
+Nigera,2007,Influenza A,0.0,2.0
+Nigeria,1996,Cholera,24241.0,2338.0
+Nigeria,1996,Meningococcal disease,24156.0,3592.0
+Nigeria,1996,Syndromic: neurological,91407.0,14819.0
+Nigeria,1999,Cholera,1122.0,89.0
+Nigeria,2000,Yellow fever,0.0,0.0
+Nigeria,2001,Cholera,2774.0,132.0
+Nigeria,2004,Cholera,1316.0,76.0
+Nigeria,2004,Meningococcal disease,327.0,46.0
+Nigeria,2005,Measles,1118.0,76.0
+Nigeria,2006,Influenza A,4.0,1.0
+Nigeria,2007,Influenza A,0.0,1.0
+Nigeria,2008,Polio,0.0,0.0
+Nigeria,2009,Meningococcal disease,0.0,1401.0
+Nigeria,2009,Polio,361.0,0.0
+Nigeria,2010,Cholera,29115.0,1191.0
+Nigeria,2010,Toxicity: lead poisoning,0.0,0.0
+Nigeria,2011,Measles,17428.0,0.0
+Nigeria,2011,Toxicity: lead poisoning,0.0,0.0
+Nigeria,2012,Lassa fever,0.0,70.0
+Nigeria,2014,Ebola virus,149.0,41.0
+Nigeria,2015,Meningococcal disease,0.0,50.0
+Nigeria,2016,Lassa fever,273.0,231.0
+Nigeria,2016,Polio,0.0,0.0
+Nigeria,2017,Cholera,1558.0,11.0
+Nigeria,2017,Hepatitis E,146.0,0.0
+Nigeria,2017,Lassa fever,501.0,104.0
+Nigeria,2017,Meningococcal disease,0.0,211.0
+Nigeria,2017,Monkeypox,0.0,0.0
+Nigeria,2017,Yellow fever,0.0,45.0
+Nigeria,2018,Lassa fever,0.0,145.0
+Nigeria,2018,Monkeypox,0.0,9.0
+Nigeria,2018,Polio,0.0,0.0
+Nigeria,2019,Lassa fever,327.0,72.0
+Nigeria,2019,Polio,0.0,0.0
+Nigeria,2019,Yellow fever,6443.0,70.0
+Northern Hemisphere,2003,Influenza A,0.0,0.0
+Northrern Hemisphere,2003,Influenza A,0.0,0.0
+Norway,2001,Legionellosis,19.0,2.0
+Norway,2001,Meningococcal disease,12.0,0.0
+Norway,2011,E. coli,1.0,0.0
+Norway,2011,Hemolytic uremic syndrome,0.0,0.0
+Oman,2000,Meningococcal disease,12.0,3.0
+Oman,2013,MERS-CoV,0.0,0.0
+Oman,2014,MERS-CoV,0.0,75.0
+Oman,2015,MERS-CoV,0.0,1135.0
+Oman,2016,MERS-CoV,0.0,1238.0
+Oman,2017,MERS-CoV,0.0,1455.0
+Oman,2018,MERS-CoV,0.0,0.0
+Oman,2019,MERS-CoV,0.0,1631.0
+Pakistan,1998,Crimean-Congo haemorrhagic fever,4.0,2.0
+Pakistan,2002,Leishmaniasis,5000.0,2238.0
+Pakistan,2007,Influenza A,0.0,3.0
+Pakistan,2008,Influenza A,0.0,2.0
+Pakistan,2010,Cholera,0.0,0.0
+Pakistan,2010,Crimean-Congo haemorrhagic fever,26.0,3.0
+Pakistan,2010,Dengue fever,0.0,15.0
+Pakistan,2011,Polio,85.0,0.0
+Pakistan,2016,Polio,0.0,0.0
+Pakistan,2019,Dengue fever,0.0,75.0
+Pakistan,2019,Human immunodeficiency virus,0.0,0.0
+Pakistan,2019,Polio,86.0,0.0
+Palestine (Gaza Strip & West Bank),2013,Polio,0.0,0.0
+Panama,2000,Hantavirus,12.0,3.0
+Panama,2015,Zika virus disease,0.0,0.0
+Panama,2016,Guillain-Barre syndrome,0.0,0.0
+Panama,2016,Zika virus disease,0.0,1.0
+Papau New Guinea,2018,Polio,0.0,0.0
+Papua New Guinea,2016,Zika virus disease,0.0,0.0
+Papua New Guinea,2019,Polio,0.0,0.0
+Paraguay,2008,Yellow fever,0.0,9.0
+Paraguay,2015,Zika virus disease,0.0,0.0
+Peru,1998,Cholera,5726.0,32.0
+Peru,1999,Yellow fever,49.0,0.0
+Peru,2001,Yellow fever,20.0,2.0
+Peru,2010,Plague,0.0,0.0
+Peru,2016,Oropouche fever,57.0,0.0
+Peru,2016,Zika virus disease,0.0,0.0
+Philippines,1996,Cholera,498.0,9.0
+Philippines,1996,Dengue fever,1485.0,26.0
+Philippines,1996,Ebola virus,0.0,0.0
+Philippines,2003,SARS-CoV,0.0,2.0
+Philippines,2005,Meningococcal disease,209.0,81.0
+Philippines,2009,Ebola virus,0.0,0.0
+Philippines,2015,MERS-CoV,0.0,487.0
+Portugal,2012,Dengue fever,0.0,0.0
+Portugal,2014,Legionellosis,302.0,5.0
+Portugal,2015,West Nile virus,0.0,0.0
+Puerto Rico,2016,Zika virus disease,0.0,0.0
+Qatar,2012,MERS-CoV,1.0,0.0
+Qatar,2013,MERS-CoV,0.0,304.0
+Qatar,2014,MERS-CoV,0.0,319.0
+Qatar,2015,MERS-CoV,0.0,1606.0
+Qatar,2016,MERS-CoV,0.0,1845.0
+Qatar,2017,MERS-CoV,0.0,710.0
+Qatar,2019,MERS-CoV,0.0,1.0
+Republic of Congo,2012,Yellow fever,0.0,0.0
+Republic of Korea,2001,Measles,39537.0,6.0
+Republic of Korea,2004,Influenza A,0.0,0.0
+Republic of Korea,2015,MERS-CoV,41.0,1701.0
+Republic of Korea,2015,Syndromic: respiratory,84.0,0.0
+Republic of Korea,2018,MERS-CoV,1.0,0.0
+Republic of Korea,2019,Measles,150.0,0.0
+Republic of Panama,2019,Hantavirus,0.0,4.0
+Republic of the Congo,1998,Cholera,485.0,83.0
+Republic of the Congo,1998,Syndromic: diarrhoeal,445.0,83.0
+Republic of the Congo,1999,Cholera,0.0,0.0
+Republic of the Congo,2001,Ebola virus,0.0,0.0
+Republic of the Congo,2002,Ebola virus,0.0,99.0
+Republic of the Congo,2002,Syndromic: haemorrhagic,0.0,15.0
+Republic of the Congo,2003,Ebola virus,777.0,1100.0
+Republic of the Congo,2004,Ebola virus,35.0,29.0
+Republic of the Congo,2005,Ebola virus,35.0,36.0
+Republic of the Congo,2009,Yellow fever,1.0,0.0
+Republic of the Congo,2010,Polio,304.0,143.0
+Republic of the Congo,2010,Syndromic: haemorrhagic,0.0,6.0
+Republic of the Congo,2011,Cholera,0.0,6.0
+Republic of the Congo,2018,Yellow fever,0.0,0.0
+Republic of the Sudan,2019,Cholera,278.0,8.0
+Republic of the Sudan,2019,Dengue fever,1197.0,5.0
+Republic of the Sudan,2019,Rift Valley fever,0.0,11.0
+Reunion (France),2018,Dengue fever,0.0,0.0
+Reunion (France),2019,Dengue fever,0.0,14.0
+Romania,1996,Syndromic: neurological,1376.0,87.0
+Romania,2005,Influenza A,0.0,0.0
+Russia,2005,Influenza A,0.0,0.0
+Russian Federation,1998,Anthrax,15.0,2.0
+Russian Federation,1998,Cholera,8.0,0.0
+Russian Federation,1999,Crimean-Congo haemorrhagic fever,65.0,6.0
+Russian Federation,2000,Smallpox,0.0,0.0
+Russian Federation,2010,Polio,14.0,0.0
+Rwanda,1996,Cholera,106.0,10.0
+Rwanda,1996,Syndromic: diarrhoeal,9407.0,38.0
+Rwanda,1997,Syndromic: neurological,10.0,4.0
+Rwanda,1998,Cholera,2900.0,55.0
+Rwanda,1998,Malaria,0.0,0.0
+Rwanda,1999,Cholera,140.0,5.0
+Rwanda,1999,Syndromic: neurological,29.0,11.0
+Rwanda,2000,Meningococcal disease,164.0,10.0
+Rwanda,2002,Meningococcal disease,1315.0,182.0
+Saint Lucia,2016,Zika virus disease,0.0,0.0
+Saint Martin,2013,Chikungunya,0.0,0.0
+Saint Vincent and the Grenadines,2016,Zika virus disease,0.0,0.0
+Samoa,2019,Measles,4217.0,62.0
+Saudi Arabia,2000,Meningococcal disease,424.0,112.0
+Saudi Arabia,2000,Rift Valley fever,603.0,272.0
+Saudi Arabia,2001,Meningococcal disease,327.0,105.0
+Saudi Arabia,2012,MERS-CoV,3.0,4.0
+Saudi Arabia,2013,MERS-CoV,313.0,1758.0
+Saudi Arabia,2014,MERS-CoV,0.0,5199.0
+Saudi Arabia,2015,MERS-CoV,0.0,20820.0
+Saudi Arabia,2016,MERS-CoV,0.0,17004.0
+Saudi Arabia,2017,MERS-CoV,0.0,11253.0
+Saudi Arabia,2018,MERS-CoV,0.0,4753.0
+Saudi Arabia,2019,MERS-CoV,849.0,7508.0
+Senegal,1996,Cholera,3883.0,231.0
+Senegal,1997,Syndromic: neurological,13.0,4.0
+Senegal,1999,Meningococcal disease,2709.0,372.0
+Senegal,2002,Yellow fever,117.0,33.0
+Senegal,2004,Cholera,989.0,8.0
+Senegal,2005,Cholera,52937.0,634.0
+Senegal,2005,Yellow fever,0.0,2.0
+Senegal,2008,Toxicity: lead poisoning,0.0,0.0
+Senegal,2010,Yellow fever,0.0,0.0
+Senegal,2011,Yellow fever,0.0,0.0
+Senegal,2014,Ebola virus,2.0,0.0
+Senegal,2015,Chikungunya,0.0,0.0
+Serbia,2011,Measles,300.0,0.0
+Seychelles,2006,Chikungunya,4650.0,0.0
+Seychelles,2017,Plague,0.0,0.0
+Sierra  Leone,2014,Ebola virus,79.0,6.0
+Sierra Leone,1996,Lassa fever,500.0,226.0
+Sierra Leone,1997,Lassa fever,1391.0,230.0
+Sierra Leone,1998,Cholera,1770.0,55.0
+Sierra Leone,1999,Cholera,134.0,1.0
+Sierra Leone,2000,Dysentery,0.0,0.0
+Sierra Leone,2003,Yellow fever,90.0,10.0
+Sierra Leone,2004,Lassa fever,0.0,0.0
+Sierra Leone,2009,Yellow fever,0.0,0.0
+Sierra Leone,2011,Yellow fever,0.0,0.0
+Sierra Leone,2012,Cholera,81191.0,1254.0
+Sierra Leone,2014,Ebola virus,13842.0,5761.0
+Sierra Leone,2019,Lassa fever,182.0,6.0
+Singapore,1999,Nipah virus,0.0,1.0
+Singapore,2000,Meningococcal disease,4.0,0.0
+Singapore,2001,Meningococcal disease,12.0,2.0
+Singapore,2003,SARS-CoV,0.0,0.0
+Singapore,2019,Monkeypox,0.0,0.0
+Sint Maarten,2016,Zika virus disease,0.0,0.0
+Somalia,1997,Cholera,11529.0,440.0
+Somalia,1998,Cholera,0.0,0.0
+Somalia,1998,Rift Valley fever,0.0,0.0
+Somalia,1999,Cholera,19281.0,399.0
+Somalia,2000,Cholera,2504.0,244.0
+Somalia,2001,Meningococcal disease,49.0,6.0
+Somalia,2002,Meningococcal disease,144.0,33.0
+Somalia,2005,Polio,1.0,0.0
+Somalia,2006,Polio,2.0,0.0
+Somalia,2007,Rift Valley fever,114.0,99.0
+Somalia,2013,Polio,174.0,0.0
+Somalia,2018,Cholera,1613.0,9.0
+Somalia,2018,Polio,0.0,0.0
+Somalia,2019,Polio,3.0,0.0
+South Africa,1996,Crimean-Congo haemorrhagic fever,32.0,1.0
+South Africa,1996,Ebola virus,5.0,1.0
+South Africa,1999,Rift Valley fever,3.0,0.0
+South Africa,2000,Cholera,58217.0,370.0
+South Africa,2001,Cholera,485488.0,1127.0
+South Africa,2003,Cholera,174.0,3.0
+South Africa,2004,Cholera,179.0,5.0
+South Africa,2008,Cholera,1279.0,12.0
+South Africa,2008,Lujo mammarenavirus,0.0,2.0
+South Africa,2008,Unspecified,2.0,2.0
+South Africa,2010,Rift Valley fever,172.0,33.0
+South Africa,2018,Listeriosis,0.0,383.0
+South Sudan,2013,Meningococcal disease,0.0,13.0
+South Sudan,2013,Polio,0.0,0.0
+South Sudan,2014,Cholera,586.0,22.0
+South Sudan,2014,Polio,0.0,0.0
+South Sudan,2016,Syndromic: haemorrhagic,0.0,10.0
+Spain,1996,Meningococcal disease,0.0,2.0
+Spain,1997,Meningococcal disease,1383.0,0.0
+Spain,2001,Legionellosis,1221.0,3.0
+Spain,2009,Influenza A,0.0,0.0
+Spain,2011,E. coli,0.0,0.0
+Spain,2011,Hemolytic uremic syndrome,1.0,0.0
+Spain,2011,Measles,600.0,0.0
+Spain,2013,MERS-CoV,0.0,64.0
+Spain,2014,Ebola virus,1.0,0.0
+Spain,2015,Chikungunya,0.0,0.0
+Spain,2019,Listeriosis,0.0,3.0
+Sri Lanka,1998,Cholera,1264.0,36.0
+Sri Lanka,2005,Syndromic: cardiovascular,0.0,0.0
+Sri Lanka,2017,Dengue fever,80732.0,215.0
+Sudan,1998,Syndromic: respiratory,0.0,100.0
+Sudan,1999,Meningococcal disease,24661.0,2912.0
+Sudan,1999,Syndromic: diarrhoeal,892.0,102.0
+Sudan,1999,Tick-borne relapsing fever,0.0,0.0
+Sudan,2000,Meningococcal disease,2549.0,186.0
+Sudan,2003,Yellow fever,178.0,27.0
+Sudan,2004,Dysentery,1340.0,11.0
+Sudan,2004,Ebola virus,174.0,49.0
+Sudan,2004,Hepatitis E,3056.0,205.0
+Sudan,2005,Meningococcal disease,250.0,24.0
+Sudan,2005,Yellow fever,1499.0,392.0
+Sudan,2006,Cholera,50396.0,1511.0
+Sudan,2006,Meningococcal disease,0.0,31.0
+Sudan,2007,Meningococcal disease,0.0,526.0
+Sudan,2007,Rift Valley fever,1765.0,622.0
+Sudan,2008,Rift Valley fever,698.0,222.0
+Sudan,2009,Polio,0.0,0.0
+Sudan,2012,Yellow fever,0.0,378.0
+Sudan,2013,Yellow fever,0.0,14.0
+Sudan,2018,Chikungunya,13978.0,0.0
+Suriname,2015,Zika virus disease,2.0,0.0
+Suriname,2017,Yellow fever,0.0,0.0
+Sweden,2011,E. coli,28.0,0.0
+Sweden,2011,Hemolytic uremic syndrome,15.0,0.0
+Sweden,2016,Lassa fever,0.0,0.0
+Switzerland,2011,E. coli,2.0,0.0
+Switzerland,2011,Hemolytic uremic syndrome,0.0,0.0
+Syrian Arab Republic,2013,Polio,17.0,0.0
+Syrian Arab Republic,2014,Polio,37.0,0.0
+Syrian Arab Republic,2017,Polio,58.0,0.0
+Tadjikistan,1997,Typhoid,0.0,0.0
+Taiwan,1998,Enterovirus,0.0,96.0
+Taiwan,2003,SARS-CoV,675.0,165.0
+Taiwan,2014,Influenza A,0.0,0.0
+Tajikistan,1996,Typhoid,11516.0,0.0
+Tajikistan,2010,Polio,1059.0,19.0
+Tanzania,1996,Cholera,1100.0,6.0
+Tanzania,1996,Syndromic: neurological,198.0,16.0
+Tanzania,1997,Cholera,0.0,100.0
+Tanzania,2000,Ebola virus,0.0,0.0
+Tanzania,2001,Cholera,109.0,3.0
+Thailand,1996,Diptheria,20.0,0.0
+Thailand,2004,Influenza A,55.0,91.0
+Thailand,2005,Influenza A,60.0,78.0
+Thailand,2006,Botulism,152.0,0.0
+Thailand,2006,Influenza A,0.0,17.0
+Thailand,2015,MERS-CoV,0.0,0.0
+Thailand,2016,MERS-CoV,0.0,0.0
+The Kingdom of Saudi Arabia,2019,MERS-CoV,0.0,3355.0
+The Philippines,2019,Measles,25956.0,381.0
+The Philippines,2019,Polio,0.0,0.0
+The United Kingdom,2013,MERS-CoV,33.0,10.0
+The United States of America,2019,Pseudomonas aeruginosa,20.0,0.0
+Timor-Leste,2005,Dengue fever,824.0,69.0
+Timor-Leste,2005,Syndromic: haemorrhagic,67.0,8.0
+Togo,1996,Cholera,143.0,7.0
+Togo,1996,Syndromic: neurological,688.0,86.0
+Togo,1997,Syndromic: neurological,8456.0,1201.0
+Togo,2003,Polio,1.0,0.0
+Togo,2006,Yellow fever,0.0,0.0
+Togo,2007,Yellow fever,0.0,0.0
+Togo,2016,Lassa fever,0.0,1.0
+Togo,2017,Lassa fever,0.0,0.0
+Togo,2017,Meningococcal disease,0.0,17.0
+Togo,2019,Polio,1.0,0.0
+Tonga,2019,Measles,440.0,0.0
+Trinidad and Tobago,2016,Zika virus disease,0.0,0.0
+Tunisia,2013,MERS-CoV,0.0,2.0
+Tunisia,2019,Measles,3141.0,30.0
+Turkey,2005,Influenza A,0.0,0.0
+Turkey,2006,Crimean-Congo haemorrhagic fever,0.0,20.0
+Turkey,2006,Influenza A,21.0,18.0
+Turkey,2011,Measles,80.0,0.0
+Turkey,2014,MERS-CoV,0.0,319.0
+Turkmenistan,2010,Polio,3.0,0.0
+US Virgin Islands,2016,Zika virus disease,0.0,0.0
+Uganda,1996,Syndromic: neurological,0.0,0.0
+Uganda,1997,O'nyong-nyong fever,0.0,0.0
+Uganda,1998,Cholera,99590.0,4202.0
+Uganda,1998,Malaria,0.0,1000.0
+Uganda,1998,Plague,49.0,0.0
+Uganda,2000,Ebola virus,8883.0,3126.0
+Uganda,2001,Ebola virus,1689.0,899.0
+Uganda,2003,Cholera,277.0,35.0
+Uganda,2006,Meningococcal disease,0.0,23.0
+Uganda,2007,Ebola virus,0.0,38.0
+Uganda,2007,Marburg fever,0.0,0.0
+Uganda,2007,Meningococcal disease,0.0,16.0
+Uganda,2008,Ebola virus,0.0,0.0
+Uganda,2009,Polio,0.0,0.0
+Uganda,2011,Ebola virus,0.0,1.0
+Uganda,2011,Yellow fever,226.0,53.0
+Uganda,2012,Ebola virus,160.0,124.0
+Uganda,2012,Marburg fever,47.0,23.0
+Uganda,2014,Marburg fever,0.0,1.0
+Uganda,2015,Typhoid,0.0,0.0
+Uganda,2016,Yellow fever,0.0,2.0
+Uganda,2017,Marburg fever,11.0,8.0
+Uganda,2019,Ebola virus,0.0,2.0
+Ukraine,2009,Influenza A,252300.0,70.0
+Ukraine,2015,Polio,0.0,0.0
+United Arab Emirates,2013,MERS-CoV,0.0,182.0
+United Arab Emirates,2014,MERS-CoV,0.0,1457.0
+United Arab Emirates,2015,MERS-CoV,0.0,2596.0
+United Arab Emirates,2016,MERS-CoV,0.0,1216.0
+United Arab Emirates,2017,MERS-CoV,0.0,2875.0
+United Arab Emirates,2018,MERS-CoV,0.0,0.0
+United Arab Emirates,2019,MERS-CoV,0.0,851.0
+United Kingdom,1996,E. coli,396.0,11.0
+United Kingdom,1996,Meningococcal disease,0.0,0.0
+United Kingdom,1996,Transmissible spongiform encephalopathy,20.0,0.0
+United Kingdom,2000,Lassa fever,1.0,0.0
+United Kingdom,2000,Meningococcal disease,22.0,8.0
+United Kingdom,2001,Coccidioidomycosis,0.0,0.0
+United Kingdom,2001,Meningococcal disease,82.0,29.0
+United Kingdom,2003,Lassa fever,0.0,0.0
+United Kingdom,2007,Influenza A,0.0,0.0
+United Kingdom,2009,Influenza A,0.0,0.0
+United Kingdom,2011,E. coli,1.0,0.0
+United Kingdom,2011,Hemolytic uremic syndrome,2.0,0.0
+United Kingdom,2012,MERS-CoV,0.0,0.0
+United Kingdom,2014,Ebola virus,1.0,0.0
+United Kingdom,2016,E. coli,158.0,2.0
+United Kingdom,2019,Gonorrhea,0.0,0.0
+United Kingdom of Great Britain and Northern Ireland,2018,MERS-CoV,0.0,0.0
+United Republic of Tanzania,1998,Cholera,35591.0,2025.0
+United Republic of Tanzania,1998,Malaria,0.0,0.0
+United Republic of Tanzania,2002,Meningococcal disease,0.0,13.0
+United Republic of Tanzania,2007,Rift Valley fever,264.0,121.0
+United Republic of Tanzania,2015,Cholera,10842.0,163.0
+United Republic of Tanzania,2018,Cholera,33421.0,542.0
+United Republic of Tanzania,2019,Ebola virus,0.0,0.0
+United States,1996,Ebola virus,0.0,0.0
+United States,1999,St. Louis encephalitis,47.0,3.0
+United States,2000,Meningococcal disease,3.0,0.0
+United States,2001,Anthrax,50.0,11.0
+United States,2002,West Nile virus,21255.0,1114.0
+United States,2006,Botulism,2.0,0.0
+United States,2015,Lassa fever,0.0,1.0
+United States,2015,Measles,121.0,0.0
+United States of America,1999,St. Louis encephalitis,0.0,3.0
+United States of America,1999,West Nile virus,0.0,5.0
+United States of America,1999,Yellow fever,1.0,1.0
+United States of America,2000,Leptospirosis,37.0,0.0
+United States of America,2004,Salmonella enterica,32.0,0.0
+United States of America,2007,Tuberculosis,1.0,0.0
+United States of America,2009,Influenza A,0.0,0.0
+United States of America,2011,Influenza A,0.0,0.0
+United States of America,2011,Measles,213.0,0.0
+United States of America,2012,Hantavirus,14.0,5.0
+United States of America,2014,Ebola virus,1.0,0.0
+United States of America,2014,Enterovirus,0.0,0.0
+United States of America,2014,MERS-CoV,0.0,364.0
+United States of America,2016,Chikungunya,1.0,0.0
+United States of America,2016,Elizabethkingia anophelis,57.0,18.0
+United States of America,2016,Guillain-Barre syndrome,2.0,1.0
+United States of America,2016,Salmonella enterica,124.0,0.0
+United States of America,2016,Zika virus disease,1.0,0.0
+United States of America,2017,Hantavirus,11.0,0.0
+United States of America,2017,Hepatitis A,0.0,0.0
+Uruguay,2016,Dengue fever,0.0,0.0
+Uzbekistan,2010,Polio,1.0,0.0
+Venezuela,1996,Dengue fever,293.0,0.0
+Venezuela,1998,Yellow fever,14.0,3.0
+Venezuela,2004,Yellow fever,0.0,1.0
+Venezuela,2015,Zika virus disease,0.0,0.0
+Venezuela,2016,Guillain-Barre syndrome,0.0,0.0
+Vietnam,2003,SARS-CoV,21.0,0.0
+Vietnam,2004,Influenza A,131.0,199.0
+Vietnam,2005,Influenza A,716.0,325.0
+Vietnam,2007,Influenza A,0.0,49.0
+Vietnam,2008,Cholera,2490.0,0.0
+Vietnam,2008,Influenza A,0.0,250.0
+Vietnam,2009,Influenza A,0.0,483.0
+Vietnam,2010,Influenza A,0.0,234.0
+Vietnam,2012,Influenza A,241.0,243.0
+Vietnam,2016,Zika virus disease,0.0,0.0
+West Africa,1997,Syndromic: neurological,24798.0,2933.0
+West Africa,1998,Cholera,0.0,0.0
+West Africa,2009,Polio,0.0,0.0
+Yemen,2000,Rift Valley fever,568.0,205.0
+Yemen,2005,Polio,179.0,0.0
+Yemen,2014,MERS-CoV,0.0,1.0
+Yemen,2017,Diptheria,0.0,35.0
+Zaire,1996,Cholera,2101.0,235.0
+Zaire,1996,Syndromic: neurological,69.0,5.0
+Zaire,1997,Cholera,56.0,2.0
+Zaire,1997,Monkeypox,0.0,0.0
+Zambia,1997,Plague,357.0,48.0
+Zambia,1999,Cholera,11406.0,403.0
+Zambia,2001,Plague,23.0,14.0
+Zambia,2003,Cholera,68.0,3.0
+Zambia,2004,Cholera,5556.0,249.0
+Zambia,2008,Lujo mammarenavirus,0.0,1.0
+Zambia,2008,Unspecified,1.0,1.0
+Zambia,2011,Measles,5397.0,0.0
+Zambia,2017,Cholera,547.0,15.0
+Zambia,2019,Polio,1.0,0.0
+Zimbabwe,1997,Syndromic: neurological,0.0,0.0
+Zimbabwe,1998,Cholera,335.0,12.0
+Zimbabwe,1999,Syndromic: haemorrhagic,0.0,0.0
+Zimbabwe,2008,Cholera,38232.0,2002.0
+Zimbabwe,2009,Cholera,151164.0,15144.0
+Zimbabwe,2018,Cholera,8535.0,82.0

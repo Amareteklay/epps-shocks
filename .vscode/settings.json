@@ -1,6 +1,0 @@
-{
-  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
-  "jupyter.jupyterServerType": "local",
-  "files.eol": "\r\n",
-  "editor.formatOnSave": true
-}
