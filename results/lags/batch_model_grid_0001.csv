@@ -1,0 +1,16 @@
+spec_id,scope,dv,formula,n,engine,aic,aicc,bic,logLik,converged,error
+a858c9858350183bf214cdde8ee0cd9e,Global,outbreak,outbreak ~ Year + scale(Year) + (1|Country),3773,glmmTMB,3944.5145706922476,NA,3963.2214478521405,-1969.2572853461238,TRUE,NA
+7b917e1406249a0d3057d3b0c0165505,Global,outbreak,outbreak ~ outbreak_lag + scale(Year) + (1|Country),3773,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+d2922d22a4073643bf8a67fa0499b4a9,Global,outbreak,outbreak ~ Year + outbreak_lag + scale(Year) + (1|Country),3773,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+7a870cd4eab1fbf89dc0fe4d0a65df7a,Africa,outbreak,outbreak ~ Year + scale(Year) + (1|Country),1140,glmmTMB,1393.6131012417338,NA,1408.7294518658994,-693.8065506208669,TRUE,NA
+fd332471ef79e82620b8800112ce2858,Africa,outbreak,outbreak ~ outbreak_lag + scale(Year) + (1|Country),1140,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+c2cf79bad245ca746be00577fc49d81a,Africa,outbreak,outbreak ~ Year + outbreak_lag + scale(Year) + (1|Country),1140,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+e50c0513b72b09149aee1aa10153a8be,Asia,outbreak,outbreak ~ Year + scale(Year) + (1|Country),1014,glmmTMB,992.939357441213,NA,1007.7043319936664,-493.4696787206065,TRUE,NA
+cf89b34f0b8fd6b1d62f82cd722b0e37,Asia,outbreak,outbreak ~ outbreak_lag + scale(Year) + (1|Country),1014,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+ba228b92d44a5c83a5700097129102d0,Asia,outbreak,outbreak ~ Year + outbreak_lag + scale(Year) + (1|Country),1014,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+eec4c3ab733fbaee0f8c4b110d267f3a,Europe,outbreak,outbreak ~ Year + scale(Year) + (1|Country),872,glmmTMB,752.94629433171,NA,767.258662603437,-373.473147165855,TRUE,NA
+4593f43ac908f2926f800bc3bf057b14,Europe,outbreak,outbreak ~ outbreak_lag + scale(Year) + (1|Country),872,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+7f30ac738d2fa8239ee3c731ad92440c,Europe,outbreak,outbreak ~ Year + outbreak_lag + scale(Year) + (1|Country),872,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+735bc8389c0380b6a5706c068bc3b9bc,America,outbreak,outbreak ~ Year + scale(Year) + (1|Country),637,glmmTMB,699.097000366934,NA,712.4673093336505,-346.548500183467,TRUE,NA
+9de8aa4ac83159d32a5a8e1214cee403,America,outbreak,outbreak ~ outbreak_lag + scale(Year) + (1|Country),637,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found
+ae50824cce666830958eea3e2fae8306,America,outbreak,outbreak ~ Year + outbreak_lag + scale(Year) + (1|Country),637,glmmTMB,NA,NA,NA,NA,FALSE,object 'outbreak_lag' not found

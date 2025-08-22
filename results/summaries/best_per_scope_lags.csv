@@ -1,0 +1,6 @@
+scope,spec_id,dv,formula,n,engine,aic,aicc,bic,logLik,converged,error
+Africa,7a870cd4eab1fbf89dc0fe4d0a65df7a,outbreak,outbreak ~ Year + scale(Year) + (1|Country),1140,glmmTMB,1393.6131012417338,,1408.7294518658994,-693.8065506208669,True,
+America,735bc8389c0380b6a5706c068bc3b9bc,outbreak,outbreak ~ Year + scale(Year) + (1|Country),637,glmmTMB,699.097000366934,,712.4673093336505,-346.548500183467,True,
+Asia,e50c0513b72b09149aee1aa10153a8be,outbreak,outbreak ~ Year + scale(Year) + (1|Country),1014,glmmTMB,992.939357441213,,1007.7043319936664,-493.4696787206065,True,
+Europe,eec4c3ab733fbaee0f8c4b110d267f3a,outbreak,outbreak ~ Year + scale(Year) + (1|Country),872,glmmTMB,752.94629433171,,767.258662603437,-373.473147165855,True,
+Global,a858c9858350183bf214cdde8ee0cd9e,outbreak,outbreak ~ Year + scale(Year) + (1|Country),3773,glmmTMB,3944.514570692248,,3963.221447852141,-1969.257285346124,True,

@@ -123,7 +123,9 @@ def build_full_panel(shocks_df, don_df, *, max_lag = MAX_LAG):
                   .rename(columns={"count": "Infectious_disease"})
     )
     panel = panel.merge(dv, on=["Country", "Continent", "Year"], how="left")
+
     panel["Infectious_disease"] = panel["Infectious_disease"].fillna(0).astype(int)
+    panel["outbreak"] = (panel["Infectious_disease"].fillna(0).astype(float) > 0).astype(int)
 
     don_slim = (
         don_df.groupby(["Country", "Year"], as_index=False)[["CasesTotal", "Deaths"]]
